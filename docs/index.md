@@ -1,6 +1,6 @@
 Here are a few things you need to know for FPS this week:
 
-# Small Group Guide
+# Small Group Guides
 **[ Realest Week 2: Relationships ]( group-guides/Realest Week 2.pdf )**
 
 # Identifying Student Influencers
