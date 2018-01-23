@@ -1,2 +1,2 @@
 # fps-leader
-source for fps-leader.com - both site html files and md files used to generate site using mkdocs
+markdown files used to generate fps-leader.com using mkdocs
