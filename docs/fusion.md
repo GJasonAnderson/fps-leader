@@ -9,8 +9,8 @@ Fusion is an overnight weekend retreat that begins on Friday evening and ends on
 Our top priority now is getting all leaders registered and submitting your host home information (links to both online forms can be found below). Register yourself as a leader ASAP and submit your host home information by the end of this week!
 
 ## Registration Links
-- [ Student Registration is $50 ]( https://fpctystn.infellowship.com/Forms/364760 )
-- [ Leader Registration is FREE ]( https://fpctystn.infellowship.com/Forms/364761 )
+- <s>[ Student Registration is $50 ]( https://fpctystn.infellowship.com/Forms/364760 )</s> Student Registration is now CLOSED
+- <s>[ Leader Registration is FREE ]( https://fpctystn.infellowship.com/Forms/364761 )</s> Leader Registration is now CLOSED
 - [ Host Home Registration ]( https://fpstudents.wufoo.com/forms/pel-fusion-host-homes-2018/ )
 
 ## Where Do You Stand? Let Us Know!
