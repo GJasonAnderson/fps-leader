@@ -10,6 +10,7 @@ Our top priority is getting all leaders registered and submitting your host home
 
 ## Registration Links
 *Some links were down temporarily due to a software transition; they are all working now.*  
+
 - [ Student Registration is $50 ]( https://my.faithpromise.org/portal/event_signup.aspx?id=420353 )
 - [ Leader Registration is FREE ]( https://my.faithpromise.org/portal/event_signup.aspx?id=421230 )
 - [ Host Home Registration ]( https://fpstudents.wufoo.com/forms/pel-fusion-host-homes-2018/ )
