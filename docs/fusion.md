@@ -1,4 +1,4 @@
-# Fusion Weekend | February 23-25 
+# Fusion Weekend | February 23-25
 <button id="MyButton" onclick="myFunction()">What is Fusion?</button>
 <div id="MyToggleDiv" style="display: none;">
 Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, some meals, and trying to get some sleep every night. Live worship services are held each night at the Pellissippi campus. Schedules and more details will be communicated as the event approaches.
@@ -6,12 +6,17 @@ Fusion is an overnight weekend retreat that begins on Friday evening and ends on
 
 ## Tasks To Do Now
 **Fusion begins <span id="MyTimer"></span>**    
-Our top priority now is getting all leaders registered and submitting your host home information (links to both online forms can be found below). Register yourself as a leader ASAP and submit your host home information by the end of this week!
+Our top priority is getting all leaders registered and submitting your host home information ASAP (links to both online forms can be found below). **The deadline for student registrations is February 14th at midnight!**
 
 ## Registration Links
-- <s>[ Student Registration is $50 ]( https://fpctystn.infellowship.com/Forms/364760 )</s> Student Registration is now CLOSED
-- <s>[ Leader Registration is FREE ]( https://fpctystn.infellowship.com/Forms/364761 )</s> Leader Registration is now CLOSED
+*Some links were down temporarily due to a software transition; they are all working now.*  
+- [ Student Registration is $50 ]( https://my.faithpromise.org/portal/event_signup.aspx?id=420353 )
+- [ Leader Registration is FREE ]( https://my.faithpromise.org/portal/event_signup.aspx?id=421230 )
 - [ Host Home Registration ]( https://fpstudents.wufoo.com/forms/pel-fusion-host-homes-2018/ )
+
+# Fusion Lobby Presence
+**January 29-30th & February 3rd-4th**
+On both of these weekends, we will have tables and signs set up in the lobby to push Fusion and help students sign up. If you can be present for any of the services on these weekends, we would greatly appreciate it!
 
 ## Where Do You Stand? Let Us Know!
 <form name="fusion-status" netlify>
@@ -34,21 +39,21 @@ var x = setInterval(function() {
 
     // Get todays date and time
     var now = new Date().getTime();
-    
+
     // Find the distance between now an the count down date
     var distance = countDownDate - now;
-    
+
     // Time calculations for days, hours, minutes and seconds
     var days = Math.floor(distance / (1000 * 60 * 60 * 24));
     var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
     var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-    
+
     // Output the result in an element with id="MyTimer"
     document.getElementById("MyTimer").innerHTML = "in " + days + " days " + hours + " hours "
     + minutes + " min " + seconds + " sec ";
-    
-    // If the count down is over, write some text 
+
+    // If the count down is over, write some text
     if (distance < 0) {
         clearInterval(x);
         document.getElementById("MyTimer").innerHTML = "NOW!";
