@@ -15,7 +15,7 @@ Our top priority is getting all leaders registered and submitting your host home
 - [ Leader Registration is FREE ]( https://my.faithpromise.org/portal/event_signup.aspx?id=421230 )
 - [ Host Home Registration ]( https://fpstudents.wufoo.com/forms/pel-fusion-host-homes-2018/ )
 
-# Fusion Lobby Presence
+## Fusion Lobby Presence
 **January 29-30th & February 3rd-4th**  
 On both of these weekends, we will have tables and signs set up in the lobby to push Fusion and help students sign up. If you can be present for any of the services on these weekends, we would greatly appreciate it!
 
