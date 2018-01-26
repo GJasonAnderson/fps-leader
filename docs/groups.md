@@ -1,3 +1,5 @@
+_Italics_ means that position is either vacant or soon to be filled by a new volunteer in training.  
+
 # 8th Grade Groups  
 
 | Leader | Apprentice | Group Size |
@@ -19,11 +21,11 @@
 
 # Coaching
 
-| Coach  | Leaders                     |
-| ------ | --------------------------- |
-| Gary   | Chad, Tyler, David, Mark    |
-| Aaron  | Marc, Nelson, John, Brandon |
-| Callen | Jordan, Chris, Holden       |
+| Coach  | Leaders                                     |
+| ------ | ------------------------------------------- |
+| Gary   | Chad, Tyler, David, Mark, Jacob             |
+| Aaron  | Marc, Nelson, Jordan, John, Chris, Brandon  |
+| Callen | Holden                                      |
 
 # Senior Coaching
 
