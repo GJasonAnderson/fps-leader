@@ -16,8 +16,8 @@ Our top priority is getting all leaders registered and submitting your host home
 - [ Host Home Registration ]( https://fpstudents.wufoo.com/forms/pel-fusion-host-homes-2018/ )
 
 ## Fusion Lobby Presence
-**January 27-28th & February 3rd-4th**  
-On both of these weekends, we will have tables and signs set up in the lobby to push Fusion and help students sign up. If you can be present for any of the services on these weekends, we would greatly appreciate it!
+**February 3rd-4th**  
+FPS will have tables and signs set up in the lobby to push Fusion and help students sign up at all services this weekend. If you can help us our by manning the table and greeting families and students, we would greatly appreciate it!
 
 ## Where Do You Stand? Let Us Know!
 <form name="fusion-status" netlify>
@@ -30,6 +30,7 @@ On both of these weekends, we will have tables and signs set up in the lobby to 
 		<input type="radio" name="response" value="no">Sorry - I can't make it at all this year.  
 	<button type="submit">Send</button>
 </form>
+*Responses so far from: Gary, Jacob*
 
 <script>
 // Set the date we're counting down to
