@@ -1,7 +1,7 @@
 site_name: FPS-Leader.com
 site_url: https://fps-leader.com
 pages:
-    - This Wednesday 2/7: index.md
+    - This Wednesday 2/14: index.md
     - Fusion 2018: fusion.md
     - Movement 2018: movement.md
 theme: readthedocs

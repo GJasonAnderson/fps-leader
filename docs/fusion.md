@@ -6,7 +6,7 @@ Fusion is an overnight weekend retreat that begins on Friday evening and ends on
 
 ## Tasks To Do Now
 **Fusion begins <span id="MyTimer"></span>**    
-Our top priority is getting all leaders registered and submitting your host home information ASAP (links to both online forms can be found below). **The deadline for student registrations is February 14th at midnight!**
+We still have several small group leaders who are not signed up for Fusion. We can’t place students in their groups unless we know that their group is going to exist at Fusion. Our top priority is getting all leaders registered and submitting your host home information ASAP (links to both online forms can be found below). **The deadline for student registrations is February 14th at midnight!**
 
 ## Registration Links
 *Some links were down temporarily due to a software transition; they are all working now.*  
@@ -14,10 +14,6 @@ Our top priority is getting all leaders registered and submitting your host home
 - [ Student Registration is $50 ]( https://my.faithpromise.org/portal/event_signup.aspx?id=420353 )
 - [ Leader Registration is FREE ]( https://my.faithpromise.org/portal/event_signup.aspx?id=421230 )
 - [ Host Home Registration ]( https://fpstudents.wufoo.com/forms/pel-fusion-host-homes-2018/ )
-
-## Fusion Lobby Presence
-**February 3rd-4th**  
-FPS will have tables and signs set up in the lobby to push Fusion and help students sign up at all services this weekend. If you can help us our by manning the table and greeting families and students, we would greatly appreciate it!
 
 ## Where Do You Stand? Let Us Know!
 <form name="fusion-status" netlify>
