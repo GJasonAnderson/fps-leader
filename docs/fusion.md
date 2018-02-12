@@ -15,6 +15,9 @@ We still have several small group leaders who are not signed up for Fusion. We c
 - [ Leader Registration is FREE ]( https://my.faithpromise.org/portal/event_signup.aspx?id=421230 )
 - [ Host Home Registration ]( https://fpstudents.wufoo.com/forms/pel-fusion-host-homes-2018/ )
 
+## Parent Info Meeting
+The mandatory Fusion parent meeting is on February 17th & 18th at the Pellissippi campus in Room 222 during all services - they just pick which date and service time works best.
+
 ## Where Do You Stand? Let Us Know!
 <form name="fusion-status" netlify>
 	Your Name: <input type="text" name="name">  
