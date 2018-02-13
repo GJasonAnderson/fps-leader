@@ -8,6 +8,9 @@ Fusion is an overnight weekend retreat that begins on Friday evening and ends on
 **Fusion begins <span id="MyTimer"></span>**    
 We still have several small group leaders who are not signed up for Fusion. We can’t place students in their groups unless we know that their group is going to exist at Fusion. Our top priority is getting all leaders registered and submitting your host home information ASAP (links to both online forms can be found below). **The deadline for student registrations is February 14th at midnight!**
 
+## Fusion Leader Guide
+This year's [ Leader Guide ]( Fusion Leader Guide.pdf ) is available now - hard copies will also be available on Wednesday.
+
 ## Registration Links
 *Some links were down temporarily due to a software transition; they are all working now.*  
 
