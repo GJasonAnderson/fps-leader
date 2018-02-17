@@ -6,21 +6,33 @@ Fusion is an overnight weekend retreat that begins on Friday evening and ends on
 
 ## Tasks To Do Now
 **Fusion begins <span id="MyTimer"></span>**    
-We still have several small group leaders who are not signed up for Fusion. We can’t place students in their groups unless we know that their group is going to exist at Fusion. Our top priority is getting all leaders registered and submitting your host home information ASAP (links to both online forms can be found below). **The deadline for student registrations is February 14th at midnight!**
+- Last minute leader and host home registration links are below if you haven't already done so
+- Review your Host Home Info Card that will be sent by email / text on Friday 2/16 and notify your coach IMMEDIATELY if any corrections below are needed before they are distributed at the parent info meetings
+ - Is the host home address correct?
+ - Is the host home phone number correct?
+ - Is there enough room in your host home? (Please contact host home for all of these, if needed)
+ - Is the leader information correct?
+ - Are the students correct?
+ - Do you have enough seatbelts?
+- Plan to attend a Parent Info Meeting; details below
 
 ## Fusion Leader Guide
-This year's [ Leader Guide ]( Fusion Leader Guide 2018.pdf ) is available now - hard copies will also be available on Wednesday.
+This year's [ Fusion Leader Guide ]( fusion\Fusion Leader Guide 2018.pdf ) is available now - please review it and let your coach know if you have any questions.
 
 ## Registration Links
-*Some links were down temporarily due to a software transition; they are all working now.*  
 
-- [ Student Registration is $50 ]( https://my.faithpromise.org/portal/event_signup.aspx?id=420353 )
-- [ Leader Registration is FREE ]( https://my.faithpromise.org/portal/event_signup.aspx?id=421230 )
+- Student Registration is <s>$50</s> CLOSED
+- [ Leader Registration is FREE and STILL OPEN ]( https://my.faithpromise.org/portal/event_signup.aspx?id=421230 )
 - [ Host Home Registration ]( https://fpstudents.wufoo.com/forms/pel-fusion-host-homes-2018/ )
+- [ Email Taylor Henry ]( mailto:taylorh@faithpromise.org ) if you are just now registering your host home
 
 ## Parent Info Meeting
-The mandatory Fusion parent meeting is on February 17th & 18th at the Pellissippi campus in Room 222 during all services - they just pick which date and service time works best.
+The mandatory Fusion parent meeting is on February 17th & 18th at the Pellissippi campus in Room 222 during all services - just pick which date and service time works best. **Leaders are highly encouraged to attend a meeting session, preferably with your host home family.** The two busiest meetings will be Sunday at 10:00 AM & 11:30 AM; please try attending on Saturday at 5:00 PM, 6:30 PM, or Sunday at 8:45 AM if you can.
 
+## Fusion Leader Meeting
+This year we will *not* be having a leader meeting for Fusion; however, your coach and/or veteran co-leader should be able to answer any questions you may have, and attending a parent info meeting detailed above would be very helpful.
+
+<!--
 ## Where Do You Stand? Let Us Know!
 <form name="fusion-status" netlify>
 	Your Name: <input type="text" name="name">  
@@ -33,6 +45,7 @@ The mandatory Fusion parent meeting is on February 17th & 18th at the Pellissipp
 	<button type="submit">Send</button>
 </form>
 *Responses so far from: Gary, Jacob*
+-->
 
 <script>
 // Set the date we're counting down to
