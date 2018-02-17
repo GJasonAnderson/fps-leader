@@ -11,7 +11,7 @@ Fusion is an overnight weekend retreat that begins on Friday evening and ends on
 - Plan to attend a Parent Info Meeting; details below
 
 ## Host Home Info Card
-**Review your Host Home Info Card that will be sent by email / text on Friday 2/16 and notify your coach IMMEDIATELY if any corrections below are needed before they are distributed at the parent info meetings:**
+**Review your Host Home Info Card that will be sent by email / text on Friday 2/16 and notify your coach IMMEDIATELY if any corrections below are needed before they are distributed at the parent info meetings:**  
 - Is the host home address correct?
 - Is the host home phone number correct?
 - Is there enough room in your host home? (Please contact host home for all of these, if needed)
