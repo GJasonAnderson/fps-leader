@@ -8,12 +8,12 @@ Fusion is an overnight weekend retreat that begins on Friday evening and ends on
 **Fusion begins <span id="MyTimer"></span>**    
 - Last minute leader and host home registration links are below if you haven't already done so
 - Review your Host Home Info Card that will be sent by email / text on Friday 2/16 and notify your coach IMMEDIATELY if any corrections below are needed before they are distributed at the parent info meetings
- - Is the host home address correct?
- - Is the host home phone number correct?
- - Is there enough room in your host home? (Please contact host home for all of these, if needed)
- - Is the leader information correct?
- - Are the students correct?
- - Do you have enough seatbelts?
+&nbsp; - Is the host home address correct?
+&nbsp; - Is the host home phone number correct?
+&nbsp; - Is there enough room in your host home? (Please contact host home for all of these, if needed)
+&nbsp; - Is the leader information correct?
+&nbsp; - Are the students correct?
+&nbsp; - Do you have enough seatbelts?
 - Plan to attend a Parent Info Meeting; details below
 
 ## Fusion Leader Guide
