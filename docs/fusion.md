@@ -1,8 +1,10 @@
 # Fusion Weekend | February 23-25
+<!--
 <button id="MyButton" onclick="myFunction()">What is Fusion?</button>
 <div id="MyToggleDiv" style="display: none;">
 Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, some meals, and trying to get some sleep every night. Live worship services are held each night at the Pellissippi campus. Schedules and more details will be communicated as the event approaches.
 </div>
+-->
 
 **Fusion begins <span id="MyTimer"></span>**    
 
