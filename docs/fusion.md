@@ -7,8 +7,8 @@ Fusion is an overnight weekend retreat that begins on Friday evening and ends on
 **Fusion begins <span id="MyTimer"></span>**    
 
 ## Emergency Contacts
-Phone: 865-251-2590 x1305
-Email: fpsglobal@faithpromise.org
+Phone: 865-251-2590 x1305  
+Email: [ fpsglobal@faithpromise.org ]( mailto:fpsglobal@faithpromise.org )
 
 ## Leader Guide
 [ Fusion Leader Guide 2018.pdf ]( fusion\Fusion Leader Guide 2018.pdf )
@@ -20,6 +20,7 @@ The final mandatory Fusion parent meeting will be this Wednesday at 8:00 PM at t
 
 ### Friday February 23
 
+|----------|-------------------------------|
 | 6:00 PM  | Leaders arrive at Host Homes  |
 | 6:30 PM  | Students arrive at Host Homes |
 | 8:00 PM  | Large Group Session #1 @ PEL  |
