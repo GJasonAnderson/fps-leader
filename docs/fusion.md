@@ -6,35 +6,44 @@ Fusion is an overnight weekend retreat that begins on Friday evening and ends on
 
 **Fusion begins <span id="MyTimer"></span>**    
 
-## Tasks To Do Now
-- Last minute leader and host home registration links are below if you haven't already done so
-- Plan to attend a Parent Info Meeting; details below
+## Emergency Contacts
+Phone: 865-251-2590 x1305
+Email: fpsglobal@faithpromise.org
 
-## Host Home Info Card
-**Review your Host Home Info Card that will be sent by email / text on Friday 2/16 and notify your coach IMMEDIATELY if any corrections below are needed before they are distributed at the parent info meetings:**  
+## Leader Guide
+[ Fusion Leader Guide 2018.pdf ]( fusion\Fusion Leader Guide 2018.pdf )
 
-- Is the host home address correct?
-- Is the host home phone number correct?
-- Is there enough room in your host home? (Please contact host home for all of these, if needed)
-- Is the leader information correct?
-- Are the students correct?
-- Do you have enough seatbelts?
+## Parent Info Meetings
+The final mandatory Fusion parent meeting will be this Wednesday at 8:00 PM at the Pellissippi campus.
 
-## Fusion Leader Guide
-This year's [ Fusion Leader Guide ]( fusion\Fusion Leader Guide 2018.pdf ) is available now - please review it and let your coach know if you have any questions.
+## Schedule
 
-## Registration Links
+### Friday February 23
 
-- Student Registration is <s>$50</s> CLOSED
-- [ Leader Registration is FREE and STILL OPEN ]( https://my.faithpromise.org/portal/event_signup.aspx?id=421230 )
-- [ Host Home Registration ]( https://fpstudents.wufoo.com/forms/pel-fusion-host-homes-2018/ )
-- [ Email Taylor Henry ]( mailto:taylorh@faithpromise.org ) if you are just now registering your host home
+| 6:00 PM  | Leaders arrive at Host Homes  |
+| 6:30 PM  | Students arrive at Host Homes |
+| 8:00 PM  | Large Group Session #1 @ PEL  |
+| 10:00 PM | Return to Host Homes          |
+| 10:30 PM | Small Group Session #1        |
 
-## Parent Info Meeting
-The mandatory Fusion parent meeting is on February 17th & 18th at the Pellissippi campus in Room 222 during all services - just pick which date and service time works best. **Leaders are highly encouraged to attend a meeting session, preferably with your host home family.** The two busiest meetings will be Sunday at 10:00 AM & 11:30 AM; please try attending on Saturday at 5:00 PM, 6:30 PM, or Sunday at 8:45 AM if you can.
+### Saturday February 24
 
-## Fusion Leader Meeting
-This year we will *not* be having a leader meeting for Fusion; however, your coach and/or veteran co-leader should be able to answer any questions you may have, and attending a parent info meeting detailed above would be very helpful.
+| 8:30 AM           | Breakfast at Host Homes                 |
+| 10:00 AM          | Large Group Session #2 @ PEL            |
+| 12:00 PM          | Lunch: MS @ KMS, HS @ HVA               |
+| 1:30 PM - 5:30 PM | Afternoon Activities & Prayer Session   |
+| 6:00 PM           | Dinner at Host Homes                    |
+| 6:30 PM - 7:30 PM | Prayer Service @ Farragut HS (optional) |
+| 8:30 PM           | Large Group Session #3 @ PEL            |
+| 11:00 PM          | Return to Host Homes                    |
+
+### Sunday February 25
+
+| 8:00 AM  | Breakfast at Host Homes                      |
+| 8:30 AM  | Small Group Session #2                       |
+| 9:00 AM  | Clean Host Home, Pack & Get Ready for Church |
+| 10:00 AM | MS Groups Attend 2nd Service @ PEL           |
+| 11:30 AM | HS Groups Attend 3rd Service @ PEL           |
 
 <!--
 ## Where Do You Stand? Let Us Know!
