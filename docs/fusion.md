@@ -44,6 +44,7 @@ The final mandatory Fusion parent meeting will be this Wednesday at 8:00 PM at t
 ### Sunday February 25
 
 | Time     | Event                                        |
+| -------- | -------------------------------------------- |
 | 8:00 AM  | Breakfast at Host Homes                      |
 | 8:30 AM  | Small Group Session #2                       |
 | 9:00 AM  | Clean Host Home, Pack & Get Ready for Church |
