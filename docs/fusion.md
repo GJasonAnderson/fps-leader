@@ -20,7 +20,8 @@ The final mandatory Fusion parent meeting will be this Wednesday at 8:00 PM at t
 
 ### Friday February 23
 
-|----------|-------------------------------|
+| Time     | Event                         |
+| -------- | ----------------------------- |
 | 6:00 PM  | Leaders arrive at Host Homes  |
 | 6:30 PM  | Students arrive at Host Homes |
 | 8:00 PM  | Large Group Session #1 @ PEL  |
@@ -29,6 +30,7 @@ The final mandatory Fusion parent meeting will be this Wednesday at 8:00 PM at t
 
 ### Saturday February 24
 
+| ----------------- | --------------------------------------- |
 | 8:30 AM           | Breakfast at Host Homes                 |
 | 10:00 AM          | Large Group Session #2 @ PEL            |
 | 12:00 PM          | Lunch: MS @ KMS, HS @ HVA               |
