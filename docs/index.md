@@ -49,7 +49,7 @@ Email: [ fpsglobal@faithpromise.org ]( mailto:fpsglobal@faithpromise.org )
 3. Every student **MUST have a seatbelt** when being transported.
 4. **We want to love on our host home providers** and thank them well. Please talk to students about honoring these incredible people. Also, please have your group **leave a thank you card** at the end of the weekend. **Faith Promise cards will be available** at the info desk Friday and Saturday.
 5. When students arrive at the host home tomorrow, **please have parents sign them in on the sign in sheet. <font color=red>Do not leave until all students on your list are accounted for.**</font>
-6. **Parents will drop of Time Out cards** to you at drop off if their child needs to leave at any point during the weekend. Leaders, please keep these and make sure to **check the ID of the person who picks them up** and make sure it matches the name on the time out card.
+6. **Parents will turn their Time Out cards in to you at drop off** if their child needs to leave at any point during the weekend. Leaders, please keep these and make sure to **check the ID of the person who picks them up** and make sure it matches the name on the time out card.
 7. **Parents will also drop off medications** for the students with you. Please make sure these get administered and are **stored in a safe place** where students cannot get to them.
 8. We will have a **Leader Lounge with snacks and drinks** just for you in the fishbowl all weekend. Please stop by and catch your breath from time to time and know <font color=red>**we love you!**</font>
 9. **Some host homes will have staff visitors on Friday and Saturday night.** We will try not to stay too long, but will show up at as many host homes as we can to love on the kids.
