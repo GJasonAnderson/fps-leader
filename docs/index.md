@@ -42,7 +42,7 @@ Email: [ fpsglobal@faithpromise.org ]( mailto:fpsglobal@faithpromise.org )
 | 10:00 AM | MS Groups Attend 2nd Service @ PEL           |
 | 11:30 AM | HS Groups Attend 3rd Service @ PEL           |
 
-## Ten Things Every Fusion Leader Should Know
+## Top 10 Things Every Fusion Leader Should Know
 
 1. Friday night Pastor Zac will be speaking an giving an invitation for salvation. We will need ALL Leaders to head back to the lobby hallway when Zac calls for us. Staff will be waiting on you with counseling books that will guide you through leading students to the Lord. Please be ready for this so that we can love on students well in the moment.
 2. Many students will decide to take the step of Baptism this weekend. Leaders, please talk to your students about this, especially with those who will give their life to Christ during Fusion. Please make sure they understand what baptism is for and make sure wee have parent permission to baptize them this weekend during Sunday service. Once you have this and a student is ready, please email their name to [ TaylorH@faithpromise.org ]( mailto:TaylorH@faithpromise.org ).
