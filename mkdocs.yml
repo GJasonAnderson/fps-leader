@@ -1,5 +1,6 @@
 site_name: FPS-Leader.com
 site_url: https://fps-leader.com
 pages:
-    - Fusion is Here!: index.md
+    - This Wednesday 2/28: index.md
+    - Movement 2018: movement.md
 theme: readthedocs

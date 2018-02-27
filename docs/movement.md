@@ -1,5 +1,5 @@
 # Movement Conference | July 11-15
-<button id="MyButton" onclick="myFunction()">What is Movement?</button>
+<button id="MyButton" onclick="myFunction()">I'm new - what is Movement?</button>
 <div id="MyToggleDiv" style="display: none;">
 Movement is our annual summer conference. We are in store for some big changes this year; there's no overnight component, which means you're sleeping in your own bed every night! More details will be forthcoming as the event approaches.
 </div>
