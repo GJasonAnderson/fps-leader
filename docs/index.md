@@ -8,7 +8,9 @@ Please grab a survey card from the info desk and make sure these get turned in. 
 
 # Movement Invite Cards
 We would like for every group leader to write a quick card to each student in their group that attended Fusion. In the card, you should:
+
 1. Thank students for coming to Fusion
 2. Encourage them personally
 3. Invite them personally to attend Movement Conference
+
 Cards will be available at the information desk at 5:45pm on Wednesday, and you can write them at any time during fps. Let’s make the most of this post Fusion opportunity to get our students onboard for Movement!
