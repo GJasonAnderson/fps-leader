@@ -3,7 +3,7 @@ Here are a few things you need to know for FPS this week:
 # Small Group Guide
 **[ Fusion Recap Night ]( group-guides/Fusion Recap Night.pdf )**
 
-# Survey Cards this Week
+# Survey Cards This Week
 Please grab a survey card from the info desk and make sure these get turned in. When we surveyed earlier this month, we did not get enough back to really count. Our greatest goal is connecting students to the weekend, so please help us measure our results by completing a survey in every group.
 
 # Movement Invite Cards
