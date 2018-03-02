@@ -1,6 +1,6 @@
 site_name: FPS Leader Communications
 site_url: https://fps-leader.com
+theme_dir: cinder
 pages:
     - This Wednesday 2/28: index.md
     - Movement 2018: movement.md
-theme: readthedocs
