@@ -1,5 +1,6 @@
 site_name: FPS Leader Communications
 site_url: https://fps-leader.com
+repo_url: https://github.com/GJasonAnderson/fps-leader
 theme_dir: cinder
 pages:
     - This Wednesday 2/28: index.md
