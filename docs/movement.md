@@ -1,5 +1,5 @@
 # Movement Conference | July 11-15
-<a class="btn btn-primary" href="#" role="button"><span id="MyTimer"></span></a>  
+<a class="btn btn-primary btn-block" href="#" role="button"><span id="MyTimer"></span></a>  
 Movement Conference is more than an event; it's a spark to an awakening in the next generation! Movement is a three-day local church conference where students from across the state of Tennessee are encouraged and inspired to join the Movement and take it back to their schools and communities. More than anything, our desire is to see this generation walk in the power of Jesus and change the world around them for His kingdom. At Movement Conference, students will experience incredible worship and music, be inspired by world-class communicators, and have an unforgettable experience with friends. An awakening is coming to our nation, and we believe it will start right here in Tennessee! Will you join the Movement?
 
 ### Registration
@@ -27,8 +27,15 @@ Free Admission | 100% Ministry Time with Students | Only One Weekday Off Work (F
 - Thursday Night through Saturday Evening at Movement Conference / Knoxville Civic Coliseum
 - Sunday Morning at your local FP campus
 
-<div align="center"><a class="btn btn-default" href=".." role="button"><i class="fa fa-arrow-left"></i> Previous: <b>This Week @ FPS</b></a></div>
+<!--End of Markdown Content-->
 
+<!--Bottom Page Nav Buttons-->
+<div align="left">
+    <a class="btn btn-default btn-sm" href=".." role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>This Week @ FPS</b></i></a>
+    <a class="btn btn-default btn-sm" href="#" role="button"><font class="text-muted"><b>Movement Conference</b></font></a>
+</div>
+
+<!--Count Down Timer-->
 <script>
 // Set the date we are counting down to
 var countDownDate = new Date("July 11, 2018 18:00:00").getTime();
