@@ -4,3 +4,4 @@ theme: cinder
 pages:
     - This Week @ FPS: index.md
     - Movement Conference: movement.md
+    - Fusion Weekend: fusion.md

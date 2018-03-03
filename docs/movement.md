@@ -31,8 +31,8 @@ Free Admission | 100% Ministry Time with Students | Only One Weekday Off Work (F
 
 <!--Bottom Page Nav Buttons-->
 <div align="left">
-    <a class="btn btn-default btn-sm" href=".." role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>This Week @ FPS</b></i></a>
-    <a class="btn btn-default btn-sm" href="#" role="button"><font class="text-muted"><b>Movement Conference</b></font></a>
+    <a class="btn btn-default btn-sm" href="/" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>This Week @ FPS</b></a>
+    <a class="btn btn-default btn-sm" href="/fusion" role="button"><b>Fusion Weekend</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
 </div>
 
 <!--Count Down Timer-->

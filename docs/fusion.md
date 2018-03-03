@@ -1,7 +1,13 @@
-# Fusion Weekend | February 23-25
+# Fusion Weekend <!--| February 23-25-->
+<!--hide count down timer for now
 <a class="btn btn-primary" href="#" role="button"><span id="MyTimer"></span></a>  
-Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, some meals, and trying to get some sleep every night. Live worship services are held Friday night and Saturday at the Pellissippi campus. The weekend closes out on Sunday at your local campus.
+--> 
+<i>Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, some meals, and trying to get some sleep every night. Live worship services are held Friday night and throughout the day Saturday at the Pellissippi campus. The weekend closes out on Sunday at your local campus.</i>
 
+Dates and more details about Fusion 2019 will be posted here as soon as they are available.  
+
+
+<!--hide most of the content for now
 ### Registration
 [ Registration Link Goes Here ]( https://link.goes.here )
 
@@ -54,6 +60,7 @@ Email: [ fpsglobal@faithpromise.org ]( mailto:fpsglobal@faithpromise.org )
 | 9:00 AM  | Clean Host Home, Pack & Get Ready for Church |
 | 10:00 AM | MS Groups Attend 2nd Service @ PEL           |
 | 11:30 AM | HS Groups Attend 3rd Service @ PEL           |
+-->
 
 <!--
 ### Where Do You Stand? Let Us Know!
@@ -70,6 +77,16 @@ Email: [ fpsglobal@faithpromise.org ]( mailto:fpsglobal@faithpromise.org )
 *Responses so far from: Gary, Jacob*
 -->
 
+
+<!--End of Markdown Content-->
+
+<!--Bottom Page Nav Buttons-->
+<div align="left">
+    <a class="btn btn-default btn-sm" href="/movement" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Movement Conference</b></a>
+    <a class="btn btn-default btn-sm" href="#" role="button"><font class="text-muted"><b>Fusion Weekend</b></font></a>
+</div>
+
+<!--Count Down Timer-->
 <script>
 // Set the date we are counting down to
 var countDownDate = new Date("July 11, 2018 18:00:00").getTime();
