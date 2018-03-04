@@ -81,10 +81,7 @@ Email: [ fpsglobal@faithpromise.org ]( mailto:fpsglobal@faithpromise.org )
 <!--End of Markdown Content-->
 
 <!--Bottom Page Nav Buttons-->
-<div align="left">
-    <a class="btn btn-default btn-sm" href="/movement" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Movement Conference</b></a>
-    <a class="btn btn-default btn-sm" href="#" role="button"><font class="text-muted"><b>Fusion Weekend</b></font></a>
-</div>
+<a class="btn btn-default btn-sm" href="/movement" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Movement Conference</b></a>
 
 <!--Count Down Timer-->
 <script>
