@@ -6,7 +6,7 @@ New Series starts this week!
 
 
 ### FPS Baptism Night
-Three weeks from now on **Wednesday, March 21**. Please let your coach know by ***Monday, March 19*** if you have any students who want to be baptized but cannot do so on the weekend.
+Two weeks from now on **Wednesday, March 21**. Please let your coach know by ***Monday, March 19*** if you have any students who want to be baptized but cannot do so on the weekend.
 
 ### Lobby Construction
 The info desk is being taken out this week to make more room in the PEL lobby. Please use the self check in computers on the counters this week while we are transitioning to a more permanent solution.
