@@ -15,7 +15,7 @@ def main():
             pages.append(line[(2 + line.find(": ")):].strip("\n"))
             titles.append(line[6:line.find(": ")])
     yml_file.close
-    txt_file = open("mkmsgs.md", "w")
+    txt_file = open("message.md", "w")
     for i in range(len(pages)):
         txt_file.write(titles[i] + "\n")
         txt_file.write(("=" * len(titles[i])) + "\n")
@@ -30,7 +30,7 @@ def main():
                 txt_file.write(line)
         doc_file.close
     txt_file.close
-    print("The following mkdocs pages processed and saved in mkmsgs.md:")
+    print("The following mkdocs pages processed and saved in message.md:")
     for i in range(len(pages)):
         print("\t", pages[i], "-", titles[i])
 main()
