@@ -1,7 +1,6 @@
 # Movement Conference | July 11-15
-<a class="btn btn-default btn-block" href="#" role="button"><span id="MyTimer"></span></a>  
-Movement Conference is more than an event; it's a spark to an awakening in the next generation! Movement is a three-day local church conference where students from across the state of Tennessee are encouraged and inspired to join the Movement and take it back to their schools and communities. More than anything, our desire is to see this generation walk in the power of Jesus and change the world around them for His kingdom. At Movement Conference, students will experience incredible worship and music, be inspired by world-class communicators, and have an unforgettable experience with friends. An awakening is coming to our nation, and we believe it will start right here in Tennessee! Will you join the Movement?
-
+<a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
+Movement Conference is more than an event; it's a spark to an awakening in the next generation! Discover more details at [ **the official Movement Conference website** ]( https://movementconf.com/ ).  
 ### Registration
 [ **Movement Registration** ]( https://www.universe.com/events/movement-conference-2018-tickets-knoxville-17QGJL ) is FREE for FPS Leaders when you use the promo code `OWNER18`.
 
