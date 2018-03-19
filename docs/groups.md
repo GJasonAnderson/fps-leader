@@ -5,7 +5,7 @@ _Italics_ means that position is either vacant or soon to be filled by a new vol
 | Leader | Apprentice |
 | ------ | ---------- |
 | Callen | Holden     |
-| Jordan | Chris      |
+| Jordan | _vacant_   |
 | Marc   | Nelson     |
 | John   | _Brandon_  |
 
