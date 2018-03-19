@@ -1,8 +1,7 @@
 # This Wednesday 3/21/2018
 
 ### Small Group Guide  
-<!--**[ Knockout: Crushing your Calling Killers - Week 2: Comparison + Labels ]( guide.pdf )**  -->
-*This week's small group guide will be posted as soon as it's available.*
+**[ Knockout: Crushing your Calling Killers - Week 3: &frac12; Speed ]( guide.pdf )**  
 
 ### FPS Baptism Night
 Please let your coach know by ***Monday, March 19*** if you have any students who want to be baptized on 3/21 because they cannot do so on the weekend.
