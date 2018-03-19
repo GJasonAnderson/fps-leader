@@ -3,6 +3,9 @@
 ### Small Group Guide  
 **[ Knockout: Crushing your Calling Killers - Week 3: &frac12; Speed ]( guide.pdf )**  
 
+### Survey Night
+You know the drill - grab a card a check-in, turn your results in to Taylor Henry after small group.
+
 ### FPS Baptism Night
 Please let your coach know by ***Monday, March 19*** if you have any students who want to be baptized on 3/21 because they cannot do so on the weekend.
 
