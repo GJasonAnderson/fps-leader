@@ -1,14 +1,19 @@
-# This Wednesday 3/28/2018
-
-### First FP Easter Service
-Wednesday night will be the first [ FP Easter ]( https://faithpromise.org/events/easter ) service of 2018! We will have our annual FPS Easter Pre-Party from 6:00 - 7:00 PM in Satellite and the Entrance 2 courtyard, with the Easter service at 7:00 PM. There will be no small groups.
-
-<!--
-## Next Wednesday 3/28/2018
+# This Wednesday 4/4/2018
 
 ### Small Group Guide  
-**[ Knockout: Crushing your Calling Killers - Week 3: &frac12; Speed ]( guide.pdf )**  
--->
+*New series starts this week:* **[ I AM Week 1 - Alive in Christ ]( guide.pdf )**  
+
+### Movement Leader Registration
+Please complete your FREE leader registration for Movement on this site's [ Movement Page ]( movement.md ) by the end of this week!
+
+### Student Contacts
+Remember that **relationships matter more than anything**. Perhaps the most important thing we can do week in and week out is to pray for our students and contact them to encourage them and check in during the week. Let’s aim for contacting each student in our groups at least once this week.
+
+### The Dream Team
+What we need most at fps is more leaders like you! If you know someone who would be great at fps, let them know the potential you see in them and invite them to join us on any Wednesday in April.
+
+# Next Wednesday 4/11/2018
+*More info about next week will be posted here as it becomes available.*
 
 <!--End of Markdown Content-->
 
