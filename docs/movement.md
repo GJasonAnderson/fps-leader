@@ -1,6 +1,6 @@
 # Movement Conference | July 11-15
 <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
-Movement Conference is more than an event; it's a spark to an awakening in the next generation! Discover more details at [ **the official Movement Conference website** ]( https://movementconf.com/ ).  
+Movement Conference is more than an event; it's a spark to an awakening in the next generation! Discover more details at [ **the official Movement Conference website.** ]( https://movementconf.com/ )  
 ### Registration
 [ **Movement Registration** ]( https://www.universe.com/events/movement-conference-2018-tickets-knoxville-17QGJL ) is FREE for FPS Leaders when you use the promo code `OWNER18`.
 
