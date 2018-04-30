@@ -29,7 +29,7 @@
 - **Every Week in May**: Movement Champions will visit your groups
 
 # SKO 5/30/2018
-Summer Kick Off this year will be all night trip to [Wilderness at the Smokies](https://www.wildernessatthesmokies.com/)! Students can [register here](https://my.faithpromise.org/portal/event_signup.aspx?id=427694) for $40 each.
+Summer Kick Off this year will be all night trip to [Wilderness at the Smokies](https://www.wildernessatthesmokies.com/)! Students and leaders should [register for SKO here](https://my.faithpromise.org/portal/event_signup.aspx?id=427694) - cost is $40 for students, FREE for leaders using promo code `SKOLEADER`.
 
 <!--End of Markdown Content-->
 <script src="scripts.js"></script>
