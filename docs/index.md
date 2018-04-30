@@ -1,18 +1,38 @@
-# This Wednesday 4/25/2018
+# This Wednesday 5/2/2018
 
 ### Small Group Guide  
-**[ Week 4 - I Am a Child of God ]( guide.pdf )**  
+[**_Just One More_ Week 1: Compromise**](guide.pdf)
 
-### Movement Student Registrations
-During the month of April, let's all focus on getting our core students registered for Fusion. Direct them to [the official Movement Conference website](https://movementconf.com/) to get registered. For each grade and gender, we have both student and adult Movement Champions who will be visiting groups each week to talk about Movement Conference. Please encourage and support them when they stop by your group!
+### Survey Night - Submit your results here!
+<form name="Survey-2018-05" netlify>
+	Group Leader(s):<br>
+  <input type="text" name="Group"><br>
+  # of students in group tonight:<br>
+  <input type="number" min="0" step="1" name="Q1"><br>
+  # of students who attended or served at FP this past weekend:<br>
+  <input type="number" min="0" step="1" name="Q2"><br>
+  # of students who attended church anywhere else this past weekend:<br>
+  <input type="number" min="0" step="1" name="Q3"><br>
+  # of students who have been to FP on the weekend in the last 2-3 weeks:<br>
+  <input type="number" min="0" step="1" name="Q4"><br>
+  <br>
+  <button type="submit">Submit Survey Results</button>
+</form>
 
-### Adults in the Lobby
-We want to do everything we can to help engage students during worship and the message, so **all adults should be in the worship center once service starts**. Thank you for supporting the vision and culture of fps!
+# May is Movement Month  
+**Movement Conference is only <span id="MyTimer"></span> away now!**  
+
+- **5/2**: Popsicle Night
+- **5/9**: Free Pop Sockets
+- **5/16**: Student Takeover
+- **5/23**: Free Shirt Night
+- **Every Week in May**: Movement Champions will visit your groups
 
 # SKO 5/30/2018
-Mark your calendars - Summer Kick Off this year will be all night trip to [Wilderness at the Smokies](https://www.wildernessatthesmokies.com/)! Registrations will open later this week; cost will be $40 per student. **If you can help serve during SKO**, please let your coach know!
+Summer Kick Off this year will be all night trip to [Wilderness at the Smokies](https://www.wildernessatthesmokies.com/)! Students can [register here](https://my.faithpromise.org/portal/event_signup.aspx?id=427694) for $40 each.
 
 <!--End of Markdown Content-->
+<script src="scripts.js"></script>
 
 <!--Bottom Page Nav Buttons-->
 <a class="btn btn-default btn-sm" href="/movement" role="button"><b>Movement Conference</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
