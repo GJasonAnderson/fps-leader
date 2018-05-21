@@ -9,7 +9,7 @@ Please check your student's name tags on a regular basis and make sure the corre
 # May is Movement Month  
 **Movement Conference is only <span id="MyTimer"></span> away now!**  
 
-- **5/23**: Free Shirt Night
+- **5/23**: Free Shirt Night for *ALL FPS students, leaders, and crew!*
 - **Every Week in May**: Movement Champions will visit your groups - Please welcome them and treat them respectfully during these visits!
 - **Movement “FIRST 250” T-Shirts**: A free tshirt is available in the lobby this week for any student who registered within the first 250 for Movement! We will have a roster if a student is unsure of whether or not they qualify.
 
