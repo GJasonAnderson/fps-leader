@@ -1,7 +1,7 @@
 # This Wednesday 5/16/2018
 
 ### Small Group Guide  
-[**_Just One More_ Week : Don't Compromise your Purity**](guide.pdf)
+[**_Just One More_ Week 4: Don't Compromise your Purity**](guide.pdf)
 
 ### Student Name Tag Check
 Please check your student's name tags on a regular basis and make sure the correct group / leader info is on it. Please [email Taylor Henry](mailto:TaylorH@faithpromise.org) any corrrections that need to be made. This is a basic safety issue - we need to be able to quickly find students in the event of an emergency.
