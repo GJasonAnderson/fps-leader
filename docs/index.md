@@ -1,20 +1,14 @@
-# This Wednesday 5/30/2018
+# This Wednesday 6/6/2018
 **Movement Conference is only <span id="MyTimer"></span> away now**  
 
 ### Small Group Guide  
-[**_In-N-Out_ Week 1: Welcome to the Family**](guide.pdf)
+[**_In-N-Out_ Week 2: You First**](guide.pdf)
 
-### SKO
-[It's not too late to register](https://my.faithpromise.org/portal/event_signup.aspx?id=427694) - cost is $40 for students, FREE for leaders using promo code `SKOLEADER`.  
+### Student Contacts
+Group leaders, remember that relationships matter more than anything. The most important thing we can do week in and week out is to pray for our students and contact them to encourage them and check in during the week. Let’s aim for contacting each student in our groups at least once this week.
 
-|        |   |
-| ------------------ | -------- |
-| 6:20 PM - 8:40 PM  | Small Groups and Large Group as usual |
-| 8:40 PM - 10PM~ish | Pizza & Drinks for SKOers, then load the buses |
-| All Night Long     | Hang at the [Wilderness at the Smokies](https://www.wildernessatthesmokies.com/) |
-| Thursday 6AM~ish   | Load the buses, with breakfast on the way |
-| 7:00 AM            | Arrive @ FP |
-
+### More People Like You
+We are looking for more heroes like you! If you know of someone at fp who would be a good fit for our team, please invite them to join us.
 
 <!--End of Markdown Content-->
 <script src="scripts.js"></script>
