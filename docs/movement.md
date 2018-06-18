@@ -1,8 +1,9 @@
 # Movement Conference | July 11-15
 <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
 Movement Conference is more than an event; it's a spark to an awakening in the next generation! Discover more details at [ **the official Movement Conference website.** ]( https://movementconf.com/ )  
-### Registration
-[ **Movement Registration** ]( https://www.universe.com/events/movement-conference-2018-tickets-knoxville-17QGJL ) is FREE for FPS Leaders when you use the promo code `OWNER18`.
+
+### Student Registration Roster
+We are working on a method to post a roster of registered students here in a secure way; until then, you can request the latest copy of the roster by checking with *gjasonanderson at outlook dot com*.
 
 ### FAQs
 - **[Movement Q&A from Pastor Zac](movement.pdf)**
@@ -12,15 +13,6 @@ Movement Conference is more than an event; it's a spark to an awakening in the n
 - **How Much:** Student registrations range from $99 to $199 - the earlier they register, the less they pay
 - **What's Included:** Admission, wristbands / lanyards, conference materials, 3 meals (lunch & dinner Friday and lunch Saturday)
 - **What's Different This Year:** Lower cost, no overnight lodging, open to churches across the region
-
-### The Movement Experience  
-The experience at Movement Conference will be absolutely unforgettable. Students will love it. Leaders will love it. No one will ever forget it! People who attend Movement will be talking about it for years, and those who miss it will regret it for just as long. This will be the best conference we have ever done!  
-
-***Students will experience...***  
-Killer Worship | Fun with Friends | Small Groups | World Class Preaching | Unforgettable Moments  
-
-***Leaders will experience...***  
-Free Admission | 100% Ministry Time with Students | Only One Weekday Off Work (Friday) | Done by 10:00 PM Each Night
 
 ### Schedule
 - Wednesday Night opening service at FPS
