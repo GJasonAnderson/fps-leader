@@ -1,4 +1,4 @@
-# This Wednesday 6/13/2018
+# This Wednesday 6/20/2018
 **Movement Conference is only <span id="MyTimer"></span> away now**  
 
 ### Small Group Guide  
