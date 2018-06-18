@@ -2,10 +2,10 @@
 **Movement Conference is only <span id="MyTimer"></span> away now**  
 
 ### Small Group Guide  
-[**_In-N-Out_ Week 3: Whatever It Takes**](guide.pdf)
+[**_In-N-Out_ Week 4: We Tell Them of Him**](guide.pdf)
 
-### Survey This Week
-Please grab a card at check-in, complete it during small group, and **turn it in at the green info tables in the lobby**.
+# No FPS Service 7/4/2018
+No FPS on July 4th - enjoy the time with family & friends.  
 
 # FPS Grow Conference 8/4/2018
 Mark your calendars now for this upcoming leader training - more details and a RSVP link soon.  
