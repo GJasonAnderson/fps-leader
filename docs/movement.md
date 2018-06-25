@@ -1,23 +1,17 @@
 # Movement Conference | July 11-15
 <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
-Movement Conference is more than an event; it's a spark to an awakening in the next generation! Discover more details at [ **the official Movement Conference website.** ]( https://movementconf.com/ )  
+Check out [ **the official Movement Conference website.** ]( https://movementconf.com/ ) for speakers, schedules, and more!
+
+### Lodging and Travel Form - Due July 1st!
+All Movement group leaders need to [complete this Lodging and Travel Form](http://links.faithpromise.org/wf/click?upn=JkS-2BJyj8fMakwOuymoIbuH8FW-2BGX7qJtUqyvqQVe0wEoq6C5V6D23l5T4Z3bwbI0mWYSzMuYF1DcShrdRaVzXGc-2FIYqOKhT9owJLyCsoho4-3D_OPOrC1bVJJ4nLLVGwKrmYGDg9jz3C1-2B7qjcNSz-2B6HaMSFBvHoRJZoKsfpU-2FGvnULvb3BxwIY0ULghILTfHf72JEFsleaNaRKZQJH893D4KsBdLNagkzlJ0fLRVn0ueFXETWmWGlQnUTXWLSqQTfE97FUTbUnWKzwH7ck7qlS-2FTvr32NQ7uqtJTXJ2F78mFLnhhgAqTvuxtmSu6r4A7-2Fv2MaO8KheJkWtPUcZaLgJ7UgcvSmfSmV6z5qpfmjI-2FhUuf5-2BuPoUT-2BAAax8TaoecyelJcKBV3ykfiBW0uL5mWHdZpTX82GTSrF9pSfVw3FFJ-2F) to let FPS know your group's plans for Movement by July 1st.
+
+### Pre-Movement Meetings  
+* Date & Time TBA: Leader Prayer Gathering
+* July 1st & 8th (times TBA): Parent Information Meetings
+* July 10th 6:30 PM - 7:30 PM: Prayer Gathering for all Promisors at each campus
 
 ### Student Registration Roster
 We are working on a method to post a roster of registered students here in a secure way; until then, you can request the latest copy of the roster by checking with *gjasonanderson at outlook dot com*.
-
-### FAQs
-- **[Movement Q&A from Pastor Zac](movement.pdf)**
-- **When:** July 11 - 15, 2018
-- **Where:** Knoxville Civic Coliseum
-- **Why:** To Awaken a Generation
-- **How Much:** Student registrations range from $99 to $199 - the earlier they register, the less they pay
-- **What's Included:** Admission, wristbands / lanyards, conference materials, 3 meals (lunch & dinner Friday and lunch Saturday)
-- **What's Different This Year:** Lower cost, no overnight lodging, open to churches across the region
-
-### Schedule
-- Wednesday Night opening service at FPS
-- Thursday Night through Saturday Evening at Movement Conference / Knoxville Civic Coliseum
-- Sunday Morning at your local FP campus
 
 <!--End of Markdown Content-->
 
