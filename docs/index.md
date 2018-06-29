@@ -1,15 +1,19 @@
 # Movement Prayer Gathering 6/30/2018
 All Movement small group leaders are invited to a prayer gathering in Room 222 - we will meet for about an hour and pray together for God to show up and show out at Movement. Please join us then!
-**Movement Conference is only <span id="MyTimer"></span> away now - please check the Movement Page for new event details**  
+**Movement Conference is only <span id="MyTimer"></span> away now - please check the Movement Page for new event details!**  
 
 # No FPS Service 7/4/2018
 No FPS on July 4th - enjoy the holiday with family & friends.  
+
 <!--
+
 # This Wednesday 7/11/2018
 
 ### Small Group Guide  
 [**_In-N-Out_ Week 5: The Purpose of Your Story**](guide.pdf)
+
 -->
+
 ### Student Contacts
 Remember that *relationships matter more than anything*. Let’s aim for contacting each student in our groups at least once this week.
 
