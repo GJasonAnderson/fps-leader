@@ -1,4 +1,4 @@
-# Movement Prayer Gathering 6/30/2018
+# Movement Prayer Gathering 6/30/2018 @ 5:00 PM
 All Movement small group leaders are invited to a prayer gathering in Room 222 - we will meet for about an hour and pray together for God to show up and show out at Movement. Please join us then!
 **Movement Conference is only <span id="MyTimer"></span> away now - please check the Movement Page for new event details!**  
 
