@@ -3,13 +3,8 @@
 Check out [ **the official Movement Conference website** ]( https://movementconf.com/ ) for speakers, schedules, and more!
 
 ## Pre-Movement Meetings  
-* <s>June 30th 5:00 PM - 6:00 PM: Leader Prayer Gathering in Room 222</s>
 * July 10th 6:30 PM - 7:30 PM: Global Prayer Gathering for all Promisors at each campus
-
-## Parent Information Meetings
-* Pellissippi Campus, Room 222
-* <s>Saturday, June 30th @ 6:15 PM</s>  
-* Sunday, July 8th @ 10:00 AM or 11:30 AM (*the previously scheduled 8:45 AM meeting has been cancelled*)
+* Parent Information Meetings - Pellissippi Campus, Room 222 on Sunday, July 8th @ 10:00 AM or 11:30 AM (*the previously scheduled 8:45 AM meeting has been cancelled*)
 
 ## Rosters and Lodging / Travel Plans
 * [Final Student Registration Roster](mvmt-roster.xlsx)
