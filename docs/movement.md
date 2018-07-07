@@ -2,9 +2,6 @@
 <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
 Check out [ **the official Movement Conference website.** ]( https://movementconf.com/ ) for speakers, schedules, and more!
 
-## Lodging and Travel Form - Due July 1st!
-All Movement group leaders need to [complete this Lodging and Travel Form](http://links.faithpromise.org/wf/click?upn=JkS-2BJyj8fMakwOuymoIbuH8FW-2BGX7qJtUqyvqQVe0wEoq6C5V6D23l5T4Z3bwbI0mWYSzMuYF1DcShrdRaVzXGc-2FIYqOKhT9owJLyCsoho4-3D_OPOrC1bVJJ4nLLVGwKrmYGDg9jz3C1-2B7qjcNSz-2B6HaMSFBvHoRJZoKsfpU-2FGvnULvb3BxwIY0ULghILTfHf72JEFsleaNaRKZQJH893D4KsBdLNagkzlJ0fLRVn0ueFXETWmWGlQnUTXWLSqQTfE97FUTbUnWKzwH7ck7qlS-2FTvr32NQ7uqtJTXJ2F78mFLnhhgAqTvuxtmSu6r4A7-2Fv2MaO8KheJkWtPUcZaLgJ7UgcvSmfSmV6z5qpfmjI-2FhUuf5-2BuPoUT-2BAAax8TaoecyelJcKBV3ykfiBW0uL5mWHdZpTX82GTSrF9pSfVw3FFJ-2F) to let FPS know your group's plans for Movement by July 1st.
-
 ## Pre-Movement Meetings  
 * <s>June 30th 5:00 PM - 6:00 PM: Leader Prayer Gathering in Room 222</s>
 * July 10th 6:30 PM - 7:30 PM: Global Prayer Gathering for all Promisors at each campus
@@ -13,6 +10,17 @@ All Movement group leaders need to [complete this Lodging and Travel Form](http:
 * Pellissippi Campus, Room 222
 * <s>Saturday, June 30th @ 6:15 PM</s>  
 * Sunday, July 8th @ 10:00 AM or 11:30 AM (*the previously scheduled 8:45 AM meeting has been cancelled*)
+
+## Rosters and Lodging / Travel Plans
+All of these files are password-protected, as they contain personal info. Check with your coach for the password.  !
+* [mvmt-roster.xlsx](Final Student Registration Roster)
+* [mvmt-travel.xls](Completed Lodging and Travel Plans) - if your group isn't listed, you need to [complete the Lodging and Travel Form ASAP!](http://links.faithpromise.org/wf/click?upn=JkS-2BJyj8fMakwOuymoIbuH8FW-2BGX7qJtUqyvqQVe0wEoq6C5V6D23l5T4Z3bwbI0mWYSzMuYF1DcShrdRaVzXGc-2FIYqOKhT9owJLyCsoho4-3D_OPOrC1bVJJ4nLLVGwKrmYGDg9jz3C1-2B7qjcNSz-2B6HaMSFBvHoRJZoKsfpU-2FGvnULvb3BxwIY0ULghILTfHf72JEFsleaNaRKZQJH893D4KsBdLNagkzlJ0fLRVn0ueFXETWmWGlQnUTXWLSqQTfE97FUTbUnWKzwH7ck7qlS-2FTvr32NQ7uqtJTXJ2F78mFLnhhgAqTvuxtmSu6r4A7-2Fv2MaO8KheJkWtPUcZaLgJ7UgcvSmfSmV6z5qpfmjI-2FhUuf5-2BuPoUT-2BAAax8TaoecyelJcKBV3ykfiBW0uL5mWHdZpTX82GTSrF9pSfVw3FFJ-2F)
+
+## Important Movement Documents  
+* [Volunteer Info Packet](mvmt-volunteer.pdf) - ALL Group Leaders need to read this!
+* [Parent Info Packet](mvmt-parent.pdf) - this is what we're handing out during the parent meetings
+* [Middle School Leader Guide](mvmt-guide-middle.pdf) - you will need this for all community group sessions
+* [High School Leader Guide](mvmt-guide-high.pdf)
 
 <!--
 ## Student Registration Roster
