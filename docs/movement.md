@@ -1,6 +1,6 @@
 # Movement Conference | July 11-15
 <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
-Check out [ **the official Movement Conference website.** ]( https://movementconf.com/ ) for speakers, schedules, and more!
+Check out [ **the official Movement Conference website** ]( https://movementconf.com/ ) for speakers, schedules, and more!
 
 ## Pre-Movement Meetings  
 * <s>June 30th 5:00 PM - 6:00 PM: Leader Prayer Gathering in Room 222</s>
