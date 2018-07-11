@@ -2,6 +2,9 @@
 <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
 Check out [ **the official Movement Conference website** ]( https://movementconf.com/ ) for speakers, schedules, and more!
 
+## Emergency Contact Info
+In the event of an emergency during conference, please contact your coach or senior coach. If you cannot reach them, please contact FPS Guest Services at 865-251-2590 ext. 1305 or fpsglobal@faithpromise.org.
+
 ## Important Movement Documents  
 * **[Volunteer Info Packet](mvmt-volunteer.pdf)** - ALL Group Leaders need to read this - it details exactly what you and others are responsible for during Movement
 * **[Middle School Leader Guide](mvmt-guide-middle.pdf)** - you will need this for all community group sessions
