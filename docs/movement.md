@@ -3,7 +3,7 @@
 Check out [ **the official Movement Conference website** ]( https://movementconf.com/ ) for speakers, schedules, and more!
 
 ## Important Movement Documents  
-* **[Volunteer Info Packet](mvmt-volunteer.pdf)** - ALL Group Leaders need to read this!
+* **[Volunteer Info Packet](mvmt-volunteer.pdf)** - ALL Group Leaders need to read this - it details exactly what you and others are responsible for during Movement
 * **[Middle School Leader Guide](mvmt-guide-middle.pdf)** - you will need this for all community group sessions
 * [High School Leader Guide](mvmt-guide-high.pdf) - just in case any HS leaders check this site
 * [Parent Info Packet](mvmt-parent.pdf) - this is what we handed out during the parent meetings
