@@ -1,6 +1,8 @@
-# Movement Conference | July 11-15
+# Movement Conference 2019 | July 18-20
 <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
-Check out [ **the official Movement Conference website** ]( https://movementconf.com/ ) for speakers, schedules, and more!
+Encourage your students to [ **register now for Movement Conference 2019 for only $89.99** ]( https://movementconf.com/ ) - that's the lowest price all year!
+
+# Movement 2018
 
 ## Emergency Contact Info
 In the event of an emergency during conference, please contact your coach or senior coach. If you cannot reach them, please contact FPS Guest Services at 865-251-2590 ext. 1305 or fpsglobal@faithpromise.org.
@@ -25,7 +27,7 @@ The files above are password-protected, as they contain personal info - check wi
 <!--Count Down Timer-->
 <script>
 // Set the date we are counting down to
-var countDownDate = new Date("July 11, 2018 18:00:00").getTime();
+var countDownDate = new Date("July 18, 2019 18:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -43,7 +45,7 @@ var x = setInterval(function() {
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
     // Output the result in an element with id="MyTimer"
-    var message = "Movement starts in ";
+    var message = "Movement 2019 starts in ";
     if (days > 14) {
       message = message + days + " days ";
     } else if (days > 0) {
