@@ -1,22 +1,6 @@
 # Movement Conference 2019 | July 18-20
 <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
-Encourage your students to [ **register now for Movement Conference 2019 for only $89.99** ]( https://movementconf.com/ ) - that's the lowest price all year!
-
-# Movement 2018
-
-## Emergency Contact Info
-In the event of an emergency during conference, please contact your coach or senior coach. If you cannot reach them, please contact FPS Guest Services at 865-251-2590 ext. 1305 or fpsglobal@faithpromise.org.
-
-## Important Movement Documents  
-* **[Volunteer Info Packet](mvmt-volunteer.pdf)** - ALL Group Leaders need to read this - it details exactly what you and others are responsible for during Movement
-* **[Middle School Leader Guide](mvmt-guide-middle.pdf)** - you will need this for all community group sessions
-* [High School Leader Guide](mvmt-guide-high.pdf) - just in case any HS leaders check this site
-* [Parent Info Packet](mvmt-parent.pdf) - this is what we handed out during the parent meetings
-
-## Rosters and Lodging / Travel Plans
-* [Final Student Registration Roster](mvmt-roster.xlsx)
-* [Completed Lodging and Travel Plans](mvmt-travel.xls)  
-The files above are password-protected, as they contain personal info - check with your coach for the password.  
+Encourage your students to [ **register now for Movement Conference 2019 for only $89.99** ]( https://movementconf.com/ ) - that price is only valid for one week after Movement 2018!
 
 <!--End of Markdown Content-->
 
