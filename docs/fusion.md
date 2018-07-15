@@ -8,4 +8,4 @@ Dates and more details about Fusion 2019 will be posted here as soon as they are
 
 <!--Bottom Page Nav Buttons-->
 <a class="btn btn-default btn-sm" href="/" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>This Week @ FPS</b></a>
-<a class="btn btn-default btn-sm" href="/fusion" role="button"><b>Movement Conference</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
+<a class="btn btn-default btn-sm" href="/movement" role="button"><b>Movement Conference</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
