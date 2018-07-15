@@ -18,4 +18,4 @@ Save this date for our annual back-to-school party - more details to be announce
 <script src="scripts.js"></script>
 
 <!--Bottom Page Nav Buttons-->
-<a class="btn btn-default btn-sm" href="/movement" role="button"><b>Movement Conference</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
+<a class="btn btn-default btn-sm" href="/fusion" role="button"><b>Fusion Weekend</b>&nbsp;<i class="fa fa-arrow-right"></i></a>

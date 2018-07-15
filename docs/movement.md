@@ -5,8 +5,8 @@ Encourage your students to [ **register now for Movement Conference 2019 for onl
 <!--End of Markdown Content-->
 
 <!--Bottom Page Nav Buttons-->
-<a class="btn btn-default btn-sm" href="/" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>This Week @ FPS</b></a>
-<a class="btn btn-default btn-sm" href="/fusion" role="button"><b>Fusion Weekend</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
+<a class="btn btn-default btn-sm" href="/movement" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Movement Conference</b></a>
+
 
 <!--Count Down Timer-->
 <script>
