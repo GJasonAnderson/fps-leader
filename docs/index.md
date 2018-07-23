@@ -1,13 +1,11 @@
-# This Wednesday 7/18/2018
-This will be the last week groups will meet as the grade just completed.  
+# This Wednesday 7/25/2018
+This is the week that a new class of rising 6th graders are joining us for the first time in FPS, our recently graduated seniors are transitioning out, and all other grades move up to the grade they will be starting in the fall. Take a look at this [new room assignment list](rooms.pdf) to see if your group's meeting location has changed - we tried to keep you in your existing rooms, but some changes were required and are marked in bold and italics.  
 
-## Small Group Guide
-[**My Movement Week 1: Recap Night**](guide.pdf)
+## Small Group Guides
+[**My Movement Week 2: Connecting with God**](guide.pdf) - everyone *except 6th grade* should use this guide
+[**6th Grade LAUNCH Group Guide**](guide-6th.pdf) - all new 6th grade groups should use this instead of the above group guide for this week
 
-# Next Wednesday 7/25/2018
-This is the week that we will be leveling all groups up to the grade they will be starting in the fall; more details about that transition will be posted here soon.  
-
-# FPS Grow Conference 8/4/2018 - Register by 7/27!
+# FPS Grow Conference 8/4/2018 - Register by THIS FRIDAY!
 [RSVP now for our fall leader training](http://fpstudents.org/events/fps-grow-conference) - Saturday 8/4 from 8:30 AM to 1:30 PM at our Pellissippi Campus.  
 ![FPS Grow Conference 8/4/2018](training.jpg)  
 
