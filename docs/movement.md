@@ -1,6 +1,6 @@
 # Movement Conference 2019 | July 18-20
 <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>  
-Encourage your students to [ **register now for Movement Conference 2019 for only $89.99** ]( https://movementconf.com/ ) - that price is only valid for one week after Movement 2018!
+Encourage your students to [ **register now for Movement Conference 2019!** ]( https://movementconf.com/ )
 
 <!--End of Markdown Content-->
 
