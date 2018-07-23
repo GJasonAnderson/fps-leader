@@ -34,3 +34,6 @@ var x = setInterval(function() {
         document.getElementById("MyTimer").innerHTML = "The event has begun!";
     }
 }, 1000);
+
+// EXAMPLE TEXT BLOCK for referring page
+// <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>
