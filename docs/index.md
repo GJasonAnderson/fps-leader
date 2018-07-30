@@ -9,7 +9,7 @@ School starts in Knox Co. one week from this Wednesday - let's help get our stud
 Our fall leader training will be held this Saturday 8/4 from 8:30 AM to 1:30 PM at our Pellissippi Campus.  Light breakfast, lunch, and childcare will be provided for those that registered in advance.  
 
 # Next Wednesday 8/8/2018 - FPS Baptism Night!
-This is when we baptize students that cannot do so at a weekend FP service. If you have a student that wants to be baptized next Wednesday and you have counseled them & have parental permission, email TaylorH@faithpromise.org so we can help them take this public step of obedience to God and his Word!  
+This is when we baptize students that cannot do so at a weekend FP service. If you have a student that wants to be baptized next Wednesday and you have counseled them & have parental permission, [email Taylor Henry](mailto:taylorh@faithpromise.org) so we can help them take this public step of obedience to God and his Word!  
 
 # The Bash 8/22/2018  
 Save this date for our annual back-to-school party - more details to be announced. This is a great event for students to invite guests to!
