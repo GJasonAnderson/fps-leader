@@ -1,16 +1,19 @@
-# This Wednesday 7/25/2018
-This is the week that a new class of rising 6th graders are joining us for the first time in FPS, our recently graduated seniors are transitioning out, and all other grades move up to the grade they will be starting in the fall. Take a look at this [new room assignment list](rooms.pdf) to see if your group's meeting location has changed - we tried to keep you in your existing rooms, but some changes were required and are marked in bold and italics.  
+# This Wednesday 8/1/2018
+School starts in Knox Co. one week from this Wednesday - let's help get our students prepared to take every opportunity to live out their faith this school year. Pastor Jeff wants FPS Pellissippi to grow to over 700 in attendance by the end of the school year - I'm believing God will make it happen before Christmas break if we send our students back to school fully prepared to share the hope of Jesus with their classmates!
 
 ## Small Group Guides
-- [**My Movement Week 2: Connecting with God**](guide.pdf) - everyone *except 6th grade* should use this guide  
-- [**6th Grade LAUNCH Group Guide**](guide-6th.pdf) - all new 6th grade groups should use this instead of the above group guide for this week  
+- [**My Movement Week 3: Connecting with Each Other**](guide.pdf) - everyone *except 6th grade* should use this guide  
+- [**6th Grade Guide: Best Night of the Week**](guide-6th.pdf) - all new 6th grade groups should use this instead of the above group guide for this week  
 
-# FPS Grow Conference 8/4/2018 - Register by THIS FRIDAY!
-[RSVP now for our fall leader training](http://fpstudents.org/events/fps-grow-conference) - Saturday 8/4 from 8:30 AM to 1:30 PM at our Pellissippi Campus.  
+# FPS Grow Conference 8/4/2018
+Our fall leader training will be held this Saturday 8/4 from 8:30 AM to 1:30 PM at our Pellissippi Campus.  Light breakfast, lunch, and childcare will be provided for those that registered in advance.
 ![FPS Grow Conference 8/4/2018](training.jpg)  
 
+# Next Wednesday 8/8/2018 - FPS Baptism Night!
+This is when we baptize students that cannot do so at a weekend FP service. If you have a student that wants to be baptized next Wednesday and you have counseled them & have parental permission, email TaylorH@faithpromise.org so we can help them take this public step of obedience to God and his Word!  
+
 # The Bash 8/22/2018  
-Save this date for our annual back-to-school party - more details to be announced.
+Save this date for our annual back-to-school party - more details to be announced. This is a great event for students to invite guests to!
 
 <!--End of Markdown Content-->
 <script src="scripts.js"></script>
