@@ -6,8 +6,7 @@ School starts in Knox Co. one week from this Wednesday - let's help get our stud
 - [**6th Grade Guide: Best Night of the Week**](guide-6th.pdf) - all new 6th grade groups should use this instead of the above group guide for this week  
 
 # FPS Grow Conference 8/4/2018
-Our fall leader training will be held this Saturday 8/4 from 8:30 AM to 1:30 PM at our Pellissippi Campus.  Light breakfast, lunch, and childcare will be provided for those that registered in advance.
-![FPS Grow Conference 8/4/2018](training.jpg)  
+Our fall leader training will be held this Saturday 8/4 from 8:30 AM to 1:30 PM at our Pellissippi Campus.  Light breakfast, lunch, and childcare will be provided for those that registered in advance.  
 
 # Next Wednesday 8/8/2018 - FPS Baptism Night!
 This is when we baptize students that cannot do so at a weekend FP service. If you have a student that wants to be baptized next Wednesday and you have counseled them & have parental permission, email TaylorH@faithpromise.org so we can help them take this public step of obedience to God and his Word!  
