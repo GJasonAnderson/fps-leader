@@ -1,15 +1,14 @@
-# This Wednesday 8/1/2018
-School starts in Knox Co. one week from this Wednesday - let's help get our students prepared to take every opportunity to live out their faith this school year. Pastor Jeff wants FPS Pellissippi to grow to over 700 in attendance by the end of the school year - I'm believing God will make it happen before Christmas break if we send our students back to school fully prepared to share the hope of Jesus with their classmates!
+# This Wednesday 8/8/2018  
 
-## Small Group Guides
-- [**My Movement Week 3: Connecting with Each Other**](guide.pdf) - everyone *except 6th grade* should use this guide  
-- [**6th Grade Guide: Best Night of the Week**](guide-6th.pdf) - all new 6th grade groups should use this instead of the above group guide for this week  
+## Small Group Guides  
+- [**Goliath Must Fall Week 1: Dead But Still Deadly**](guide.pdf) - everyone *except 6th grade* should use this guide  
+- [**Best Night Week 2: Why We Preach**](guide-6th.pdf) - all new 6th grade groups should use this instead of the above group guide for this week  
 
-# FPS Grow Conference 8/4/2018
-Our fall leader training will be held this Saturday 8/4 from 8:30 AM to 1:30 PM at our Pellissippi Campus.  Light breakfast, lunch, and childcare will be provided for those that registered in advance.  
+## Small Group Service Opportunity
+During week 3 of *At The Movies*, Faith Promise will be giving out a t-shirt to everyone in attendance. FP Students will be preparing all of those t-shirts this week. Each small group will find bags, shirts, and stickers in their room on Wednesday night. Your group needs to fold the shirts, place them in bags, and place stickers on the outside. Written instructions will be provided, but it will be very self-explanatory! This will be a be a great chance to serve others, grow together, and gain influence as a ministry. Please direct any questions about this service opportunity to [Noah Marshall](mailto:NoahM@faithpromise.org)!  
 
-# Next Wednesday 8/8/2018 - FPS Baptism Night!
-This is when we baptize students that cannot do so at a weekend FP service. If you have a student that wants to be baptized next Wednesday and you have counseled them & have parental permission, [email Taylor Henry](mailto:taylorh@faithpromise.org) so we can help them take this public step of obedience to God and his Word!  
+## Baptism Night  
+If you have a student that wants to be baptized but can't do so on a weekend, counsel them & get parental permission, then [email Taylor Henry](mailto:TaylorH@faithpromise.org) ASAP!  
 
 # The Bash 8/22/2018  
 Save this date for our annual back-to-school party - more details to be announced. This is a great event for students to invite guests to!
