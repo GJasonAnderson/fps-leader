@@ -29,4 +29,4 @@ Encourage your students to [**register now for Movement Conference 2019!**](http
 <script src="scripts.js"></script>
 
 <!--Bottom Page Nav Buttons-->
-<a class="btn btn-default btn-sm" href="/fusion" role="button"><b>Fusion Weekend</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
+<a class="btn btn-default btn-sm" href="/leaders" role="button"><b>Leaders' Lounge</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
