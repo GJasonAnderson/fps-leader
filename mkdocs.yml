@@ -3,5 +3,5 @@ site_url: https://fps-leader.com
 theme: cinder
 pages:
     - This Week @ FPS: index.md
-    - Fusion Weekend: fusion.md
-    - Movement Conference: movement.md
+    - Leaders' Lounge: leaders.md
+    - Coaches' Corner: coaches.md
