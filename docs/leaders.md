@@ -1,4 +1,4 @@
-# Leaders' Lounge
+# Leaders
 Small group leaders are the heartbeat of fpStudents - this ministry is thriving because of your service and sacrifice. This page is designed to help you become a better small group leader and increase the impact of the time and effort you put into your ministry. Thank you for all that you are doing for your students!
 
 ## Five Behaviors of a Leader  

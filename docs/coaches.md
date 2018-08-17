@@ -1,4 +1,4 @@
-# Coaches' Corner  
+# Coaches  
 If small group leaders are the heart of fpStudents, then coaches are the nervous system - we have to be ready to guide our leaders down not only the communal road of making FPS happen every week but also their own personal path of Christian growth and development. Thanks for investing the time to make your leaders better - your contribution is making a difference in their lives and the lives of all the students that they lead.
 
 ## Five Behaviors of a Coach  

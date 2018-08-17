@@ -3,5 +3,5 @@ site_url: https://fps-leader.com
 theme: cinder
 pages:
     - This Week @ FPS: index.md
-    - Leaders' Lounge: leaders.md
-    - Coaches' Corner: coaches.md
+    - Leaders: leaders.md
+    - Coaches: coaches.md
