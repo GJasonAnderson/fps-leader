@@ -24,4 +24,4 @@ If you well and truly don't know what to do next, *Add Value* should always be y
 
 <!--Bottom Page Nav Buttons-->
 <hr>
-<a class="btn btn-default btn-sm" href="/leaders" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Leaders' Lounge</b></a>
+<a class="btn btn-default btn-sm" href="/leaders" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Leaders</b></a>

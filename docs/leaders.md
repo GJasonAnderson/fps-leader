@@ -24,4 +24,4 @@ When nothing seems to be working with your students or you just don't know what 
 <!--Bottom Page Nav Buttons-->
 <hr>
 <a class="btn btn-default btn-sm" href="/" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>This Week @ FPS</b></a>
-<a class="btn btn-default btn-sm" href="/coaches" role="button"><b>Coaches' Corner</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
+<a class="btn btn-default btn-sm" href="/coaches" role="button"><b>Coaches</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
