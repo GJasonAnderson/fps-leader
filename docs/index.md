@@ -1,7 +1,7 @@
 # This Week @ FPS  
 Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!
 
-## Wednesday 8/8/2018  
+## Wed. Night | 8/8/2018  
 
 ### Small Group Guides  
 - [**Goliath Must Fall Week 2: Fear**](guide.pdf) - everyone *except 6th grade* should use this guide  
@@ -13,7 +13,7 @@ Because of all the hard work last week, we were able to prep almost 7,000 t-shir
 ### Survey Night  
 Pick up your survey questions at check-in and turn your results in after small group at the info tables in the lobby. Thanks for helping us measure God's success through this ministry!  
 
-## The Bash 8/22/2018  
+## The Bash | 8/22/2018  
 This will be the BIGGEST back to school party in Knoxville! Not only are we going to have fun, but this will be a time where God blesses us with hundreds of new students and VIPs across all campuses. This will be the biggest night of the year at FPS, so we will need all hands on deck. **No small groups this week, plus a minor schedule change** - we will **start at 7:00 PM** with an abbreviated time of worship and a message, followed by a crazy outdoor party that **wraps up at 9:00 PM**.
 
 <!--End of Markdown Content-->
