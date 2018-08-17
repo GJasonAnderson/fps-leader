@@ -1,13 +1,15 @@
-# This Wednesday 8/15/2018  
+# This Week @ FPS  
 
-## Small Group Guides  
+## Wednesday 8/8/2018  
+
+### Small Group Guides  
 - [**Goliath Must Fall Week 2: Fear**](guide.pdf) - everyone *except 6th grade* should use this guide  
 - [**Best Night Week 3: Why We Group**](guide-6th.pdf) - all new 6th grade groups should use this instead of the above group guide for this week  
 
-## Free T-Shirts!
+### Free T-Shirts!
 Because of all the hard work last week, we were able to prep almost 7,000 t-shirts for the upcoming [*At the Movies*](https://faithpromise.org/events/atm) giveaway! All students and leaders will get a free t-shirt this week as our way of saying **THANK YOU!**
 
-## Survey Night  
+### Survey Night  
 Pick up your survey questions at check-in and turn your results in after small group at the info tables in the lobby. Thanks for helping us measure God's success through this ministry!  
 
 # The Bash 8/22/2018  
