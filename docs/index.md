@@ -7,7 +7,7 @@ Here's what's going on at fpStudents this week, as well as some future events to
 Starting this week and running through Halloween, we will have a theme each night of fpStudents - this week is **Team Night** - wear your favorite team's jersey, t-shirt, etc. The remainder of the Hope Nights schedule is listed below.
 
 ### *Live Original Tour* - Free Tickets!
-![Sadie Robertson's Live Original Tour](liveoriginal.jpg)
+![Sadie Robertson's Live Original Tour](liveoriginal.jpg)  
 FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) on Wednesday, October 24th, with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson). **Free tickets** will be given out this week - you must be present to reserve yours!  
 
 ### Group Guides  
