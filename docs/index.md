@@ -15,9 +15,10 @@ FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.
 - [*Best Night* Week 4 - Why We Worship](guide-6th.pdf) *6th grade only*
 
 ## Next Wednesday | 5 Sept 2018  
-**Attention All 6th Grade Leaders** - there will be a special meeting for all 6th grade leaders in the worship center at 8:00 PM (immediately after large group, during high small group time) - plan to be there!  
 
 ### Hope Night Theme - Preach Off
+
+**Attention All 6th Grade Leaders** - there will be a special meeting for all 6th grade leaders in the worship center at 8:00 PM (immediately after large group, during high small group time) - plan to be there!  
 
 ## Future Hope Night Schedule  
 - Sept 12th – Throwback Night
