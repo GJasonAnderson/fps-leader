@@ -6,11 +6,9 @@ Here's what's going on at fpStudents this week, as well as some future events to
 ### 6th Grade Leader Meeting  
 There will be a special meeting for all 6th grade leaders in the worship center at 8:00 PM (immediately after large group, during high small group time) - plan to be there!  
 
-<!--
 ### Group Guides  
-- [*Goliath Must Fall* Week 3 - Who is David?](guide.pdf) *7th - 12th grade*
-- [*Best Night* Week 4 - Why We Worship](guide-6th.pdf) *6th grade only*
--->
+- [*Goliath Must Fall* Week 4 - Comfort Must Fall](guide.pdf) *7th - 12th grade*  
+- [*Wired* Week 1 - God is Present](guide-6th.pdf) *6th grade only*  
 
 ## 12 Sept 2018 | Throwback Night  
 
