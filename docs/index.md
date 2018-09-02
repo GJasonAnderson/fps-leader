@@ -4,7 +4,10 @@ Here's what's going on at fpStudents this week, as well as some future events to
 ## 5 Sept 2018 | Preach Off  
 
 ### 6th Grade Leader Meeting  
-There will be a special meeting for all 6th grade leaders in the worship center at 8:00 PM (immediately after large group, during high small group time) - plan to be there!  
+There will be a special meeting for all 6th grade leaders in the worship center at 8:00 PM (immediately after large group, during high school small group time) - plan to be there!  
+
+### *Live Original Tour* Tickets  
+Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - supplies are limited and you must reserve a seat in order to attend on 24 Oct 2018.
 
 ### Group Guides  
 - [*Goliath Must Fall* Week 4 - Comfort Must Fall](guide.pdf) *7th - 12th grade*  
@@ -21,6 +24,9 @@ There will be a special meeting for all 6th grade leaders in the worship center 
 ## 10 Oct 2018 | PJ Night  
 
 ## 17 Oct 2018 | Color Wars  
+
+### *Live Original Tour* Reserved Ticket Pickup  
+You must pick up your reserved ticket this week in order to attend the event next week.
 
 ## 24 Oct 2018 | Live Original Tour  
 FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson).  
