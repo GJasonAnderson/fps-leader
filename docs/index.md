@@ -46,6 +46,7 @@ Fusion is earlier in the year that in the past, so it's super important that lea
 ## 17-21 July 2019 | Movement Conference  
 *Movement is a three day conference where students from across the state of Tennessee are encouraged and inspired to join the movement and take it back to their schools and communities. Students will experience incredible worship and music, be inspired by world-class communicators, and have a ton of fun with hundreds of other students. An awakening is coming to our nation, and we believe it will start right here, right now - will you join the Movement?*  
 
+### Student & Leader Registration
 [Registration is now open for Movement Conference 2019](https://movementconf.com/) for everyone; leaders can register for free using the promo code `OWNER19`.
 
 <!--End of Markdown Content-->
