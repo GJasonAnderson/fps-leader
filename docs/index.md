@@ -6,7 +6,7 @@ Here's what's going on at fpStudents this week, as well as some future events to
 ### 6th Grade Leader Meeting  
 There will be a special meeting for all 6th grade leaders in the worship center at 8:00 PM (immediately after large group, during high school small group time) - plan to be there!  
 
-### *Live Original Tour* Tickets  
+### Reserve Your *Live Original Tour* Tickets  
 Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - supplies are limited and you must reserve a seat in order to attend on 24 Oct 2018.
 
 ### Group Guides  
