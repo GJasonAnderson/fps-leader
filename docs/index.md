@@ -34,19 +34,19 @@ FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.
 
 ## 31 Oct 2018 | Costume Night  
 
-## 18-20 Jan 2019 | Fusion Weekend   
+# 18-20 Jan 2019 | Fusion Weekend   
 *Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, meals, and some sleep each night. Music, worship, speaker messages, and just-for-fun events are experienced Friday night and throughout the day Saturday. The weekend closes out on Sunday at your local Faith Promise campus.*  
 
-### Leader Registration  
+## Leader Registration  
 [Fusion Leader Registration](https://my.faithpromise.org/portal/get_form.aspx?id=bad6d912-5be3-4035-8018-f97b6930be56) is open now - please register as soon as you are able!
 
-### Host Homes
+## Host Homes
 Fusion is earlier in the year that in the past, so it's super important that leaders secure host homes as early as possible. Start asking the parents of your students NOW - **our goal this year is for every small group to have a host home by Thanksgiving!**  
 
-## 17-21 July 2019 | Movement Conference  
+# 17-21 July 2019 | Movement Conference  
 *Movement is a three day conference where students from across the state of Tennessee are encouraged and inspired to join the movement and take it back to their schools and communities. Students will experience incredible worship and music, be inspired by world-class communicators, and have a ton of fun with hundreds of other students. An awakening is coming to our nation, and we believe it will start right here, right now - will you join the Movement?*  
 
-### Student & Leader Registration
+## Student & Leader Registration
 [Registration is now open for Movement Conference 2019](https://movementconf.com/) for everyone; leaders can register for free using the promo code `OWNER19`.
 
 <!--End of Markdown Content-->
