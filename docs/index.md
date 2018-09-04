@@ -10,8 +10,8 @@ There will be a special meeting for all 6th grade leaders in the worship center 
 Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - supplies are limited and you must reserve a seat in order to attend on 24 Oct 2018.
 
 ### Group Guides  
-- [*Goliath Must Fall* Week 4 - Comfort Must Fall](guide.pdf) *7th - 12th grade*  
-- [*Wired* Week 1 - God is Present](guide-6th.pdf) *6th grade only*  
+- [*Goliath Must Fall* Week 4 - Comfort Must Fall](guide.pdf) *(7th - 12th grade)*  
+- [*Wired* Week 1 - God is Present](guide-6th.pdf) *(6th grade only)*  
 
 ## 12 Sept 2018 | Throwback Night  
 
