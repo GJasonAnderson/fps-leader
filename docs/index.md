@@ -14,8 +14,8 @@ Don't forget to reserve your free tickets for [Sadie Robertson's Live Original T
 - [*Wired* Week 1 - God is Present](guide-6th.pdf) *(6th grade only)*  
 -->
 
-### New *Leaders* and *Coaches* Pages  
-Take a minute or two to check out the new pages dedicated to our awesome [leaders](leaders.md) and [coaches](coaches.md). We will be posting more online training resources here soon, but reviewing what's already there is a great start towards improving your effectiveness in your current role.
+### New Pages for Leaders and Coaches  
+Take a minute or two to check out the new pages dedicated to our awesome [leaders](leaders.md) and [coaches](coaches.md). We will be posting more online training resources here soon, but reviewing what's already there is a great start towards improving your effectiveness in your current role.  
 
 ## 19 Sept 2018 | Rockstar vs Rapper  
 
