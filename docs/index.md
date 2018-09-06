@@ -1,19 +1,21 @@
 # This Week @ FPS  
 Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
 
-## 5 Sept 2018 | Preach Off  
-
-### 6th Grade Leader Meeting  
-There will be a special meeting for all 6th grade leaders in the worship center at 8:00 PM (immediately after large group, during high school small group time) - plan to be there!  
+## 12 Sept 2018 | Throwback Night  
+Dress up & represent some time from the past that you feel connected to. Doesn't matter if you are a 60's hippie, still have the big hair from the 80's, or you just like dressing up in your own vintage flair.
 
 ### Reserve Your *Live Original Tour* Tickets  
-Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - supplies are limited and you must reserve a seat in order to attend on 24 Oct 2018.
+Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - **supplies are extremely limited and close to "selling" out!** You must reserve a seat in order to attend fpStudents on 24 Oct 2018.
 
 ### Group Guides  
+*This week's group guides will be posted as soon as they are available.*
+<!--
 - [*Goliath Must Fall* Week 4 - Comfort Must Fall](guide.pdf) *(7th - 12th grade)*  
 - [*Wired* Week 1 - God is Present](guide-6th.pdf) *(6th grade only)*  
+-->
 
-## 12 Sept 2018 | Throwback Night  
+### New *Leaders* and *Coaches* Pages  
+Take a minute or two to check out the new pages dedicated to our awesome [leaders](leaders.md) and [coaches](coaches.md). We will be posting more online training resources here soon, but reviewing what's already there is a great start towards improving your effectiveness in your current role.
 
 ## 19 Sept 2018 | Rockstar vs Rapper  
 
