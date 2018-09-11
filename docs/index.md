@@ -4,6 +4,9 @@ Here's what's going on at fpStudents this week, as well as some future events to
 ## 12 Sept 2018 | Throwback Night  
 Dress up & represent some time from the past that you feel connected to. Doesn't matter if you are a 60's hippie, still have the big hair from the 80's, or you just like dressing up in your own vintage flair.
 
+### Survey Night  
+Please pick up a survey card at check-in and turn in at the information tables after small group.  
+
 ### Group Guides  
 - [*Sway* Week 1 - You Have All You Need](guide.pdf) *(7th - 12th grade)*  
 - [*Wired* Week 2 - Made in God's Image](guide-6th.pdf) *(6th grade only)*  
