@@ -3,14 +3,18 @@ Here's what's going on at fpStudents this week, as well as some future events to
 
 ## 19 Sept 2018 | Rockstar vs Rapper  
 Which are you - a rockstar or a rapper? Dress up as your preference and help us see which is more popular at fpStudents!  
-<!--
+
+<!--  
+
 ### Group Guides  
 - [*Sway* Week 1 - You Have All You Need](guide.pdf) *(7th - 12th grade)*  
 - [*Wired* Week 2 - Made in God's Image](guide-6th.pdf) *(6th grade only)*  
 
 ### Reserve Your *Live Original Tour* Tickets  
-Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - **supplies are extremely limited and close to "selling" out!** You must reserve a seat in order to attend fpStudents on 24 Oct 2018.
--->
+Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - **supplies are extremely limited and close to "selling" out!** You must reserve a seat in order to attend fpStudents on 24 Oct 2018.  
+
+-->  
+
 ### New Pages for Leaders and Coaches  
 Take a minute or two to check out the new pages dedicated to our awesome [leaders](leaders.md) and [coaches](coaches.md). We will be posting more online training resources here soon, but reviewing what's already there is a great start towards improving your effectiveness in your current role.  
 
