@@ -4,16 +4,16 @@ Here's what's going on at fpStudents this week, as well as some future events to
 ## 19 Sept 2018 | Rockstar vs Rapper  
 Which are you - a rockstar or a rapper? Dress up as your preference and help us see which is more popular at fpStudents!  
 
-<!--  
-
 ### Group Guides  
-- [*Sway* Week 1 - You Have All You Need](guide.pdf) *(7th - 12th grade)*  
-- [*Wired* Week 2 - Made in God's Image](guide-6th.pdf) *(6th grade only)*  
+This is the last week of special 6th grade curriculum - starting next week, we will only be posting one group guide for all grades.  
+- [*Sway* Week 2 - It's Up to You](guide.pdf) *(7th - 12th grade)*  
+- [*Wired* Week 3 - Spreading God's Love](guide-6th.pdf) *(6th grade only)*  
+
+### Baptism Stories  
+Please share your personal baptism story in group this week and give your students a chance to ask questions - we want to do all that we can to encourage them to be obedient to the scriptures and get this done if they are a believer.  
 
 ### Reserve Your *Live Original Tour* Tickets  
 Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - **supplies are extremely limited and close to "selling" out!** You must reserve a seat in order to attend fpStudents on 24 Oct 2018.  
-
--->  
 
 ### New Pages for Leaders and Coaches  
 Take a minute or two to check out the new pages dedicated to our awesome [leaders](leaders.md) and [coaches](coaches.md). We will be posting more online training resources here soon, but reviewing what's already there is a great start towards improving your effectiveness in your current role.  
