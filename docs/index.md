@@ -4,8 +4,8 @@ Here's what's going on at fpStudents this week, as well as some future events to
 ## 26 Sept 2018 | Island Night  
 Break out the Hawaiian shirts and hula skirts - Island Night is happening this week!  
 
-### Group Guides
-This week's guide will be posted soon.  
+### Group Guide  
+[*Sway* Week 3: Not My Problem](guide.pdf)  
 
 ### Reserve Your *Live Original Tour* Tickets  
 Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - **supplies are extremely limited and close to "selling" out!** You must reserve a seat in order to attend fpStudents on 24 Oct 2018.  
