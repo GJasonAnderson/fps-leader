@@ -1,19 +1,70 @@
 # This Week @ FPS  
 Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
 
-## 26 Sept 2018 | Island Night  
-Break out the Hawaiian shirts and hula skirts - Island Night is happening this week!  
+## 3 Oct 2018 | Blackout  
+Dress in all black, from head to toe.  
 
 ### Group Guide  
-[*Sway* Week 3: Not My Problem](guide.pdf)  
+[*Sway* Week 4: The will know We are Christians by our...](guide.pdf)  
+
+### Message from Pastor Jeff  
+Last Wednesday was incredible as we watched 50+ students give their hearts to Jesus! Pastor preached a great message and I’m grateful for his support of fps.  
+
+Speaking of that, I need your help with a few things. The room has been a little crazy lately due to adding new students far from Jesus since the Bash. We want to provide a  safe environment for them to find Jesus, but also protect the worship environment we have. Here are two ways I’m asking for your help as group leaders to protect our environment:  
+
+- Be in worship by 7:05pm. No one but security should be in the lobby after 7:05. We all need to be in worship with the students.
+- Worship up front with the students. I want them to see you worship and learn what this looks like.
+- Sit with students. I would love to see group leaders sit with a few students from their group. Even if you can’t find them, please sit with students throughout the room to provide a solid adult presence.  
+
+### Squad Wars begins this week!  
+**What is Squad Wars?**  
+Squad Wars is our yearly momentum building month.  We do Squad Wars to arm students and leaders with a tool to use in inviting others to fps.  This plays out as a competition between squads (grades) that includes a theme they can participate in, stage games, social media challenges, etc. The squads are competing for a large prize for the entire squad. While it is always extra work to pull off, every time we have done it God has brought a supernatural momentum to the ministry and with that at stake we cannot pass up this incredible opportunity!  
+
+**Do I need to participate?**  
+Yes! While it is certainly out of a lot of our comfort zones, time and time again we see that where the most bought in leaders are so also are the most bought in students.  When you participate so will your students!  
+
+**What are the themes and how do we participate?**  
+October 3rd – Blackout: Wear as much black as you can.  
+Octber 10th – PJ Night: Bring your PJs to fps.  
+October 17th – Color Wars: Wear your squad’s color to fps.  This night will have double points!  
+October 24th – Saidee Robertson tour: Social media challenge – Post a photo with members of your squad at the Saidee tour and hashtag #SquadWars for points  
+October 31st – Costume Party: Wear a costume for TRIPLE points.  This will be a chance for any squad to win it all.  
+
+**How do we win points?**  
+VIPs – 800 points. Bringing first time guests is the BEST way to win points.   
+Stage games – 1200 points.  This is a chunk of points, but again: the BEST way to win points is bringing VIPs  
+Social Media Challenges – 200 points for participation, 1000 points for winner  
+Theme participation – 100 points per student who participates  
+
+**How are points calculated?**
+Each week we will be sending out a squad wars update.  This will include all of the ways to win points for the upcoming week.  Coaches will be responsible for collecting the data for each of those things from your leaders and sending to Noah (NoahM@faithpromise.org) at the end of each Wednesday night.  Our team will do the work of compiling points and a point update will go out early each week on Instagram. To ensure your squad gets the points it has earned, please make this a priority.  
+
+**What squad am I on?**  
+Red – 6th Grade  
+Teal – 7th Grade  
+Blue – 8th Grade  
+White – 9th Grade  
+Yellow – 10th Grade  
+Orange – 11th Grade  
+Black - 12th Grade  
+
+**What will my squad get if we win?**  
+The final prize that all of the squads will be competing for is food in small group EVERY WEEK in December!  We will be putting together a package of food options each group will be able to individually decide upon including Chick-Fil-A, Dessert, Pizza, Wings, etc. Lets use this to motivate students (and leaders, lets be honest) to own this month!  
+
+### New *Weekly Update* Email and the Future of This Website  
+Starting this week on Oct. 3, FPS will be sending out a *Weekly Update* email every Wednesday night that contains the group guide for next week and any related announcements. This email will go out to all leaders directly and will make this website redundant and possibly unnecessary. **Please take a minute to tell me your thoughts about this** - unless there is an overwhelming desire to keep the site going, it may be shutting down soon.
+
+<form name="Future_Form" netlify>
+	I believe that FPS-Leader.com is...<br>
+  <input type="radio" name="future" value="keep_the_site_going"> really useful for me, and I prefer it to an email - please keep the site going.<br>
+  <input type="radio" name="future" value="shut_the_site_down"> not needed by me because of the new email system - if it shuts down, I won't miss it.<br>
+  <input type="radio" name="future" value="comment_needed"> <input type="text" name="comments"><br>
+  <br>
+  <button type="submit">Submit</button>
+</form>
 
 ### Reserve Your *Live Original Tour* Tickets  
 Don't forget to reserve your free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) at FPS this week - **supplies are extremely limited and close to "selling" out!** You must reserve a seat in order to attend fpStudents on 24 Oct 2018.  
-
-### New Pages for Leaders and Coaches  
-Take a minute or two to check out the new pages dedicated to our awesome [leaders](leaders.md) and [coaches](coaches.md). We will be posting more online training resources here soon, but reviewing what's already there is a great start towards improving your effectiveness in your current role.  
-
-## 3 Oct 2018 | Blackout  
 
 ## 10 Oct 2018 | PJ Night  
 
