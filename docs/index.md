@@ -1,13 +1,16 @@
 # This Week @ FPS  
 Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
 
+<a class="btn btn-primary btn-block" href="#11-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
+
+
 ## 10 Oct 2018 | PJ Night  
 Wear your pajamas and get comfortable with us at FPS this week. It's Knox Co. Schools fall break, so don't worry if attendance seems a little less than usual. Also, please remember to have the lobby clear and be in large group by 7:05 PM - that goes for students and leaders!    
 
 ### Group Guide  
 This week we are beginning a new series called *Asking for a Friend*, in which we will discus anxiety, depression, loneliness, abandonment, unforgiveness, addictions, and sin. Due to the heavy nature of this series, we are also providing Crisis Conversation Guides for both high school and middle school to go along with the weekly Group Guides.  
 
-- [*Asking for a Friend* Week 1: Anxiety and Depression](guide.pdf)  
+- [*Asking for a Friend* Week 1 - Anxiety and Depression](guide.pdf)  
 - [Crisis Conversation Guide - Middle School](crisis-ms.pdf)  
 - [Crisis Conversation Guide - High School](crisis-hs.pdf)  
 
@@ -71,14 +74,14 @@ FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.
 
 ## 31 Oct 2018 | Costume Night  
 
+## 11 Nov 2018 | Fusion Host Home Registration Deadline  
+Fusion 2019 is earlier in the year than in the past, so it's super important that leaders secure host homes as early as possible. Let us know where your group is staying at the [Fusion 2019 Host Home Registration](https://docs.google.com/forms/d/e/1FAIpQLSdXV04WAgmCv1IVQsg0SbhXDg8JXIhdhzvgeh-BPC3PSPSrBQ/viewform?c=0&w=1&usp=mail_form_link) page.
+
 # 18-20 Jan 2019 | Fusion Weekend   
 *Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, meals, and some sleep each night. Music, worship, speaker messages, and just-for-fun events are experienced Friday night and throughout the day Saturday. The weekend closes out on Sunday at your local Faith Promise campus.*  
 
 ## Leader Registration  
-[Fusion Leader Registration](https://my.faithpromise.org/portal/get_form.aspx?id=bad6d912-5be3-4035-8018-f97b6930be56) is open now - please register as soon as you are able!
-
-## Host Home Registration
-Fusion is earlier in the year that in the past, so it's super important that leaders secure host homes as early as possible. Let us know where your group is staying at the [Host Home Registration](https://docs.google.com/forms/d/e/1FAIpQLSdXV04WAgmCv1IVQsg0SbhXDg8JXIhdhzvgeh-BPC3PSPSrBQ/viewform?c=0&w=1&usp=mail_form_link) page - **the registration deadline is November 30th!**  
+[Fusion 2019 Leader Registration](https://my.faithpromise.org/portal/get_form.aspx?id=bad6d912-5be3-4035-8018-f97b6930be56) is open now - please register as soon as you are able!  
 
 # 17-21 July 2019 | Movement Conference  
 *Movement is a three day conference where students from across the state of Tennessee are encouraged and inspired to join the movement and take it back to their schools and communities. Students will experience incredible worship and music, be inspired by world-class communicators, and have a ton of fun with hundreds of other students. An awakening is coming to our nation, and we believe it will start right here, right now - will you join the Movement?*  

@@ -1,6 +1,6 @@
 // COUNTDOWN TIMER
 // Set the date we are counting down to
-var countDownDate = new Date("July 11, 2018 18:00:00").getTime();
+var countDownDate = new Date("November 11, 2018 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -31,9 +31,9 @@ var x = setInterval(function() {
     // If the count down is over, write some text
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("MyTimer").innerHTML = "The event has begun!";
+        document.getElementById("MyTimer").innerHTML = "---";
     }
 }, 1000);
 
 // EXAMPLE TEXT BLOCK for referring page
-// <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button"><span id="MyTimer"></span></a>
+// <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button">text goes here<span id="MyTimer"></span></a>
