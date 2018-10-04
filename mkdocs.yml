@@ -4,4 +4,4 @@ theme: cinder
 nav:
 - This Week @ FPS: index.md
 - Leaders: leaders.md
-- Coaches: coachenav
+- Coaches: coaches.nav
