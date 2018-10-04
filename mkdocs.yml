@@ -1,7 +1,7 @@
 site_name: FPS Leader Communications
 site_url: https://fps-leader.com
 theme: cinder
-pages:
+nav:
 - This Week @ FPS: index.md
 - Leaders: leaders.md
-- Coaches: coaches.md
+- Coaches: coachenav
