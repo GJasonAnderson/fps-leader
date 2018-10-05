@@ -88,6 +88,9 @@ Fusion 2019 is earlier in the year than in the past, so it's super important tha
 # 18-20 Jan 2019 | Fusion Weekend   
 *Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, meals, and some sleep each night. Music, worship, speaker messages, and just-for-fun events are experienced Friday night and throughout the day Saturday. The weekend closes out on Sunday at your local Faith Promise campus.*  
 
+## Student Registration  
+Direct your students and their parents to [the official Fusion 2019 website](http://fpstudents.org/events/fusion-2019) for more info and the online registration form.  
+
 ## Leader Registration  
 [Fusion 2019 Leader Registration](https://my.faithpromise.org/portal/get_form.aspx?id=bad6d912-5be3-4035-8018-f97b6930be56) is open now - please register as soon as you are able!  
 
