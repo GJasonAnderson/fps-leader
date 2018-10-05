@@ -15,7 +15,7 @@ This week we are beginning a new series called *Asking for a Friend*, in which w
 - [Crisis Conversation Guide - High School](crisis-hs.pdf)  
 
 ### Reserve Your *Live Original Tour* Tickets  
-This week is your last chance to reserve free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/). You must reserve a seat in order to attend fpStudents on 24 Oct 2018.  
+This week is your last chance to reserve free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/). **You must reserve a seat in order to attend fpStudents on 24 Oct 2018.**  
 
 ### New *Weekly Update* Email and the Future of This Website  
 Starting this week, FPS is now sending out a *Weekly Update* email every Wednesday night that contains the group guide for next week and any related announcements. This email goes out to all leaders directly and makes this website redundant and possibly unnecessary. **Please take a few seconds to tell us how this will affect your future usage of this website.**
@@ -35,44 +35,52 @@ Squad Wars is our yearly momentum building month.  We do Squad Wars to arm stude
 **Do I need to participate?**  
 Yes! While it is certainly out of a lot of our comfort zones, time and time again we see that where the most bought in leaders are so also are the most bought in students.  When you participate so will your students!  
 
-**What are the themes and how do we participate?**  
-<s>October 3rd – Blackout: Wear as much black as you can.</s>  
-Octber 10th – PJ Night: Bring your PJs to fps.  
-October 17th – Color Wars: Wear your squad’s color to fps.  This night will have double points!  
-October 24th – Saidee Robertson tour: Social media challenge – Post a photo with members of your squad at the Saidee tour and hashtag #SquadWars for points  
-October 31st – Costume Party: Wear a costume for TRIPLE points.  This will be a chance for any squad to win it all.  
+**What are the themes?**  
+
+| Date          | Theme                                                                                 |
+|---------------|---------------------------------------------------------------------------------------|
+| <s>3 Oct</s>  | <s>Blackout</s>                                                                       |
+| **10 Oct**    | [**PJ Night**](#10-oct-2018-pj-night)                                                 |
+| 17 Oct        | [Color Wars](#17-oct-2018-color-wars)                                                 |
+| 24 Oct        | [Social Media Challenge @ *Live Original Tour*](#24-oct-2018-live-original-tour)      |
+| 31 Oct        | [Costume Night](#31-oct-2018-costume-night)                                           |
 
 **How do we win points?**  
 VIPs – 800 points. Bringing first time guests is the BEST way to win points.   
-Stage games – 1200 points.  This is a chunk of points, but again: the BEST way to win points is bringing VIPs  
-Social Media Challenges – 200 points for participation, 1000 points for winner  
-Theme participation – 100 points per student who participates  
+Stage Games – 1,200 points.  This is a chunk of points, but again: the BEST way to win points is bringing VIPs.  
+Social Media Challenges – 200 points for participation, 1,000 points for winner.  
+Theme Participation – 100 points per student who participates.  
 
 **How are points calculated?**
-Each week we will be sending out a squad wars update.  This will include all of the ways to win points for the upcoming week.  Coaches will be responsible for collecting the data for each of those things from your leaders and sending to Noah (NoahM@faithpromise.org) at the end of each Wednesday night.  Our team will do the work of compiling points and a point update will go out early each week on Instagram. To ensure your squad gets the points it has earned, please make this a priority.  
+Each week we will be sending out a squad wars update.  This will include all of the ways to win points for the upcoming week.  **Coaches will be responsible for collecting the data for each of those things from your leaders and sending to Noah (NoahM@faithpromise.org) at the end of each Wednesday night.**  Our team will do the work of compiling points and a point update will go out early each week on Instagram. To ensure your squad gets the points it has earned, please make this a priority.  
 
 **What squad am I on?**  
-Red – 6th Grade  
-Teal – 7th Grade  
-Blue – 8th Grade  
-White – 9th Grade  
-Yellow – 10th Grade  
-Orange – 11th Grade  
-Black - 12th Grade  
+
+| Grade | Squad  |
+|-------|--------|
+| 6th   | Red    |
+| 7th   | Teal   |
+| 8th   | Blue   |
+| 9th   | White  |
+| 10th  | Yellow |
+| 11th  | Orange |
+| 12th  | Black  |
 
 **What will my squad get if we win?**  
 The final prize that all of the squads will be competing for is food in small group EVERY WEEK in December!  We will be putting together a package of food options each group will be able to individually decide upon including Chick-Fil-A, Dessert, Pizza, Wings, etc. Lets use this to motivate students (and leaders, lets be honest) to own this month!  
 
 ## 17 Oct 2018 | Color Wars  
+Wear your squad's color this week for **double Squad Wars points**!  
 
 ### *Live Original Tour* Reserved Ticket Pickup  
 You must pick up your reserved ticket this week in order to attend the event next week.
 
 ## 24 Oct 2018 | Live Original Tour  
-FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson).  
+FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson). **Post a group photo at the event on social media using #SquadWars for points!**  
 ![Sadie Robertson's Live Original Tour](liveoriginal.jpg)  
 
 ## 31 Oct 2018 | Costume Night  
+Wear a costume this week for **triple Squad Wars points** - this could be your squad's chance to pull off a comeback and win it all!  
 
 ## 11 Nov 2018 | Fusion Host Home Registration Deadline  
 Fusion 2019 is earlier in the year than in the past, so it's super important that leaders secure host homes as early as possible. Let us know where your group is staying at the [Fusion 2019 Host Home Registration](https://docs.google.com/forms/d/e/1FAIpQLSdXV04WAgmCv1IVQsg0SbhXDg8JXIhdhzvgeh-BPC3PSPSrBQ/viewform?c=0&w=1&usp=mail_form_link) page.
