@@ -11,4 +11,4 @@
 
 <!--Bottom Page Nav Buttons-->
 <hr>
-<a class="btn btn-default btn-sm" href="/coaches" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Coaches - 5 Behaviors</b></a>
+<a class="btn btn-default btn-sm" href="/coaches" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Coaches: 5 Behaviors</b></a>
