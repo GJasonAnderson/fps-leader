@@ -77,7 +77,7 @@ You must pick up your reserved ticket this week in order to attend the event nex
 
 ## 24 Oct 2018 | Live Original Tour  
 FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson). **Post a group photo at the event on social media using #SquadWars for points!**  
-![Sadie Robertson's Live Original Tour](liveoriginal.jpg)  
+<iframe src="https://www.youtube.com/embed/4KOS1bfX1Do" allowfullscreen></iframe>
 
 ## 31 Oct 2018 | Costume Night  
 Wear a costume this week for **triple Squad Wars points** - this could be your squad's chance to pull off a comeback and win it all!  
