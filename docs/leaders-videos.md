@@ -1,12 +1,4 @@
-# Movement 2018 Leadership Tracks  
-
-## What We've Learned - Part 1  
-<iframe src="https://www.youtube.com/embed/B3wVD-qdlwE" allowfullscreen></iframe>
-
-## What We've Learned - Part 2  
-<iframe src="https://www.youtube.com/embed/XQSVB_OS7t8" allowfullscreen></iframe>
-
-# New Leader Basics  
+# Leader Training Videos  
 
 ## Leader Manual  
 <iframe src="https://www.youtube.com/embed/epGyAwpp4CQ" allowfullscreen></iframe>

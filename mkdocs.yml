@@ -3,6 +3,9 @@ site_url: https://fps-leader.com
 theme: cinder
 nav:
 - This Week @ FPS: index.md
-- Leaders: leaders.md
-- Coaches: coaches.md
-- Videos: videos.md
+- Leaders:
+  - 5 Behaviors: leaders.md
+  - Training Videos: leaders-videos.md
+- Coaches:
+  - 5 Behaviors: coaches.md
+  - Training Videos: coaches-videos.md
