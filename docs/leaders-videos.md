@@ -1,4 +1,4 @@
-# Leader Training Videos  
+# Training Videos for Leaders  
 
 ## Leader Manual  
 <iframe src="https://www.youtube.com/embed/epGyAwpp4CQ" allowfullscreen></iframe>
@@ -17,4 +17,5 @@
 
 <!--Bottom Page Nav Buttons-->
 <hr>
-<a class="btn btn-default btn-sm" href="/coaches" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Coaches</b></a>
+<a class="btn btn-default btn-sm" href="/leaders" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Leaders - 5 Behaviors</b></a>
+<a class="btn btn-default btn-sm" href="/coaches" role="button"><b>Coaches - 5 Behaviors</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
