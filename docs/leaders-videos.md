@@ -12,7 +12,7 @@
 ## Small Group Discussions  
 <iframe src="https://www.youtube.com/embed/iPZKQWV275A" allowfullscreen></iframe>
 
-
+Additional training resources can be found on our [Coaches: Training Videos](coaches-videos.md) page.
 <!--End of Markdown Content-->
 
 <!--Bottom Page Nav Buttons-->
