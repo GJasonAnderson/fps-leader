@@ -3,19 +3,16 @@ Here's what's going on at fpStudents this week, as well as some future events to
 
 <a class="btn btn-primary btn-block" href="#11-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
 
+## 17 Oct 2018 | Color Wars  
+Wear your squad's color this week for **double Squad Wars points**!  
 
-## 10 Oct 2018 | PJ Night  
-Wear your pajamas and get comfortable with us at FPS this week. It's Knox Co. Schools fall break, so don't worry if attendance seems a little less than usual. Also, please remember to have the lobby clear and be in large group by 7:05 PM - that goes for students and leaders!    
+### *Live Original Tour* Reserved Ticket Pickup  
+You must pick up your reserved ticket in person this week in order to attend the event next week.  
 
 ### Group Guide  
-This week we are beginning a new series called *Asking for a Friend*, in which we will discus anxiety, depression, loneliness, abandonment, unforgiveness, addictions, and sin. Due to the heavy nature of this series, we are also providing Crisis Conversation Guides for both high school and middle school to go along with the weekly Group Guides.  
-
-- [*Asking for a Friend* Week 1 - Anxiety and Depression](guide.pdf)  
+- [*Asking for a Friend* Week 2 - Abandonment & Loneliness ](guide.pdf)  
 - [Crisis Conversation Guide - Middle School](crisis-ms.pdf)  
 - [Crisis Conversation Guide - High School](crisis-hs.pdf)  
-
-### Reserve Your *Live Original Tour* Tickets  
-This week is your last chance to reserve free tickets for [Sadie Robertson's Live Original Tour](https://liveoriginal.com/). **You must reserve a seat in order to attend fpStudents on 24 Oct 2018.**  
 
 ### New *Weekly Update* Email and the Future of This Website  
 Starting this week, FPS is now sending out a *Weekly Update* email every Wednesday night that contains the group guide for next week and any related announcements. This email goes out to all leaders directly and makes this website redundant and possibly unnecessary. **Please take a few seconds to tell us how this will affect your future usage of this website.**
@@ -40,8 +37,8 @@ Yes! While it is certainly out of a lot of our comfort zones, time and time agai
 | Date          | Theme                                                                                 |
 |---------------|---------------------------------------------------------------------------------------|
 | <s>3 Oct</s>  | <s>Blackout</s>                                                                       |
-| **10 Oct**    | [**PJ Night**](#10-oct-2018-pj-night)                                                 |
-| 17 Oct        | [Color Wars](#17-oct-2018-color-wars)                                                 |
+| <s>10 Oct</s> | <s>PJ Night</s>                                                                       |
+| **17 Oct**    | [**Color Wars**](#17-oct-2018-color-wars)                                             |
 | 24 Oct        | [Social Media Challenge @ *Live Original Tour*](#24-oct-2018-live-original-tour)      |
 | 31 Oct        | [Costume Night](#31-oct-2018-costume-night)                                           |
 
@@ -69,12 +66,6 @@ Each week we will be sending out a squad wars update.  This will include all of 
 **What will my squad get if we win?**  
 The final prize that all of the squads will be competing for is food in small group EVERY WEEK in December!  We will be putting together a package of food options each group will be able to individually decide upon including Chick-Fil-A, Dessert, Pizza, Wings, etc. Lets use this to motivate students (and leaders, lets be honest) to own this month!  
 
-## 17 Oct 2018 | Color Wars  
-Wear your squad's color this week for **double Squad Wars points**!  
-
-### *Live Original Tour* Reserved Ticket Pickup  
-You must pick up your reserved ticket this week in order to attend the event next week.
-
 ## 24 Oct 2018 | Live Original Tour  
 FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson). **Post a group photo at the event on social media using #SquadWars for points!**  
 <iframe src="https://www.youtube.com/embed/4KOS1bfX1Do" allowfullscreen></iframe>
@@ -82,7 +73,7 @@ FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.
 ## 31 Oct 2018 | Costume Night  
 Wear a costume this week for **triple Squad Wars points** - this could be your squad's chance to pull off a comeback and win it all!  
 
-## 11 Nov 2018 | Fusion Host Home Registration Deadline  
+## 30 Nov 2018 | Fusion Host Home Registration Deadline  
 Fusion 2019 is earlier in the year than in the past, so it's super important that leaders secure host homes as early as possible. Let us know where your group is staying at the [Fusion 2019 Host Home Registration](https://docs.google.com/forms/d/e/1FAIpQLSdXV04WAgmCv1IVQsg0SbhXDg8JXIhdhzvgeh-BPC3PSPSrBQ/viewform?c=0&w=1&usp=mail_form_link) page.
 
 # 18-20 Jan 2019 | Fusion Weekend   
