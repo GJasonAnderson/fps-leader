@@ -7,12 +7,12 @@ Here's what's going on at fpStudents this week, as well as some future events to
 Wear your squad's color this week for **double Squad Wars points**!  
 
 ### *Live Original Tour* Reserved Ticket Pickup  
-You must pick up your reserved ticket in person this week in order to attend the event next week.  
+You must pick up your reserved ticket in person this week in order to attend [the event next week](#24-oct-2018-live-original-tour).  
 
 ### Group Guide  
 - [*Asking for a Friend* Week 2 - Abandonment & Loneliness ](guide.pdf)  
-- [Crisis Conversation Guide - Middle School](crisis-ms.pdf)  
-- [Crisis Conversation Guide - High School](crisis-hs.pdf)  
+- Crisis Conversation Guides for **Middle School** [Small Group Leaders](crisis-ms.pdf) and [Parents](crisis-ms-parents.pdf)  
+- Crisis Conversation Guides for **High School** [Small Group Leaders](crisis-hs.pdf) and [Parents](crisis-hs-parents.pdf)  
 
 ### New *Weekly Update* Email and the Future of This Website  
 Starting this week, FPS is now sending out a *Weekly Update* email every Wednesday night that contains the group guide for next week and any related announcements. This email goes out to all leaders directly and makes this website redundant and possibly unnecessary. **Please take a few seconds to tell us how this will affect your future usage of this website.**
