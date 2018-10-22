@@ -1,7 +1,7 @@
 # This Week @ FPS  
 Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
 
-<a class="btn btn-primary btn-block" href="#11-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
+<a class="btn btn-primary btn-block" href="#30-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
 
 ## 24 Oct 2018 | Live Original Tour  
 FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson). No small groups this week - doors open at 6:00 PM, and the show starts at 7:00 PM. Take this opportunity to spend some quality time with your students, and **post a group photo at the event on social media using #SquadWars for points!**  
