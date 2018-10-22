@@ -50,7 +50,7 @@ Social Media Challenges – 200 points for participation, 1,000 points for winne
 Theme Participation – 100 points per student who participates.  
 
 **How are points calculated?**
-Each week we will be sending out a squad wars update.  This will include all of the ways to win points for the upcoming week.  **Coaches will be responsible for collecting the data for each of those things from your leaders and sending to Noah (NoahM@faithpromise.org) at the end of each Wednesday night.**  Our team will do the work of compiling points and a point update will go out early each week on Instagram. To ensure your squad gets the points it has earned, please make this a priority.  
+Each week we will be sending out a squad wars update.  This will include all of the ways to win points for the upcoming week.  **Coaches will be responsible for collecting the data for each of those things from your leaders and sending to <a href="mailto:noahm@faithpromise.org">NoahM@faithpromise.org</a> at the end of each Wednesday night.**  Our team will do the work of compiling points and a point update will go out early each week on Instagram. To ensure your squad gets the points it has earned, please make this a priority.  
 
 **What squad am I on?**  
 
