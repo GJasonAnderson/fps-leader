@@ -3,24 +3,25 @@ Here's what's going on at fpStudents this week, as well as some future events to
 
 <a class="btn btn-primary btn-block" href="#11-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
 
-## 17 Oct 2018 | Color Wars  
-Wear your squad's color this week for **double Squad Wars points**!  
+## 24 Oct 2018 | Live Original Tour  
+FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson). No small groups this week - doors open at 6:00 PM, and the show starts at 7:00 PM. Take this opportunity to spend some quality time with your students, and **post a group photo at the event on social media using #SquadWars for points!**  
 
-### *Live Original Tour* Reserved Ticket Pickup  
-You must pick up your reserved ticket in person this week in order to attend [the event next week](#24-oct-2018-live-original-tour).  
+<!--
 
 ### Group Guide  
 - [*Asking for a Friend* Week 2 - Abandonment & Loneliness ](guide.pdf)  
 - Crisis Conversation Guides for **Middle School** [Small Group Leaders](crisis-ms.pdf) and [Parents](crisis-ms-parents.pdf)  
 - Crisis Conversation Guides for **High School** [Small Group Leaders](crisis-hs.pdf) and [Parents](crisis-hs-parents.pdf)  
 
+-->
+
 ### New *Weekly Update* Email and the Future of This Website  
-Starting this week, FPS is now sending out a *Weekly Update* email every Wednesday night that contains the group guide for next week and any related announcements. This email goes out to all leaders directly and makes this website redundant and possibly unnecessary. **Please take a few seconds to tell us how this will affect your future usage of this website.**
+FPS is now sending out a *Weekly Update* email every Wednesday night that contains the group guide for next week and any related announcements. This email goes out to all leaders directly and makes this website redundant and possibly unnecessary. **Please take a few seconds to tell us how this will affect your future usage of this website.**
 
 <form name="Future_Form" netlify>
 	I believe that FPS-Leader.com is...<br>
   <input type="radio" name="future" value="keep_the_site_going"> really useful for me, and I prefer it to an email - please keep the site going.<br>
-  <input type="radio" name="future" value="shut_the_site_down"> not needed by me anymore because of the new email system - if it shuts down, I won't miss it.<br>
+  <input type="radio" name="future" value="shut_the_site_down"> not needed anymore because of the new email system - if it shuts down, I won't miss it.<br>
   <input type="radio" name="future" value="comments_needed"> neither of the above: <input type="text" name="comments"><br>
   <button type="submit">Submit</button>
 </form>
@@ -38,8 +39,8 @@ Yes! While it is certainly out of a lot of our comfort zones, time and time agai
 |---------------|---------------------------------------------------------------------------------------|
 | <s>3 Oct</s>  | <s>Blackout</s>                                                                       |
 | <s>10 Oct</s> | <s>PJ Night</s>                                                                       |
-| **17 Oct**    | [**Color Wars**](#17-oct-2018-color-wars)                                             |
-| 24 Oct        | [Social Media Challenge @ *Live Original Tour*](#24-oct-2018-live-original-tour)      |
+| <s>17 Oct</s> | <s>Color Wars</s>                                                                     |
+|** 24 Oct**    | [**Social Media Challenge @ Live Original Tour**](#24-oct-2018-live-original-tour)    |
 | 31 Oct        | [Costume Night](#31-oct-2018-costume-night)                                           |
 
 **How do we win points?**  
@@ -66,9 +67,6 @@ Each week we will be sending out a squad wars update.  This will include all of 
 **What will my squad get if we win?**  
 The final prize that all of the squads will be competing for is food in small group EVERY WEEK in December!  We will be putting together a package of food options each group will be able to individually decide upon including Chick-Fil-A, Dessert, Pizza, Wings, etc. Lets use this to motivate students (and leaders, lets be honest) to own this month!  
 
-## 24 Oct 2018 | Live Original Tour  
-FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson). **Post a group photo at the event on social media using #SquadWars for points!**  
-<iframe src="https://www.youtube.com/embed/4KOS1bfX1Do" allowfullscreen></iframe>
 
 ## 31 Oct 2018 | Costume Night  
 Wear a costume this week for **triple Squad Wars points** - this could be your squad's chance to pull off a comeback and win it all!  
