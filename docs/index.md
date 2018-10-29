@@ -3,28 +3,13 @@ Here's what's going on at fpStudents this week, as well as some future events to
 
 <a class="btn btn-primary btn-block" href="#30-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
 
-## 24 Oct 2018 | Live Original Tour  
-FPS will be hosting [Sadie Robertson's Live Original Tour](https://liveoriginal.com/) with special guests [Mosaic MSC](https://www.mosaicmsc.com/), [Social Club Misfits](http://www.socialclubmisfits.com/), and [John Luke Robertson](http://duckcommander.com/meet-the-family/john-luke-robertson). No small groups this week - doors open at 6:00 PM, and the show starts at 7:00 PM. Take this opportunity to spend some quality time with your students, and **post a group photo at the event on social media using #SquadWars for points!**  
-
-<!--
+## 31 Oct 2018 | Costume Night  
+All groups will find a piñata in your room this week - have fun beating the candy out of it! Also, wear a costume this week for **triple Squad Wars points** and post a pick of your group in costume to **social media using #SquadWars for last minute bonus points** - this could be your squad's chance to pull off a comeback and win it all!  
 
 ### Group Guide  
-- [*Asking for a Friend* Week 2 - Abandonment & Loneliness ](guide.pdf)  
+- [*Asking for a Friend* Week 3 - Addiction & Unforgiveness ](guide.pdf)  
 - Crisis Conversation Guides for **Middle School** [Small Group Leaders](crisis-ms.pdf) and [Parents](crisis-ms-parents.pdf)  
 - Crisis Conversation Guides for **High School** [Small Group Leaders](crisis-hs.pdf) and [Parents](crisis-hs-parents.pdf)  
-
--->
-
-### New *Weekly Update* Email and the Future of This Website  
-FPS is now sending out a *Weekly Update* email every Wednesday night that contains the group guide for next week and any related announcements. This email goes out to all leaders directly and makes this website redundant and possibly unnecessary. **Please take a few seconds to tell us how this will affect your future usage of this website.**
-
-<form name="Future_Form" netlify>
-	I believe that FPS-Leader.com is...<br>
-  <input type="radio" name="future" value="keep_the_site_going"> really useful for me, and I prefer it to an email - please keep the site going.<br>
-  <input type="radio" name="future" value="shut_the_site_down"> not needed anymore because of the new email system - if it shuts down, I won't miss it.<br>
-  <input type="radio" name="future" value="comments_needed"> neither of the above: <input type="text" name="comments"><br>
-  <button type="submit">Submit</button>
-</form>
 
 ### Squad Wars FAQ  
 **What is Squad Wars?**  
@@ -35,13 +20,13 @@ Yes! While it is certainly out of a lot of our comfort zones, time and time agai
 
 **What are the themes?**  
 
-| Date          | Theme                                                                                 |
-|---------------|---------------------------------------------------------------------------------------|
-| <s>3 Oct</s>  | <s>Blackout</s>                                                                       |
-| <s>10 Oct</s> | <s>PJ Night</s>                                                                       |
-| <s>17 Oct</s> | <s>Color Wars</s>                                                                     |
-|** 24 Oct**    | [**Social Media Challenge @ Live Original Tour**](#24-oct-2018-live-original-tour)    |
-| 31 Oct        | [Costume Night](#31-oct-2018-costume-night)                                           |
+| Date          | Theme                                               |
+|---------------|-----------------------------------------------------|
+| <s>3 Oct</s>  | <s>Blackout</s>                                     |
+| <s>10 Oct</s> | <s>PJ Night</s>                                     |
+| <s>17 Oct</s> | <s>Color Wars</s>                                   |
+| <s>24 Oct</s> | <s>Social Media Challenge @ Live Original Tour</s>  |
+| **31 Oct**    | [**Costume Night**](#31-oct-2018-costume-night)     |
 
 **How do we win points?**  
 VIPs – 800 points. Bringing first time guests is the BEST way to win points.   
@@ -66,10 +51,6 @@ Each week we will be sending out a squad wars update.  This will include all of 
 
 **What will my squad get if we win?**  
 The final prize that all of the squads will be competing for is food in small group EVERY WEEK in December!  We will be putting together a package of food options each group will be able to individually decide upon including Chick-Fil-A, Dessert, Pizza, Wings, etc. Lets use this to motivate students (and leaders, lets be honest) to own this month!  
-
-
-## 31 Oct 2018 | Costume Night  
-Wear a costume this week for **triple Squad Wars points** - this could be your squad's chance to pull off a comeback and win it all!  
 
 ## 30 Nov 2018 | Fusion Host Home Registration Deadline  
 Fusion 2019 is earlier in the year than in the past, so it's super important that leaders secure host homes as early as possible. Let us know where your group is staying at the [Fusion 2019 Host Home Registration](https://docs.google.com/forms/d/e/1FAIpQLSdXV04WAgmCv1IVQsg0SbhXDg8JXIhdhzvgeh-BPC3PSPSrBQ/viewform?c=0&w=1&usp=mail_form_link) page.
