@@ -3,6 +3,7 @@ Here's what's going on at fpStudents this week, as well as some future events to
 
 <a class="btn btn-primary btn-block" href="#30-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
 
+<!--
 ## 31 Oct 2018 | Costume Night  
 All groups will find a piñata in your room this week - have fun beating the candy out of it! Also, wear a costume this week for **triple Squad Wars points** and post a pick of your group in costume to **social media using #SquadWars for last minute bonus points** - this could be your squad's chance to pull off a comeback and win it all!  
 
@@ -51,6 +52,19 @@ Each week we will be sending out a squad wars update.  This will include all of 
 
 **What will my squad get if we win?**  
 The final prize that all of the squads will be competing for is food in small group EVERY WEEK in December!  We will be putting together a package of food options each group will be able to individually decide upon including Chick-Fil-A, Dessert, Pizza, Wings, etc. Lets use this to motivate students (and leaders, lets be honest) to own this month!  
+-->
+
+## 7 Nov 2018 | Decision Night  
+Pastor Jeff will be encouraging decisions about salvation and baptism - be ready to counsel students in the lobby, as well as call parents and schedule baptisms, *especially if anyone from your group steps up*.  
+
+### Group Guide  
+- [*Asking for a Friend* Week 4 - The Power of Jesus](guide.pdf)  
+- Middle School Crisis Conversation Guides for [Small Group Leaders](crisis-ms.pdf) and [Parents](crisis-ms-parents.pdf)  
+- High School Crisis Conversation Guides for [Small Group Leaders](crisis-hs.pdf) and [Parents](crisis-hs-parents.pdf)  
+
+
+## 14 Nov 2018 | Baptism Night & H4H  
+We always encourage baptisms during weekend services to allow full family participation. However, if you have any students that can't get it done on the weekend for some reason, this will be their last chance in 2018 to be baptized on Wednesday night. Email <a href="mailto:TaylorH@faithpromise.org">Taylor Henry</a> if you have any students in this situation. Our Heart for the Harvest offering will also happen tonight.    
 
 ## 30 Nov 2018 | Fusion Host Home Registration Deadline  
 Fusion 2019 is earlier in the year than in the past, so it's super important that leaders secure host homes as early as possible. Let us know where your group is staying at the [Fusion 2019 Host Home Registration](https://docs.google.com/forms/d/e/1FAIpQLSdXV04WAgmCv1IVQsg0SbhXDg8JXIhdhzvgeh-BPC3PSPSrBQ/viewform?c=0&w=1&usp=mail_form_link) page.
