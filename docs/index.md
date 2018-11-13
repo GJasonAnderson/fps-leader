@@ -3,17 +3,11 @@ Here's what's going on at fpStudents this week, as well as some future events to
 
 <a class="btn btn-primary btn-block" href="#30-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
 
-## 7 Nov 2018 | Decision Night  
-Pastor Jeff will be encouraging decisions about salvation and baptism - be ready to counsel students in the lobby, as well as call parents and schedule baptisms, *especially if anyone from your group steps up*.  
+## 14 Nov 2018 | Baptism Night  
+We always encourage baptisms during weekend services to allow full family participation. However, if you have any students that can't get it done on the weekend for some reason, this will be their last chance in 2018 to be baptized on Wednesday night. Email <a href="mailto:TaylorH@faithpromise.org">Taylor Henry</a> if you have any students in this situation. <s>Our Heart for the Harvest offering will also happen tonight.</s> *Sorry for the mistake, we won't be taking up a separate FPS-specific H4H this week.*    
 
-### Group Guide  
-- [*Asking for a Friend* Week 4 - The Power of Jesus](guide.pdf)  
-- Middle School Crisis Conversation Guides for [Small Group Leaders](crisis-ms.pdf) and [Parents](crisis-ms-parents.pdf)  
-- High School Crisis Conversation Guides for [Small Group Leaders](crisis-hs.pdf) and [Parents](crisis-hs-parents.pdf)  
-
-
-## 14 Nov 2018 | Baptism Night & H4H  
-We always encourage baptisms during weekend services to allow full family participation. However, if you have any students that can't get it done on the weekend for some reason, this will be their last chance in 2018 to be baptized on Wednesday night. Email <a href="mailto:TaylorH@faithpromise.org">Taylor Henry</a> if you have any students in this situation. Our Heart for the Harvest offering will also happen tonight.    
+### Group Guide: [*God's Plan* Week 1 - Studying the Bible](guide.htm)  
+The link above now opens this week's Group Guide in your browser in HTML, and the formatting is mobile-friendly. If you still like the old way of doing things, here's a [PDF version](guide.pdf) instead.
 
 ## 30 Nov 2018 | Fusion Host Home Registration Deadline  
 Fusion 2019 is earlier in the year than in the past, so it's super important that leaders secure host homes as early as possible. Let us know where your group is staying at the [Fusion 2019 Host Home Registration](https://docs.google.com/forms/d/e/1FAIpQLSdXV04WAgmCv1IVQsg0SbhXDg8JXIhdhzvgeh-BPC3PSPSrBQ/viewform?c=0&w=1&usp=mail_form_link) page.
