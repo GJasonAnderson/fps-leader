@@ -1,7 +1,8 @@
 # This Week @ FPS  
 Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
 
-<a class="btn btn-primary btn-block" href="#30-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
+<!--switch btn-danger to btn-primary to return to blue button-->
+<a class="btn btn-danger btn-block" href="#30-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
 
 ## 21 Nov 2018 | No FPS This Week  
 FPS is closed this week for Thanksgiving, but we will be back at it on Wednesday the 28th. **Don't forget about the Fusion Host Home Registration Deadline below!**  
