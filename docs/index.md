@@ -10,13 +10,26 @@ Fusion 2019 is earlier in the year than in the past, so it's super important tha
 ## 4 Dec 2018 | _Christmas Spectacular_ Decorating 1 of 2  
 The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
 
-## 5 Dec 2018 | FPS Wednesday Night  
+## 5 Dec 2018 | Normal FPS Wednesday Night  
+This will be our last "business as usual" FPS until after the holidays - further schedule details below.  
 
 ### Group Guide: [*Uncommon* Week 1 - Grace](guide.htm)  
 The link above now opens this week's Group Guide in your browser in HTML, and the formatting is mobile-friendly. If you still like the old way of doing things, here's a [PDF version](guide.pdf) instead.  
 
 ## 10 Dec 2018 | *Christmas Spectacular* Decorating 2 of 2  
 The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
+
+## 12 Dec 2018 | *Christmas Spectacular* Begins  
+This Wednesday will be the first [Christmas Spectacular](https://www.fpchristmas.com/) service at Pellissippi, so FPS will look very different than usual this week.  
+
+## 19 Dec 2018 | FPS Ugly Sweater Party and the World's Largest Snowball Fight  
+FPS will celebrate in our own special way - more details to be announced.  
+
+## 26 Dec 2018 | No FPS This Week  
+FPS is shutting down for Christmas, but we will be back at it next week!
+
+## 2 Jan 2019 | FPS Returns  
+Fusion starts in a few weeks - are you ready?  
 
 # 18-20 Jan 2019 | Fusion Weekend  
 <details>
