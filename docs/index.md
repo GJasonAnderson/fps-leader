@@ -4,17 +4,19 @@ Here's what's going on at fpStudents this week, as well as some future events to
 <!--switch btn-danger to btn-primary to return to blue button-->
 <a class="btn btn-danger btn-block" href="#30-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
 
-## 28 Nov 2018 | FPS Back in Session  
-Here's hoping you all had a great Thanksgiving - did you remember that **Fusion Host Home Registration Deadline** is upon us?  
-
-### Survey Night  
-Please gather your survey results and turn them in at the green tables in the lobby after small group. 
-
-### Group Guide: [*God's Plan* Week 3 - Prayer](guide.htm)  
-The link above now opens this week's Group Guide in your browser in HTML, and the formatting is mobile-friendly. If you still like the old way of doing things, here's a [PDF version](guide.pdf) instead.  
-
 ## 30 Nov 2018 | Fusion Host Home Registration Deadline  
 Fusion 2019 is earlier in the year than in the past, so it's super important that leaders secure host homes as early as possible. Let us know where your group is staying at the [Fusion 2019 Host Home Registration](https://docs.google.com/forms/d/e/1FAIpQLSdXV04WAgmCv1IVQsg0SbhXDg8JXIhdhzvgeh-BPC3PSPSrBQ/viewform?c=0&w=1&usp=mail_form_link) page.
+
+## 4 Dec 2018 | _Christmas Spectacular_ Decorating 1 of 2  
+The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
+
+## 5 Dec 2018 | FPS Wednesday Night  
+
+### Group Guide: [*Uncommon* Week 1 - Grace](guide.htm)  
+The link above now opens this week's Group Guide in your browser in HTML, and the formatting is mobile-friendly. If you still like the old way of doing things, here's a [PDF version](guide.pdf) instead.  
+
+## 10 Dec 2018 | *Christmas Spectacular* Decorating 2 of 2  
+The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
 
 # 18-20 Jan 2019 | Fusion Weekend  
 <details>
@@ -26,7 +28,7 @@ Fusion 2019 is earlier in the year than in the past, so it's super important tha
 Direct your students and their parents to [the official Fusion 2019 website](http://fpstudents.org/events/fusion-2019) for more info and the online registration form.  
 
 ## Leader Registration  
-[Fusion 2019 Leader Registration](https://my.faithpromise.org/portal/get_form.aspx?id=bad6d912-5be3-4035-8018-f97b6930be56) is open now - please register as soon as you are able!  
+[Fusion 2019 Leader Registration](https://my.faithpromise.org/portal/get_form.aspx?id=bad6d912-5be3-4035-8018-f97b6930be56) is open now, and it's FREE - get it done ASAP!  
 
 # 17-21 July 2019 | Movement Conference  
 <details>
