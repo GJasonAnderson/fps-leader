@@ -12,6 +12,9 @@ Fusion 2019 is earlier in the year than in the past, so it's super important tha
 
 -->
 
+<a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019 - are you registered as a Fusion leader?</a>
+
+
 ## 4 Dec 2018 | _Christmas Spectacular_ Decorating 1 of 2  
 The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
 
