@@ -1,8 +1,6 @@
 # This Week @ FPS  
 Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
 
-
-
 <!-- HIDE HOST HOME STUFF UNTIL CERTAIN WE'RE ALL DONE
 
 <a class="btn btn-danger btn-block" href="#30-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
