@@ -68,7 +68,7 @@ FPS is shutting down for Christmas, but we will be back at it next week!
 Fusion starts in a few weeks - are you ready?  
 
 # 18-20 Jan 2019 | Fusion Weekend  
-![alt text](http://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg "Fusion 2019 Logo")
+![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg "Fusion 2019 Logo")
 <details>
   <summary><button type="button" class="btn btn-default btn-xs">What is Fusion Weekend?</button></summary>
   <h4>Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, meals, and some sleep each night. Music, worship, speaker messages, and just-for-fun events are experienced Friday night and throughout the day Saturday. The weekend closes out on Sunday at your local Faith Promise campus.</h4>
@@ -81,7 +81,7 @@ Direct your students and their parents to [the official Fusion 2019 website](htt
 [Fusion 2019 Leader Registration](https://my.faithpromise.org/portal/get_form.aspx?id=bad6d912-5be3-4035-8018-f97b6930be56) is open now, and it's FREE - get it done ASAP!  
 
 # 17-21 July 2019 | Movement Conference  
-![alt text](http://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
+![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
 <details>
   <summary><button type="button" class="btn btn-default btn-xs">What is Movement Conference?</button></summary>
   <h4>Movement is a three day conference where students from across the state of Tennessee are encouraged and inspired to join the movement and take it back to their schools and communities. Students will experience incredible worship and music, be inspired by world-class communicators, and have a ton of fun with hundreds of other students. An awakening is coming to our nation, and we believe it will start right here, right now - will you join the Movement?</h4>
