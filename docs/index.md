@@ -23,8 +23,8 @@ In keeping with the experimental nature of this site, we are now on [Discord](ht
     Send my invite via...<br>
     <input type="radio" name="SendBy" value="Email"> Email: <input type="email" name="Address"><br>
     <input type="radio" name="SendBy" value="Text"> Text Message: <input type="tel" name="Number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"> <i>Format: 123-456-7890</i><br><br>
-    <button type="submit">Send Request Now</button>
     <div netlify-recaptcha></div>
+    <button type="submit">Send Request Now</button>
   </form>
 </details>  
 
