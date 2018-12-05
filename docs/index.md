@@ -52,8 +52,8 @@ The link above now opens this week's Group Guide in your browser in HTML, and th
 ## 8 Dec 2018 | *All is Bright* Service Opportunity  
 [All is Bright](https://faithpromise.org/events/all-is-bright) is a great opportunity for your small group to serve the community this Christmas. Volunteers are needed this weekend - [sign your group up here](http://signup.com/go/fUgREBy) if you can help. FYI, this is the event at the [Boys & Girls Club on Irwin Street](https://goo.gl/maps/g4QEnm3nUNr) - it is NOT at the Pellissippi campus.
 
-## 10 Dec 2018 | *Christmas Spectacular* Decorating  
-The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
+## 10 Dec 2018 | *Christmas Spectacular* Service Opportunity  
+The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, maybe decorating cookies in Mrs. Claus' Kitchen or just hanging out in the Snow Lounge, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
 
 ## 12 Dec 2018 | *Christmas Spectacular* Begins  
 This Wednesday will be the first [Christmas Spectacular](https://www.fpchristmas.com/) service at Pellissippi, so FPS will look very different than usual this week.  
