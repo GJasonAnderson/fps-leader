@@ -58,8 +58,11 @@ The FPS team will be helping get ready for this year's [Christmas Spectacular](h
 ## 12 Dec 2018 | *Christmas Spectacular* Begins  
 This Wednesday will be the first [Christmas Spectacular](https://www.fpchristmas.com/) service at Pellissippi, with the fun starting at 6:15 PM and a service at 7:00 PM.  
 
-## 19 Dec 2018 | FPS Ugly Sweater Party and the World's Largest Snowball Fight  
-FPS will celebrate in our own special way - more details to be announced.  
+## 19 Dec 2018 | Last FPS Before Christmas  
+We will be having both an Ugly Sweater Party and the World's Largest Indoor Snowball Fight - you don't want to miss this!
+
+### Group Guide: [*Uncommon* Week 2 - Work](guide-2018-12-19.htm)  
+Also available as a [printable PDF](guide-2018-12-19.pdf).  
 
 ## 26 Dec 2018 | No FPS This Week  
 FPS is shutting down for Christmas, but we will be back at it next week!
