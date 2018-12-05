@@ -56,7 +56,7 @@ The link above now opens this week's Group Guide in your browser in HTML, and th
 The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, maybe decorating cookies in Mrs. Claus' Kitchen or just hanging out in the Snow Lounge, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
 
 ## 12 Dec 2018 | *Christmas Spectacular* Begins  
-This Wednesday will be the first [Christmas Spectacular](https://www.fpchristmas.com/) service at Pellissippi, so FPS will look very different than usual this week.  
+This Wednesday will be the first [Christmas Spectacular](https://www.fpchristmas.com/) service at Pellissippi, with the fun starting at 6:15 PM and a service at 7:00 PM.  
 
 ## 19 Dec 2018 | FPS Ugly Sweater Party and the World's Largest Snowball Fight  
 FPS will celebrate in our own special way - more details to be announced.  
