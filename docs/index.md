@@ -13,16 +13,13 @@ Fusion 2019 is earlier in the year than in the past, so it's super important tha
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019 - are you registered as a Fusion leader?</a>
 
-## 4 Dec 2018 | _Christmas Spectacular_ Decorating 1 of 2  
-The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
-
 ## 5 Dec 2018 | Normal FPS Wednesday Night  
 This will be our last "business as usual" FPS until after the holidays - further schedule details below.  
 
 ### Group Guide: [*Uncommon* Week 1 - Grace](guide.htm)  
 The link above now opens this week's Group Guide in your browser in HTML, and the formatting is mobile-friendly. If you still like the old way of doing things, here's a [PDF version](guide.pdf) instead.  
 
-## 10 Dec 2018 | *Christmas Spectacular* Decorating 2 of 2  
+## 10 Dec 2018 | *Christmas Spectacular* Decorating  
 The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
 
 ## 12 Dec 2018 | *Christmas Spectacular* Begins  
