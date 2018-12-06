@@ -41,13 +41,7 @@ Fusion 2019 is earlier in the year than in the past, so it's super important tha
 -->
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
-<a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019 - are you registered as a Fusion leader?</a>
-
-## 5 Dec 2018 | Normal FPS Wednesday Night  
-This will be our last "business as usual" FPS until after the holidays - further schedule details below.  
-
-### Group Guide: [*Uncommon* Week 1 - Grace](guide.htm)  
-The link above now opens this week's Group Guide in your browser in HTML, and the formatting is mobile-friendly. If you still like the old way of doing things, here's a [PDF version](guide.pdf) instead.  
+<a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019!</a>
 
 ## 8 Dec 2018 | *All is Bright* Service Opportunity  
 [All is Bright](https://faithpromise.org/events/all-is-bright) is a great opportunity for your small group to serve the community this Christmas. Volunteers are needed this weekend - [sign your group up here](http://signup.com/go/fUgREBy) if you can help. FYI, this is the event at the [Boys & Girls Club on Irwin Street](https://goo.gl/maps/g4QEnm3nUNr) - it is NOT at the Pellissippi campus.
@@ -56,7 +50,7 @@ The link above now opens this week's Group Guide in your browser in HTML, and th
 The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, maybe decorating cookies in Mrs. Claus' Kitchen or just hanging out in the Snow Lounge, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
 
 ## 12 Dec 2018 | *Christmas Spectacular* Begins  
-This Wednesday will be the first [Christmas Spectacular](https://www.fpchristmas.com/) service at Pellissippi, with the fun starting at 6:15 PM and a service at 7:00 PM.  
+This Wednesday will be the first [Christmas Spectacular](https://www.fpchristmas.com/) service at Pellissippi, with the fun starting at 6:15 PM and a service at 7:00 PM. Bring the whole family along for a great time at church!  
 
 ## 19 Dec 2018 | Last FPS Before Christmas  
 We will be having both an Ugly Sweater Party and the World's Largest Indoor Snowball Fight - you don't want to miss this!
