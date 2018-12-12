@@ -31,15 +31,6 @@ In keeping with the experimental nature of this site, we are now on [Discord](ht
 # This Week @ FPS  
 Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
 
-<!-- HIDE HOST HOME STUFF UNTIL CERTAIN WE'RE ALL DONE
-
-<a class="btn btn-danger btn-block" href="#30-nov-2018-fusion-host-home-registration-deadline" role="button">Only <b><span id="MyTimer"></span></b> until the Fusion 2019 Host Home Registration Deadline!</a>
-
-## 30 Nov 2018 | Fusion Host Home Registration Deadline  
-Fusion 2019 is earlier in the year than in the past, so it's super important that leaders secure host homes as early as possible. Let us know where your group is staying at the [Fusion 2019 Host Home Registration](https://docs.google.com/forms/d/e/1FAIpQLSdXV04WAgmCv1IVQsg0SbhXDg8JXIhdhzvgeh-BPC3PSPSrBQ/viewform?c=0&w=1&usp=mail_form_link) page.
-
--->
-
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019!</a>
 
