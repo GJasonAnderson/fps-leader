@@ -43,20 +43,14 @@ Fusion 2019 is earlier in the year than in the past, so it's super important tha
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019!</a>
 
-## 8 Dec 2018 | *All is Bright* Service Opportunity  
-[All is Bright](https://faithpromise.org/events/all-is-bright) is a great opportunity for your small group to serve the community this Christmas. Volunteers are needed this weekend - [sign your group up here](http://signup.com/go/fUgREBy) if you can help. FYI, this is the event at the [Boys & Girls Club on Irwin Street](https://goo.gl/maps/g4QEnm3nUNr) - it is NOT at the Pellissippi campus.
-
-## 10 Dec 2018 | *Christmas Spectacular* Service Opportunity  
-The FPS team will be helping get ready for this year's [Christmas Spectacular](https://www.fpchristmas.com/) from 5PM-9PM. If you can join us at this time or wish to serve some other way, maybe decorating cookies in Mrs. Claus' Kitchen or just hanging out in the Snow Lounge, [let us know what you can do to help](https://faithpromise.typeform.com/to/rb0Doe).  
-
 ## 12 Dec 2018 | *Christmas Spectacular* Begins  
 This Wednesday will be the first [Christmas Spectacular](https://www.fpchristmas.com/) service at Pellissippi, with the fun starting at 6:15 PM and a service at 7:00 PM. Bring the whole family along for a great time at church!  
 
 ## 19 Dec 2018 | Last FPS Before Christmas  
 We will be having both an Ugly Sweater Party and the World's Largest Indoor Snowball Fight - you don't want to miss this!
 
-### Group Guide: [*Uncommon* Week 2 - Work](guide-2018-12-19.htm)  
-Also available as a [printable PDF](guide-2018-12-19.pdf).  
+### Group Guide: [*Uncommon* Week 2: Uncommon Work](guide.html)  
+Also available as a [printable PDF](guide.pdf).  
 
 ## 26 Dec 2018 | No FPS This Week  
 FPS is shutting down for Christmas, but we will be back at it next week!
