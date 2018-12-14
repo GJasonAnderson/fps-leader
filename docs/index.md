@@ -34,9 +34,6 @@ Here's what's going on at fpStudents this week, as well as some future events to
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019!</a>
 
-## 12 Dec 2018 | *Christmas Spectacular* Begins  
-This Wednesday will be the first [Christmas Spectacular](https://www.fpchristmas.com/) service at Pellissippi, with the fun starting at 6:15 PM and a service at 7:00 PM. **There will be no small group time this week**. Bring the whole family along for a great time at church!  
-
 ## 19 Dec 2018 | Last FPS Before Christmas  
 We will be having both an Ugly Sweater Party and the World's Largest Indoor Snowball Fight - you don't want to miss this!
 
