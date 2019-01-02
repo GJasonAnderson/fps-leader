@@ -16,9 +16,9 @@ Also available as a [printable PDF](guide.pdf).
 -->
 
 # 18-20 Jan 2019 | Fusion Weekend  
-![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg "Fusion 2019 Logo")
 <details>
   <summary><button type="button" class="btn btn-default btn-xs">What is Fusion Weekend?</button></summary>
+  ![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg "Fusion 2019 Logo")
   <h4>Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, meals, and some sleep each night. Music, worship, speaker messages, and just-for-fun events are experienced Friday night and throughout the day Saturday. The weekend closes out on Sunday at your local Faith Promise campus.</h4>
 </details>  
 
