@@ -1,3 +1,43 @@
+# This Week @ FPS  
+Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
+
+<!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
+<a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019!</a>
+
+## 2 Jan 2019 | FPS is Back!  
+To kick off the year, we will be doing a **Day 2 RE:Do** party where we redo the countdown, party, and resolutions. The message will be on the *7 resolutions to living your best life*. Think stage games, a little worship, live interviews, and a short message -- All the while, a 55-minute countdown to the new year redo is on the screen. At the end of the countdown, we will all celebrate and lose our minds!!!
+
+### Group Guide: [Personal Growth Plan](personal-growth-plan.pdf)  
+Instead of the usual guide this week, have all your students complete this Personal Growth Plan. We would love for groups to talk through their word, verse, and plans for 2019. We will have printed copies at adult check-in as well.  
+
+<!--
+### Group Guide: [*Uncommon* Week 2: Uncommon Work](guide.html)  
+Also available as a [printable PDF](guide.pdf).  
+-->
+
+# 18-20 Jan 2019 | Fusion Weekend  
+![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg "Fusion 2019 Logo")
+<details>
+  <summary><button type="button" class="btn btn-default btn-xs">What is Fusion Weekend?</button></summary>
+  <h4>Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, meals, and some sleep each night. Music, worship, speaker messages, and just-for-fun events are experienced Friday night and throughout the day Saturday. The weekend closes out on Sunday at your local Faith Promise campus.</h4>
+</details>  
+
+## Student Registration & Scholarships  
+Direct your students and their parents to [the official Fusion 2019 website](http://fpstudents.org/events/fusion-2019) for more info and the online registration form. Please don't let the $50 cost keep any of your students away - if they need help, complete this [Fusion Scholarship Application](scholarship.pdf) and get it to Taylor Henry [by email](mailto:fpsglobal@faithpromise.org) or in person on Wednesday night.  
+
+## Leader Registration  
+[Fusion 2019 Leader Registration](https://my.faithpromise.org/portal/get_form.aspx?id=bad6d912-5be3-4035-8018-f97b6930be56) is open now, and it's FREE - get it done ASAP!  
+
+# 17-21 July 2019 | Movement Conference  
+![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
+<details>
+  <summary><button type="button" class="btn btn-default btn-xs">What is Movement Conference?</button></summary>
+  <h4>Movement is a three day conference where students from across the state of Tennessee are encouraged and inspired to join the movement and take it back to their schools and communities. Students will experience incredible worship and music, be inspired by world-class communicators, and have a ton of fun with hundreds of other students. An awakening is coming to our nation, and we believe it will start right here, right now - will you join the Movement?</h4>
+</details>  
+
+## Student & Leader Registration
+[Registration is now open for Movement Conference 2019](https://movementconf.com/) for everyone; leaders can register for free using the promo code `OWNER19`.
+
 # New Communication Option  
 In keeping with the experimental nature of this site, we are now on [Discord](https://discordapp.com) answering all your questions about FPS. If you'd like to join the conversation, drop us a line below and we'll get back to you with an invite to our server.  
 
@@ -27,47 +67,6 @@ In keeping with the experimental nature of this site, we are now on [Discord](ht
     <button type="submit">Send Request Now</button>
   </form>
 </details>  
-
-# This Week @ FPS  
-Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
-
-<!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
-<a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019!</a>
-
-## 19 Dec 2018 | Last FPS Before Christmas  
-We will be having both an Ugly Sweater Party and the World's Largest Indoor Snowball Fight - you don't want to miss this!
-
-### Group Guide: [*Uncommon* Week 2: Uncommon Work](guide.html)  
-Also available as a [printable PDF](guide.pdf).  
-
-## 26 Dec 2018 | No FPS This Week  
-FPS is shutting down for Christmas, but we will be back at it next week!
-
-## 2 Jan 2019 | FPS Returns  
-Fusion starts in a few weeks - are you ready?  
-
-# 18-20 Jan 2019 | Fusion Weekend  
-![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg "Fusion 2019 Logo")
-<details>
-  <summary><button type="button" class="btn btn-default btn-xs">What is Fusion Weekend?</button></summary>
-  <h4>Fusion is an overnight weekend retreat that begins on Friday evening and ends on Sunday afternoon. Leaders and students will stay in a local host home for fellowship, small group time, meals, and some sleep each night. Music, worship, speaker messages, and just-for-fun events are experienced Friday night and throughout the day Saturday. The weekend closes out on Sunday at your local Faith Promise campus.</h4>
-</details>  
-
-## Student Registration & Scholarships  
-Direct your students and their parents to [the official Fusion 2019 website](http://fpstudents.org/events/fusion-2019) for more info and the online registration form. Please don't let the $50 cost keep any of your students away - if they need help, complete this [Fusion Scholarship Application](scholarship.pdf) and get it to Taylor Henry [by email](mailto:fpsglobal@faithpromise.org) or in person on Wednesday night.  
-
-## Leader Registration  
-[Fusion 2019 Leader Registration](https://my.faithpromise.org/portal/get_form.aspx?id=bad6d912-5be3-4035-8018-f97b6930be56) is open now, and it's FREE - get it done ASAP!  
-
-# 17-21 July 2019 | Movement Conference  
-![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
-<details>
-  <summary><button type="button" class="btn btn-default btn-xs">What is Movement Conference?</button></summary>
-  <h4>Movement is a three day conference where students from across the state of Tennessee are encouraged and inspired to join the movement and take it back to their schools and communities. Students will experience incredible worship and music, be inspired by world-class communicators, and have a ton of fun with hundreds of other students. An awakening is coming to our nation, and we believe it will start right here, right now - will you join the Movement?</h4>
-</details>  
-
-## Student & Leader Registration
-[Registration is now open for Movement Conference 2019](https://movementconf.com/) for everyone; leaders can register for free using the promo code `OWNER19`.
 
 <!--End of Markdown Content-->
 <script src="scripts.js"></script>
