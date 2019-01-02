@@ -16,6 +16,7 @@ Also available as a [printable PDF](guide.pdf).
 -->
 
 # 18-20 Jan 2019 | Fusion Weekend  
+**The deadline for both student and leader registrations is January 9th!**  
 <details>
   <summary><button type="button" class="btn btn-default btn-xs">What is Fusion Weekend?</button></summary>
   ![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg "Fusion 2019 Logo")
