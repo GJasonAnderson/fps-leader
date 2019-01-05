@@ -2,21 +2,18 @@
 Here's what's going on at fpStudents this week, as well as some future events to plan for. Thanks for all that you do to make this ministry a success!  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
-<a class="btn btn-primary btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019!</a>
+<a class="btn btn-danger btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion 2019!</a>
 
-## 2 Jan 2019 | FPS is Back!  
-To kick off the year, we will be doing a **Day 2 RE:Do** party where we redo the countdown, party, and resolutions. The message will be on the *7 resolutions to living your best life*. Think stage games, a little worship, live interviews, and a short message -- All the while, a 55-minute countdown to the new year redo is on the screen. At the end of the countdown, we will all celebrate and lose our minds!!!
+## 9 Jan 2019 | Fusion Registration Deadline    
+Contact your students this week to invite them to Fusion. If they are waiting until the last minute to register, they need to get it done ASAP. Don't let them miss their chance to attend!  
 
-### Group Guide: [Personal Growth Plan](personal-growth-plan.pdf)  
-Instead of the usual guide this week, have all your students complete this Personal Growth Plan. We would love for groups to talk through their word, verse, and plans for 2019. We will have printed copies at adult check-in as well.  
+### Group Guide: [January Week 2 - Follow the Filling](guide.html)  
+Both small and large groups this week will be tie-ins with Pastor Chris's book *Follow the Filling*. This week's small group guide is also available as a [printable PDF](guide.pdf).  
 
-<!--
-### Group Guide: [*Uncommon* Week 2: Uncommon Work](guide.html)  
-Also available as a [printable PDF](guide.pdf).  
--->
+# 16 Jan 2019 | Fusion Preview  
+Get ready for this preview of what God has for us at Fusion!  
 
 # 18-20 Jan 2019 | Fusion Weekend  
-**The deadline for both student and leader registrations is January 9th!**  
 <details>
   <summary><button type="button" class="btn btn-default btn-xs">What is Fusion Weekend?</button></summary>
   ![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg "Fusion 2019 Logo")
