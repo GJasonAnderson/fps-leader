@@ -10,6 +10,9 @@ Contact your students this week to invite them to Fusion. If they are waiting un
 ### Group Guide: [January Week 2 - Follow the Filling](guide.html)  
 Both small and large groups this week will be tie-ins with Pastor Chris's book *Follow the Filling*. This week's small group guide is also available as a [printable PDF](guide.pdf).  
 
+### Survey Night  
+Please pick up your survey questions before small group and turn them in afterwards at the information counter.  
+
 # 16 Jan 2019 | Fusion Preview  
 Get ready for this preview of what God has for us at Fusion!  
 
