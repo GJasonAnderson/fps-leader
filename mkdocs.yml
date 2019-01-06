@@ -1,7 +1,7 @@
 site_name: 'FPS Leader Communications'
 site_url: 'https://fps-leader.com'
 theme: 'cinder'
-favicon: 'img/favicon.ico'
+site_favicon: 'img/favicon.ico'
 nav:
 - This Week @ FPS: 'index.md'
 - Resources: 'resources.md'
