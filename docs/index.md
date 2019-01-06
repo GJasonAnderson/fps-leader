@@ -39,36 +39,6 @@ Direct your students and their parents to [the official Fusion 2019 website](htt
 ## Student & Leader Registration
 [Registration is now open for Movement Conference 2019](https://movementconf.com/) for everyone; leaders can register for free using the promo code `OWNER19`.
 
-# New Communication Option  
-In keeping with the experimental nature of this site, we are now on [Discord](https://discordapp.com) answering all your questions about FPS. If you'd like to join the conversation, drop us a line below and we'll get back to you with an invite to our server.  
-
-<details>
-  <summary><button type="button" class="btn btn-default btn-sm">Request a Discord Invite</button></summary>
-  <form name="Discord-Request" netlify>
-  	<br>Name: <input type="text" name="Leader"><br><br>
-    I lead
-    <select name="Grade">
-      <option value="6th Grade">6th</option>
-      <option value="7th Grade">7th</option>
-      <option value="8th Grade">8th</option>
-      <option value="9th Grade">9th</option>
-      <option value="10th Grade">10th</option>
-      <option value="11th Grade">11th</option>
-      <option value="12th Grade">12th</option>
-    </select>
-    Grade
-    <select name="Gender">
-      <option value="Guys">Guys</option>
-      <option value="Gals">Gals</option>
-    </select><br><br>
-    Send my invite via...<br>
-    <input type="radio" name="SendBy" value="Email"> Email: <input type="email" name="Address"><br>
-    <input type="radio" name="SendBy" value="Text"> Text Message: <input type="tel" name="Number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"> <i>Format: 123-456-7890</i><br><br>
-    <div netlify-recaptcha></div><br>
-    <button type="submit">Send Request Now</button>
-  </form>
-</details>  
-
 <!--End of Markdown Content-->
 <script src="scripts.js"></script>
 
