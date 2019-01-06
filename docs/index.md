@@ -44,4 +44,4 @@ Direct your students and their parents to [the official Fusion 2019 website](htt
 
 <!--Bottom Page Nav Buttons-->
 <hr>
-<a class="btn btn-default btn-sm" href="/leaders" role="button"><b>Leaders: 5 Behaviors</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
+<a class="btn btn-default btn-sm" href="/resources" role="button"><b>Resources</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
