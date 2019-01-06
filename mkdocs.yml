@@ -1,11 +1,11 @@
-site_name: FPS Leader Communications
-site_url: https://fps-leader.com
-theme: cinder
+site_name: 'FPS Leader Communications'
+site_url: 'https://fps-leader.com'
+theme: 'cinder'
 nav:
-- This Week @ FPS: index.md
+- This Week @ FPS: 'index.md'
 - Leaders:
-  - 5 Behaviors: leaders.md
-  - Training Videos: leaders-videos.md
+  - 5 Behaviors: 'leaders.md'
+  - Training Videos: 'leaders-videos.md'
 - Coaches:
-  - 5 Behaviors: coaches.md
-  - Training Videos: coaches-videos.md
+  - 5 Behaviors: 'coaches.md'
+  - Training Videos: 'coaches-videos.md'
