@@ -7,6 +7,11 @@ FPS now has a way for you to view information for the students in your group! He
 
 - [Instructions for viewing Student Rosters in Groups Manager](groups-manager.pdf)  
 
+## Personal Growth Plan  
+Here's the plan that we complete at the beginning of each year.  
+
+- [Personal Growth Plan](personal-growth-plan.pdf)  
+
 ## Crisis Conversation Guides  
 
 ### Small Group Leaders  
