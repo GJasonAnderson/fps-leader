@@ -2,7 +2,7 @@ site_name: 'FPS Leader Communications'
 site_url: 'https://fps-leader.com'
 theme: 'cinder'
 nav:
-- This Week @ FPS: 'index.md'
+- Events: 'index.md'
 - Resources: 'resources.md'
 - Leaders:
   - 5 Behaviors: 'leaders.md'

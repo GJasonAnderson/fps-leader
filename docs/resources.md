@@ -61,5 +61,5 @@ In keeping with the experimental nature of this site, we are now on [Discord](ht
 
 <!--Bottom Page Nav Buttons-->
 <hr>
-<a class="btn btn-default btn-sm" href="/" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>This Week @ FPS</b></a>
+<a class="btn btn-default btn-sm" href="/" role="button"><i class="fa fa-arrow-left"></i>&nbsp;<b>Events</b></a>
 <a class="btn btn-default btn-sm" href="/leaders" role="button"><b>Leaders: 5 Behaviors</b>&nbsp;<i class="fa fa-arrow-right"></i></a>
