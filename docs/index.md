@@ -12,7 +12,7 @@ This is our last Wednesday night before Fusion - invite your students' parents s
 Take 2 minutes to [watch this video from Pastor Jeff](https://vimeo.com/310863066) explaining what you need to do immediately to get ready for Fusion. You should have already received your Host Home Cards, [Schedule](#fusion-schedule), and [Parent Guide](fusion-parent-guide.pdf) documents from your coach - if not, [let me know ASAP](mailto:fps.leader.email@gmail.com).    
 
 ## Service Projects  
-We have time scheduled on Saturday for your group to serve our community in some way. If you are having trouble coming up with ideas, email [Lisa Cole](mailto:lisac@faithpromise.org) for help.  
+We have time scheduled on Saturday for your group to serve our community in some way. If you are having trouble coming up with ideas, check this [list of service opportunities](fusion-service-opportunities.pdf) (spots with lines through them are already taken) and email [Lisa Cole](mailto:lisac@faithpromise.org) for register. List is current as of 13-Jan.  
 
 ## Fusion Schedule  
 This is also available as a [printable PDF](fusion-schedule.pdf).  
