@@ -8,8 +8,13 @@ This is our last Wednesday night before Fusion - invite your students' parents s
 
 # 18-20 Jan 2019 | Fusion Weekend  
 
-## Instructions for Leaders  
-Take 2 minutes to [watch this video from Pastor Jeff](https://vimeo.com/310863066) explaining what you need to do immediately to get ready for Fusion. You should have already received your Host Home Cards, [Schedule](#fusion-schedule), and [Parent Guide](fusion-parent-guide.pdf) documents from your coach - if not, [let me know ASAP](mailto:fps.leader.email@gmail.com).    
+## Parent Contact Instructions for Leaders  
+Take 2 minutes to [watch this video from Pastor Jeff](https://vimeo.com/310863066) explaining what you need to do immediately to get ready for Fusion. You should have already received your Host Home Cards, [Schedule](#fusion-schedule),  [Parent Guide](fusion-parent-guide.pdf), and [Time-Out Card](fusion-timeout-card.pdf) documents from your coach - if not, [let me know ASAP](mailto:fps.leader.email@gmail.com).    
+
+## Leader Guide  
+Here's your guide to Fusion - it includes a letter from Pastor Zac, Host Home Sign-In Sheet, Fusion Schedule, Leader Guidelines and both Fusion Small Group Guides.
+
+- **[Fusion 2019 Leader Guide](fusion-leader-guide.pdf)**  
 
 ## Service Projects  
 We have time scheduled on Saturday for your group to serve our community in some way. If you are having trouble coming up with ideas, check this [list of service opportunities](fusion-service-opportunities.pdf) (those with lines through them are already taken) and email [Lisa Cole](mailto:lisac@faithpromise.org) to register. List is current as of 13-Jan.  
