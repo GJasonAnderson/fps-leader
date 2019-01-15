@@ -4,12 +4,15 @@
 # This Week @ FPS  
 
 ## 16 Jan 2019 | Fusion Preview & Family Night  
-This is our last Wednesday night before Fusion - invite your students' parents so they can get a feel for what FPS is all about. *Not sure if we have a group guide for this week or not - check back later for more info.*  
+This is our last Wednesday night before Fusion - invite your students' parents so they can get a feel for what FPS is all about. Parents will attend service with us from 7-8pm, and there will be and informational Fusion meeting to follow in the worship center at 8pm. This is where parents and host homes can pick up all of their resources, including rosters and/or stipends. This is in addition to, not in place of, the information they are [receiving from you by email](#parent-contact-instructions-for-leaders). While attendance is not mandatory, it is strongly encouraged.  
+
+### Group Guide: [Fusion Preview Night](guide.html)
+Also available as a [Printable PDF](guide.pdf)
 
 # 18-20 Jan 2019 | Fusion Weekend  
 
 ## Parent Contact Instructions for Leaders  
-Take 2 minutes to [watch this video from Pastor Jeff](https://vimeo.com/310863066) explaining what you need to do immediately to get ready for Fusion. You should have already received your Host Home Cards, [Schedule](#fusion-schedule),  [Parent Guide](fusion-parent-guide.pdf), and [Time-Out Card](fusion-timeout-card.pdf) documents from your coach - if not, [let me know ASAP](mailto:fps.leader.email@gmail.com).    
+Take 2 minutes to [watch this video from Pastor Jeff](https://vimeo.com/310863066) explaining what you need to do immediately to get ready for Fusion. You should have already received your Parent Email Address List, Host Home Cards, [Schedule](#fusion-schedule),  [Parent Guide](fusion-parent-guide.pdf), and [Time-Out Card](fusion-timeout-card.pdf) documents from your coach - if not, [let me know ASAP](mailto:fps.leader.email@gmail.com).    
 
 ## Leader Guide  
 Here's your guide to Fusion - it includes a letter from Pastor Zac, Host Home Sign-In Sheet, Fusion Schedule, Leader Guidelines and both Fusion Small Group Guides.
