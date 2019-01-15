@@ -36,4 +36,5 @@ var x = setInterval(function() {
 }, 1000);
 
 // EXAMPLE TEXT BLOCK for referring page
-// <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button">text goes here<span id="MyTimer"></span></a>
+// add class of 'btn-primary' to make it blue & 'btn-danger' to make it red
+// <a class="btn btn-default btn-block" href="https://movementconf.com/" role="button">there is only <b><span id="MyTimer"></span></b> left until something happens</a>

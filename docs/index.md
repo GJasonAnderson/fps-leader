@@ -12,10 +12,10 @@ Also available as a [Printable PDF](guide.pdf)
 # 18-20 Jan 2019 | Fusion Weekend  
 
 ## Parent Contact Instructions for Leaders  
-Take 2 minutes to [watch this video from Pastor Jeff](https://vimeo.com/310863066) explaining what you need to do immediately to get ready for Fusion. You should have already received your Parent Email Address List, Host Home Cards, [Schedule](#fusion-schedule),  [Parent Guide](fusion-parent-guide.pdf), and [Time-Out Card](fusion-timeout-card.pdf) documents from your coach - if not, [let me know ASAP](mailto:fps.leader.email@gmail.com).    
+Take 2 minutes to [watch this video from Pastor Jeff](https://vimeo.com/310863066) explaining what you need to do immediately to get ready for Fusion. You should have already received your Parent Email Address List, Host Home Cards, [Schedule](#fusion-schedule),  [Parent Guide](fusion-parent-guide.pdf), and [Time-Out Card](fusion-timeout-card.pdf) documents from your coach - if not, [let me know ASAP](mailto:fps.leader.email@gmail.com).  
 
 ## Leader Guide  
-Here's your guide to Fusion - it includes a letter from Pastor Zac, Host Home Sign-In Sheet, Fusion Schedule, Leader Guidelines and both Fusion Small Group Guides.
+Here's your guide to Fusion - it includes a letter from Pastor Zac, Host Home Sign-In Sheet, Fusion Schedule, Leader Guidelines and both Fusion Small Group Guides.  
 
 - **[Fusion 2019 Leader Guide](fusion-leader-guide.pdf)**  
 
