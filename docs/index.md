@@ -1,29 +1,20 @@
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <a class="btn btn-danger btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion starts!</a>
 
-# This Week @ FPS  
+# 18-20 Jan 2019 | Fusion Weekend    
 
-## 16 Jan 2019 | Fusion Preview & Family Night  
-This is our last Wednesday night before Fusion - invite your students' parents so they can get a feel for what FPS is all about. Parents will attend service with us from 7-8pm, and there will be and informational Fusion meeting to follow in the worship center at 8pm. This is where parents and host homes can pick up all of their resources, including rosters and/or stipends. This is in addition to, not in place of, the information they are [receiving from you by email](#parent-contact-instructions-for-leaders). While attendance is not mandatory, it is strongly encouraged.  
+![Fusion Logo](http://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg)
 
-### Group Guide: [Fusion Preview Night](guide.html)
-Also available as a [Printable PDF](guide.pdf)
-
-# 18-20 Jan 2019 | Fusion Weekend  
-
-## Parent Contact Instructions for Leaders  
-Take 2 minutes to [watch this video from Pastor Jeff](https://vimeo.com/310863066) explaining what you need to do immediately to get ready for Fusion. You should have already received your Parent Email Address List, Host Home Cards, [Schedule](#fusion-schedule),  [Parent Guide](fusion-parent-guide.pdf), and [Time-Out Card](fusion-timeout-card.pdf) documents from your coach - if not, [let me know ASAP](mailto:fps.leader.email@gmail.com).  
+## Emergency Contact Info  
+- 865-251-2590 ext 1305  
+- [fpsglobal@faithpromise.org](mailto:fps-global@faithpromise.org)  
 
 ## Leader Guide  
 Here's your guide to Fusion - it includes a letter from Pastor Zac, Host Home Sign-In Sheet, Fusion Schedule, Leader Guidelines and both Fusion Small Group Guides.  
 
 - **[Fusion 2019 Leader Guide](fusion-leader-guide.pdf)**  
 
-## Service Projects  
-We have time scheduled on Saturday for your group to serve our community in some way. If you are having trouble coming up with ideas, check this [list of service opportunities](fusion-service-opportunities.pdf) (those with lines through them are already taken) and email [Lisa Cole](mailto:lisac@faithpromise.org) to register. List is current as of 13-Jan.  
-
-## Fusion Schedule  
-This is also available as a [printable PDF](fusion-schedule.pdf).  
+## Schedule  
 
 | **Friday Night** |  |
 | --- | --- |
@@ -41,7 +32,7 @@ This is also available as a [printable PDF](fusion-schedule.pdf).
 | 1:00 PM  | Prayer Service @ NKX & BLN |
 | 2:00 PM - 5:30 PM | Afternoon Activities / Service Projects |
 | 6:00 PM | Dinner at Host Homes |
-| 7:15 PM - 8:15 PM | FPLC & SEU Preview Day @ PEL in Satellite |
+| 7:15 PM - 8:15 PM | FPLC & SEU Preview Day @ PEL in Satellite for **HS Juniors & Seniors only** |
 | 8:30 PM | Large Group Session #3 @ PEL |
 | 11:00 PM | Return to Host Homes |
 
@@ -54,12 +45,11 @@ This is also available as a [printable PDF](fusion-schedule.pdf).
 | 11:30 AM | All High School groups attend this service @ PEL |
 |  | Parents will pick up Students after church |
 
-## Emergency Fusion Contact Info  
-- 865-251-2590 ext 1305  
-- [fpsglobal@faithpromise.org](mailto:fps-global@faithpromise.org)  
+The schedule also available as a [printable PDF](fusion-schedule.pdf).  
+
 
 # 17-21 July 2019 | Movement Conference  
-![alt text](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
+![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
 <details>
   <summary><button type="button" class="btn btn-default btn-xs">What is Movement Conference?</button></summary>
   <h4>Movement is a three day conference where students from across the state of Tennessee are encouraged and inspired to join the movement and take it back to their schools and communities. Students will experience incredible worship and music, be inspired by world-class communicators, and have a ton of fun with hundreds of other students. An awakening is coming to our nation, and we believe it will start right here, right now - will you join the Movement?</h4>
