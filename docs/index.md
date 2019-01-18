@@ -3,7 +3,7 @@
 
 # 18-20 Jan 2019 | Fusion Weekend    
 
-![Fusion Logo](http://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg)
+![Fusion Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg)
 
 ## Emergency Contact Info  
 - 865-251-2590 ext 1305  
