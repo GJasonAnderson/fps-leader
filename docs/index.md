@@ -1,17 +1,22 @@
 # 18-20 Jan 2019 | Fusion Weekend    
 
+<!--
 ![Fusion Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg)
+-->
 
 ## Emergency Contact Info  
 - 865-251-2590 ext 1305  
 - [fpsglobal@faithpromise.org](mailto:fps-global@faithpromise.org)  
 
-## Leader Guide  
-Here's your guide to Fusion - it includes a letter from Pastor Zac, Host Home Sign-In Sheet, Fusion Schedule, Leader Guidelines and both Fusion Small Group Guides.  
+## [Leader Guide](fusion-leader-guide.pdf)  
+Here's your Leader Guide for Fusion 2019, including both Fusion Small Group Guides.  
 
-- **[Fusion 2019 Leader Guide](fusion-leader-guide.pdf)**  
+## Baptisms  
+If you have students that make a commitment to Jesus this weekend, or if they have done so in the past and never sealed the deal with baptism, we will be baptizing on Sunday! Contact their parents to get permission, then [open this Google Doc and add your students to the appropriate grade tab](https://docs.google.com/spreadsheets/d/1kk5047xb6N4lDIOrQw1dzmJVw-03jKa0v4qrFV4SM8s/edit?usp=sharing) so we know how many to expect. If they make a profession of faith this weekend but want to be baptized at a later date, please put that in the notes field.  
 
 ## Schedule  
+
+<s>
 
 | **Friday Night** |  |
 | --- | --- |
@@ -20,6 +25,8 @@ Here's your guide to Fusion - it includes a letter from Pastor Zac, Host Home Si
 | 8:00 PM  | Large Group Session #1 @ [PEL](https://goo.gl/maps/0uDbp) |
 | 10:00 PM | Return to Host Homes |
 | 10:30 PM | Small Group Session #1 |
+
+</s>
 
 | **Saturday** |  |
 | --- | --- |
