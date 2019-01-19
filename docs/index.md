@@ -1,6 +1,3 @@
-<!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
-<a class="btn btn-danger btn-block" href="#18-20-jan-2019-fusion-weekend" role="button">Only <b><span id="MyTimer"></span></b> until Fusion starts!</a>
-
 # 18-20 Jan 2019 | Fusion Weekend    
 
 ![Fusion Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg)
@@ -47,6 +44,10 @@ Here's your guide to Fusion - it includes a letter from Pastor Zac, Host Home Si
 
 The schedule also available as a [printable PDF](fusion-schedule.pdf).  
 
+<!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
+<!--
+<a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
+-->
 
 # 17-21 July 2019 | Movement Conference  
 ![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
