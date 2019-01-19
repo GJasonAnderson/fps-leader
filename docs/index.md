@@ -12,7 +12,7 @@
 Here's your Leader Guide for Fusion 2019, including both Fusion Small Group Guides.  
 
 ## Baptisms  
-If you have students that make a commitment to Jesus this weekend, or if they have done so in the past and never sealed the deal with baptism, we will be baptizing on Sunday! Contact their parents to get permission, then [open this Google Doc and add your students to the appropriate grade tab](https://docs.google.com/spreadsheets/d/1kk5047xb6N4lDIOrQw1dzmJVw-03jKa0v4qrFV4SM8s/edit?usp=sharing) so we know how many to expect. If they make a profession of faith this weekend but want to be baptized at a later date, please put that in the notes field.  
+If you have students that make a commitment to Jesus this weekend, or if they have done so in the past and never sealed the deal with baptism, we will be baptizing on Sunday! Contact their parents to get permission, then [open this Google Doc and add your students to the appropriate grade tab](https://docs.google.com/spreadsheets/d/1kk5047xb6N4lDIOrQw1dzmJVw-03jKa0v4qrFV4SM8s/edit?usp=sharing) so we know how many to expect. If they make a profession of faith this weekend but want to be baptized at a later date, please put that in the notes field. [Send us an email if you have any problems or questions](mailto:fps.leader.email@gmail.com).  
 
 ## Schedule  
 
