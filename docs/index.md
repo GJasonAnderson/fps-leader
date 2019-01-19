@@ -20,14 +20,14 @@ Here's your guide to Fusion - it includes a letter from Pastor Zac, Host Home Si
 | --- | --- |
 | 6:00 PM  | Leaders arrive at Host Homes |
 | 6:30 PM  | Students arrive at Host Homes |
-| 8:00 PM  | Large Group Session #1 @ PEL |
+| 8:00 PM  | Large Group Session #1 @ [PEL](https://goo.gl/maps/0uDbp) |
 | 10:00 PM | Return to Host Homes |
 | 10:30 PM | Small Group Session #1 |
 
 | **Saturday** |  |
 | --- | --- |
 | 8:30 AM  | Breakfast at Host Homes |
-| 10:00 AM | Large Group Session #2 - Girls @ NKX & Boys @ BLN |
+| 10:00 AM | Large Group Session #2 - Girls @ [NKX](https://goo.gl/maps/khSGr) & Boys @ [BLN](https://goo.gl/maps/bgo00) |
 | 12:00 PM | Lunch @ NKX & BLN |
 | 1:00 PM  | Prayer Service @ NKX & BLN |
 | 2:00 PM - 5:30 PM | Afternoon Activities / Service Projects |
