@@ -1,2 +1,5 @@
-# Environment
+# Virtual Environment
 venv/
+
+# Local Builds
+site/
