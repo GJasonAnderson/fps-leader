@@ -29,7 +29,7 @@ Help us all get better - please take a minute to let us know what went well for 
   What Went Well:<br>
   <textarea name="WWW"></textarea><br>
   Take a Look At:<br>
-  <textarea name="TALA"></textarea><br>
+  <textarea name="TALA"></textarea><br><br>
   <div netlify-recaptcha></div><br>
   <button type="submit">Send Now</button>
 </form>
