@@ -1,55 +1,44 @@
 # 18-20 Jan 2019 | Fusion Weekend    
+Fusion 2019 was a huge success - over 100 students globally made commitments to Jesus this weekend! A big thanks to everyone who gave of their time and talents to serve the Kingdom - your commitment is greatly appreciated.  
 
-<!--
-![Fusion Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/fusion-2019-tall.jpg)
--->
+## Post-Mortem  
+Help us all get better - please take a minute to let us know what went well for you at Fusion 2019, as well as anything we should take a look at doing differently in the future.  
 
-## Emergency Contact Info  
-- 865-251-2590 ext 1305  
-- [fpsglobal@faithpromise.org](mailto:fps-global@faithpromise.org)  
+<details>
+<summary><button type="button" class="btn btn-default btn-sm">Send Us Your Thoughts</button></summary>
+<form name="Fusion-2019-Hotwash" netlify>
+  <br>Name: <input type="text" name="Leader"><br><br>
+  I lead
+  <select name="Grade">
+    <option value="6th Grade">6th</option>
+    <option value="7th Grade">7th</option>
+    <option value="8th Grade">8th</option>
+    <option value="9th Grade">9th</option>
+    <option value="10th Grade">10th</option>
+    <option value="11th Grade">11th</option>
+    <option value="12th Grade">12th</option>
+  </select>
+  Grade
+  <select name="Gender">
+    <option value="Guys">Guys</option>
+    <option value="Gals">Gals</option>
+  </select><br><br>
+  Contact Preference (in case clarification is needed): <br>
+  <input type="radio" name="SendBy" value="Email"> Email: <input type="email" name="Address"><br>
+  <input type="radio" name="SendBy" value="Text"> Text Message: <input type="tel" name="Number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"> <i>Format: 123-456-7890</i><br><br>
+  What Went Well:<br>
+  <textarea name="WWW"></textarea><br>
+  Take a Look At:<br>
+  <textarea name="TALA"></textarea><br>
+  <div netlify-recaptcha></div><br>
+  <button type="submit">Send Now</button>
+</form>
+</details>
 
-## [Leader Guide](fusion-leader-guide.pdf)  
-Here's your Leader Guide for Fusion 2019, including both Fusion Small Group Guides.  
+# This Week @ FPS
 
-## Baptisms  
-If you have students that make a commitment to Jesus this weekend, or if they have done so in the past and never sealed the deal with baptism, we will be baptizing on Sunday! Contact their parents to get permission, then [open this Google Doc and add your students to the appropriate grade tab](https://docs.google.com/spreadsheets/d/1kk5047xb6N4lDIOrQw1dzmJVw-03jKa0v4qrFV4SM8s/edit?usp=sharing) so we know how many to expect. If they make a profession of faith this weekend but want to be baptized at a later date, please put that in the notes field. [Send us an email if you have any problems or questions](mailto:fps.leader.email@gmail.com).  
-
-## Schedule  
-
-<s>
-
-| **Friday Night** |  |
-| --- | --- |
-| 6:00 PM  | Leaders arrive at Host Homes |
-| 6:30 PM  | Students arrive at Host Homes |
-| 8:00 PM  | Large Group Session #1 @ [PEL](https://goo.gl/maps/0uDbp) |
-| 10:00 PM | Return to Host Homes |
-| 10:30 PM | Small Group Session #1 |
-
-</s>
-
-| **Saturday** |  |
-| --- | --- |
-| 8:30 AM  | Breakfast at Host Homes |
-| 10:00 AM | Large Group Session #2 - Girls @ [NKX](https://goo.gl/maps/khSGr) & Boys @ [BLN](https://goo.gl/maps/bgo00) |
-| 12:00 PM | Lunch @ NKX & BLN |
-| 1:00 PM  | Prayer Service @ NKX & BLN |
-| 2:00 PM - 5:30 PM | Afternoon Activities / Service Projects |
-| 6:00 PM | Dinner at Host Homes |
-| 7:15 PM - 8:15 PM | FPLC & SEU Preview Day @ PEL in Satellite for **HS Juniors & Seniors only** |
-| 8:30 PM | Large Group Session #3 @ PEL |
-| 11:00 PM | Return to Host Homes |
-
-| **Sunday** |  |
-| --- | --- |
-| 8:30 AM | Breakfast at Host Homes |
-| 9:00 AM | Small Group Session #2 |
-|  | Clean up homes, pack & get ready for church |
-| 10:00 AM | All Middle School groups attend this service @ PEL |
-| 11:30 AM | All High School groups attend this service @ PEL |
-|  | Parents will pick up Students after church |
-
-The schedule also available as a [printable PDF](fusion-schedule.pdf).  
+## 23 Jan 2019  
+FPS will be back in session this week. As we are getting some post-Fusion rest at the moment, this week's group guide isn't ready yet. It will be posted soon - please check back later.  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <!--
