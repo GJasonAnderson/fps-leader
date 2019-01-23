@@ -1,7 +1,11 @@
-# 18-20 Jan 2019 | Fusion Weekend    
-Fusion 2019 was a huge success - over 100 students globally made commitments to Jesus this weekend! A big thanks to everyone who gave of their time and talents to serve the Kingdom - your commitment is greatly appreciated.  
+# This Week @ FPS
 
-## Post-Mortem  
+## 23 Jan 2019  
+
+### Group Guide  
+[Fusion Recap Night](guide.html)  
+
+### Fusion Post-Mortem  
 Help us all get better - please take a minute to let us know what went well for you at Fusion 2019, as well as anything we should take a look at doing differently in the future.  
 
 <details>
@@ -35,10 +39,14 @@ Help us all get better - please take a minute to let us know what went well for 
 </form>
 </details>
 
-# This Week @ FPS
+### Early Movement Preparations  
+Before we know it, it will be time for Movement Conference. Let’s go ahead and get a jump on this event - all small group leaders should reach out to their host homes from last weekend about hosting their group again during Movement. Also, please join us in prayer now asking God to continue the work He started at Fusion between now and Movement.  
 
-## 23 Jan 2019  
-FPS will be back in session this week. As we are getting some post-Fusion rest at the moment, this week's group guide isn't ready yet. It will be posted soon - please check back later.  
+## 3 Feb 2019 | Sunday Showdown  
+FPS will have a student section at both the 10:00 AM & 11:30 AM services. We are asking **all leaders** to attend one of these services and sit in the student section (if you are not attending with family, of course).  
+
+## 13 Feb 2019 | FPS Dating Games  
+This game show-esque Valentine’s Day themed night will be one to remember for ALL ages and relationship statuses – this includes adults! Group will still be happening; you do not need to do anything special – just be there! *Attendance is highly encouraged for this night.*
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <!--
