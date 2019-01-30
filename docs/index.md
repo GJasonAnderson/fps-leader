@@ -1,9 +1,9 @@
 # This Week @ FPS
 
-## 23 Jan 2019  
+## 30 Jan 2019  
 
 ### Group Guide  
-[Fusion Recap Night](guide.html)  
+[Filling Leads to Fruit](guide.html)  
 
 ### Fusion Post-Mortem  
 Help us all get better - please take a minute to let us know what went well for you at Fusion 2019, as well as anything we should take a look at doing differently in the future.  
