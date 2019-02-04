@@ -1,57 +1,33 @@
 # This Week @ FPS
 
-## 30 Jan 2019  
+## 6 Feb 2019 | *More Than Friends* Week 1 & Series Explanation  
+As we enter February, we are beginning a 3-week relationships series is called *More than Friends*. This will be a very sensitive topic for some students and parents, so **we are asking that all leaders communicate with the parents of their students; especially middle school**. Week 3 will be a Parent connection night, and we will have a card/certificate for each student to sign. We do not want parents to be caught off guard, so they are also welcome to attend all 3 weeks. Our central team will be sending out emails to all fpStudents households explaining the topics covered in the series, as well as a week 3 invite. Please be sure to explain the nature of this series to leaders and emphasize the importance of partnering with parents. See email message below that was sent out to all parents:  
+
+>Hey Parents!
+
+>Love is in the air and we wanted to let you know that we’re on your team — we are partnering with you this February in fps by discussing topics like dating and sex in our next series “More Than Friends”. Over the next 3 weeks we’ll cover obsession, breakups, and God’s design for sex with a special online message on what purity really is.
+
+>On February 20th we want to invite you to a special Wednesday night as we offer students an opportunity to commit to trust God’s plan and design for sex. This is a great opportunity to connect with your student and gain some helpful conversation starters.
+
+>Stay in touch with your student's group leader and feel free to ask any questions or let us know of any concerns.
+
+>We love you!  
+
+>Zac Stephens  
 
 ### Group Guide  
-[Filling Leads to Fruit](guide.html)  
+[What About My Feelings?](guide.html)  
 
-### Fusion Post-Mortem  
-Help us all get better - please take a minute to let us know what went well for you at Fusion 2019, as well as anything we should take a look at doing differently in the future.  
-
-<details>
-<summary><button type="button" class="btn btn-default btn-sm">Send Us Your Thoughts</button></summary>
-<form name="Fusion-2019-Hotwash" netlify>
-  <br>Name: <input type="text" name="Leader"><br><br>
-  I lead
-  <select name="Grade">
-    <option value="6th Grade">6th</option>
-    <option value="7th Grade">7th</option>
-    <option value="8th Grade">8th</option>
-    <option value="9th Grade">9th</option>
-    <option value="10th Grade">10th</option>
-    <option value="11th Grade">11th</option>
-    <option value="12th Grade">12th</option>
-  </select>
-  Grade
-  <select name="Gender">
-    <option value="Guys">Guys</option>
-    <option value="Gals">Gals</option>
-  </select><br><br>
-  Contact Preference (in case clarification is needed): <br>
-  <input type="radio" name="SendBy" value="Email"> Email: <input type="email" name="Address"><br>
-  <input type="radio" name="SendBy" value="Text"> Text Message: <input type="tel" name="Number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"> <i>Format: 123-456-7890</i><br><br>
-  What Went Well:<br>
-  <textarea name="WWW"></textarea><br>
-  Take a Look At:<br>
-  <textarea name="TALA"></textarea><br><br>
-  <div netlify-recaptcha></div><br>
-  <button type="submit">Send Now</button>
-</form>
-</details>
-
-### Early Movement Preparations  
-Before we know it, it will be time for Movement Conference. Let’s go ahead and get a jump on this event - all small group leaders should reach out to their host homes from last weekend about hosting their group again during Movement. Also, please join us in prayer now asking God to continue the work He started at Fusion between now and Movement.  
-
-## 3 Feb 2019 | Sunday Showdown  
-FPS will have a student section at both the 10:00 AM & 11:30 AM services. We are asking **all leaders** to attend one of these services and sit in the student section (if you are not attending with family, of course).  
-
-## 13 Feb 2019 | FPS Dating Games  
+## 13 Feb 2019 | *More Than Friends* Week 2 & FPS Dating Games  
 This game show-esque Valentine’s Day themed night will be one to remember for ALL ages and relationship statuses – this includes adults! Group will still be happening; you do not need to do anything special – just be there! *Attendance is highly encouraged for this night.*
+
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <!--
 <a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
 -->
+
+## 20 Feb 2019 | *More Than Friends* Week 3 & Parent Connection Night  
 
 # 17-21 July 2019 | Movement Conference  
 ![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
