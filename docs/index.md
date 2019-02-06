@@ -15,9 +15,9 @@ As we enter February, we are beginning a 3-week relationships series is called *
 
 >Zac Stephens  
 
-### Group Guide  
-Students: [*More Than Friends* Week 1 - What About My Feelings?](guide.html)  
-Parents: [Week 1 Parent Connection Guide](guide-parents.pdf)  
+### Group Guides  
+For Students: [*More Than Friends* Week 1 - What About My Feelings?](guide.html)  
+For Parents: [Week 1 Parent Connection Guide](guide-parents.pdf)  
 
 ## 13 Feb 2019 | *More Than Friends* Week 2 & FPS Dating Games  
 This game show-esque Valentine’s Day themed night will be one to remember for ALL ages and relationship statuses – this includes adults! Group will still be happening; you do not need to do anything special – just be there! *Attendance is highly encouraged for this night.*
