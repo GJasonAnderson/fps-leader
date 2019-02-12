@@ -1,34 +1,21 @@
 # This Week @ FPS
 
-## 6 Feb 2019 | *More Than Friends* Week 1 & Series Explanation  
-As we enter February, we are beginning a 3-week relationships series is called *More than Friends*. This will be a very sensitive topic for some students and parents, so **we are asking that all leaders communicate with the parents of their students; especially middle school**. Week 3 will be a Parent connection night, and we will have a card/certificate for each student to sign. We do not want parents to be caught off guard, so they are also welcome to attend all 3 weeks. Our central team will be sending out emails to all fpStudents households explaining the topics covered in the series, as well as a week 3 invite. Please be sure to explain the nature of this series to leaders and emphasize the importance of partnering with parents. See email message below that was sent out to all parents:  
-
->Hey Parents!
-
->Love is in the air and we wanted to let you know that we’re on your team — we are partnering with you this February in fps by discussing topics like dating and sex in our next series “More Than Friends”. Over the next 3 weeks we’ll cover obsession, breakups, and God’s design for sex with a special online message on what purity really is.
-
->On February 20th we want to invite you to a special Wednesday night as we offer students an opportunity to commit to trust God’s plan and design for sex. This is a great opportunity to connect with your student and gain some helpful conversation starters.
-
->Stay in touch with your student's group leader and feel free to ask any questions or let us know of any concerns.
-
->We love you!  
-
->Zac Stephens  
-
-### Group Guides  
-For Students: [*More Than Friends* Week 1 - What About My Feelings?](guide.html)  
-For Parents: [Week 1 Parent Connection Guide](guide-parents.pdf)  
-
 ## 13 Feb 2019 | *More Than Friends* Week 2 & FPS Dating Games  
 This game show-esque Valentine’s Day themed night will be one to remember for ALL ages and relationship statuses – this includes adults! Group will still be happening; you do not need to do anything special – just be there! *Attendance is highly encouraged for this night.*
 
+### Survey Night  
+We will either have survey questions at leader check-in --OR-- we will be placing questions on everyone's seat in large group - not sure quite yet which way this is going down, but we appreciate your participation either way!  
+
+### Group Guides  
+For Students: [*More Than Friends* Week 2 - What Did You Think Was Going to Happen?](guide.html)  
+<!--For Parents: [Week 1 Parent Connection Guide](guide-parents.pdf)  -->
+
+## 20 Feb 2019 | *More Than Friends* Week 3 & Parent Connection Night  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <!--
 <a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
 -->
-
-## 20 Feb 2019 | *More Than Friends* Week 3 & Parent Connection Night  
 
 # 17-21 July 2019 | Movement Conference  
 ![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
