@@ -1,16 +1,10 @@
 # This Week @ FPS
 
-## 13 Feb 2019 | *More Than Friends* Week 2 & FPS Dating Games  
-This game show-esque Valentine’s Day themed night will be one to remember for ALL ages and relationship statuses – this includes adults! Group will still be happening; you do not need to do anything special – just be there! *Attendance is highly encouraged for this night.*
-
-### Survey Night  
-We will either have survey questions at leader check-in --OR-- we will be placing questions on everyone's seat in large group - not sure quite yet which way this is going down, but we appreciate your participation either way!  
+## 20 Feb 2019 | *More Than Friends* Week 3 & Parent Connection Night  
+Leaders: please personally invite the parents of your students to attend FPS this week.  
 
 ### Group Guides  
-For Students: [*More Than Friends* Week 2 - What Did You Think Was Going to Happen?](guide.html)  
-<!--For Parents: [Week 1 Parent Connection Guide](guide-parents.pdf)  -->
-
-## 20 Feb 2019 | *More Than Friends* Week 3 & Parent Connection Night  
+For Students: [*More Than Friends* Week 3 - What is Sex?](guide.html)  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <!--
