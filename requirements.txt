@@ -2,7 +2,7 @@
 Jinja2==2.10
 livereload==2.6.0
 Markdown==3.0.1
-MarkupSafe==1.1.0
+MarkupSafe==1.1.1
 mkdocs==1.0.4
 mkdocs-cinder==0.16.3
 PyYAML==4.2b4
