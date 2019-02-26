@@ -1,10 +1,10 @@
 # This Week @ FPS
 
-## 20 Feb 2019 | *More Than Friends* Week 3 & Parent Connection Night  
-Leaders: please personally invite the parents of your students to attend FPS this week.  
+## 27 Feb 2019 | *March Madness* Week 1 - Practice  
+This new series is a great opportunity to invite both new students and those that haven't been attending lately. There will be weekly challenges announced on our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/), including free Chick-Fil-A for the winning campus!  
 
 ### Group Guides  
-For Students: [*More Than Friends* Week 3 - What is Sex?](guide.html)  
+[*March Madness* Week 1 - Practice](guide.html)  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <!--
