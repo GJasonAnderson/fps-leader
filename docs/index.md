@@ -1,11 +1,11 @@
 # This Week @ FPS
 
-## 6 March 2019 | *March Madness* Week 2  
+## 6 March 2019 | *March Madness* Week 1  
 This new series is a great opportunity to invite both new students and those that haven't been attending lately. There will be weekly challenges announced on our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/), including free Chick-Fil-A and free Laser Tag!  
 
 ### Group Guide  
-<!--[*March Madness* Week 2](guide.html)-->  
-*Due to some recent changes with how we create and distribute group guides, they are taking a little longer than usual. Please bear with us while we work through the changes and check back later.*  
+[*March Madness* Week 1: 1st Quarter](guide.html)  
+*Due to some recent changes with how we create and distribute group guides, they are taking a little longer than usual. Thank you for your patience as we work through these changes.*  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <!--
