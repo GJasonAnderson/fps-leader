@@ -1,10 +1,10 @@
 # This Week @ FPS
 
-## 6 March 2019 | *March Madness* Week 1 - 1st Quarter  
+## 13 March 2019 | *March Madness* 2nd Quarter - Full Court Press  
 This new series is a great opportunity to invite both new students and those that haven't been attending lately. There will be weekly challenges announced on our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/), including free Chick-Fil-A and free Laser Tag!  
 
-### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
-*Due to some recent changes with how we create and distribute group guides, they are taking a little longer than usual. Thank you for your patience as we work through these changes.*  
+### Group Guide: <!--[Mobile-Friendly Format](guide.html) or -->[Printable PDF](guide.pdf)  
+*Due to some recent changes with how we create and distribute group guides, they are taking a little longer than usual. Thank you for your patience as we work through these changes. The Mobile-Friendly Format will return next week!*  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <!--
