@@ -1,10 +1,10 @@
 # This Week @ FPS
 
-## 13 March 2019 | *March Madness* 2nd Quarter - Full Court Press  
-This new series is a great opportunity to invite both new students and those that haven't been attending lately. There will be weekly challenges announced on our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/), including free Chick-Fil-A and free Laser Tag!  
+## 20 March 2019 | *March Madness* 3rd Quarter  
+This new series is a great opportunity to invite both new students and those that haven't been attending lately. There will be weekly challenges announced on our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/), including chances to win free Chick-Fil-A and free Laser Tag!  
 
-### Group Guide: <!--[Mobile-Friendly Format](guide.html) or -->[Printable PDF](guide.pdf)  
-*Due to some recent changes with how we create and distribute group guides, they are taking a little longer than usual. Thank you for your patience as we work through these changes. The Mobile-Friendly Format will return next week!*  
+### Group Guide<!--: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)-->  
+*Due to some recent changes with how we create and distribute group guides, they are taking a little longer than usual. Thank you for your patience as we work through these changes.*  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <!--
@@ -19,7 +19,10 @@ This new series is a great opportunity to invite both new students and those tha
 </details>  
 
 ## Student & Leader Registration
-[Registration is now open for Movement Conference 2019](https://movementconf.com/) for everyone; leaders can register for free using the promo code `OWNER19`.
+[Registration is now open for Movement Conference 2019](https://movementconf.com/) for everyone; leaders can register for free using the promo code `OWNER19`. **All leaders need to get registered by the end of March!**  
+
+## Host Homes  
+Host homes are **required** this year, although students are not required to stay there. Providing meals is **not needed** - the host home will only be used for sleeping overnight. Please get started on securing a host home for your group now!  
 
 <!--
 # Jan 2020 | Fusion Weekend
