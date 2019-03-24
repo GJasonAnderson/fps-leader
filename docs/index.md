@@ -1,15 +1,16 @@
 # This Week @ FPS
 
-## 20 March 2019 | *March Madness* 3rd Quarter  
-This new series is a great opportunity to invite both new students and those that haven't been attending lately. There will be weekly challenges announced on our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/), including chances to win free Chick-Fil-A and free Laser Tag!  
+## 27 March 2019 | *March Madness* 4th Quarter  
+If you didn't already see this on our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/), this week there is a chance for EVERYONE to win free Chick-Fil-A if we have over 550 students this week!  
 
-### Group Guide<!--: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)-->  
-*Due to some recent changes with how we create and distribute group guides, they are taking a little longer than usual. Thank you for your patience as we work through these changes.*  
+### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
+
+## 17 April 2019 | FPS Easter  
+Our Wednesday night service will be slightly different this week. We will have MS and HS school small groups at their usual times, plus simultaneous MS and HS Parent Workshops with info about helping students deal with anxiety & depression. Our large group service will be the same as the remainder of the [FP Easter](https://fpeaster.com/) services, just exclusive for fpStudents and their families!  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
-<!--
+
 <a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
--->
 
 # 17-21 July 2019 | Movement Conference  
 ![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
