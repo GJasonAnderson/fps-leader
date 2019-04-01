@@ -1,7 +1,7 @@
 # This Week @ FPS
 
-## 27 March 2019 | *March Madness* 4th Quarter  
-If you didn't already see this on our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/), this week there is a chance for EVERYONE to win free Chick-Fil-A if we have over 550 students this week!  
+## 3 April 2019 | *March Madness* Overtime  
+Be sure to check our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/) for the latest info about March Madness challenges!  
 
 ### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
 
