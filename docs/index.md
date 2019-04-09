@@ -1,7 +1,7 @@
 # This Week @ FPS
 
-## 3 April 2019 | *March Madness* Overtime  
-Be sure to check our [@fps_pel Instagram page](https://www.instagram.com/fps_pel/) for the latest info about March Madness challenges!  
+## 10 April 2019 | *Fooled* Week 1  
+We are repeating the highly successful *March Madness* groups competition in April - the small group that increases their average weekly attendance by the highest percentage for the month will win a free Chick-fil-A party!
 
 ### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
 
