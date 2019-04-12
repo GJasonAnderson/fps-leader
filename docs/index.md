@@ -1,17 +1,13 @@
 # This Week @ FPS
 
-## 10 April 2019 | *Fooled* Week 1  
-We are repeating the highly successful *March Madness* groups competition in April - the small group that increases their average weekly attendance by the highest percentage for the month will win a free Chick-fil-A party!
+## 17 April 2019 | FPS Easter  
+Our Wednesday night service will be slightly different this week. We will have MS and HS school small groups at their usual times, plus simultaneous MS and HS Parent Workshops with info about helping students deal with anxiety & depression. Our large group service will be the same as the remainder of the [FP Easter](https://fpeaster.com/) services, just exclusive for fpStudents and their families! This is an **ALL HANDS ON DECK week** - we need every leader, crew member, coach, and senior coach to be here this week loving on students and parents. Leaders: reach out early next week and invite all your students *and* their parents.  
 
 ### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
-
-## 17 April 2019 | FPS Easter  
-Our Wednesday night service will be slightly different this week. We will have MS and HS school small groups at their usual times, plus simultaneous MS and HS Parent Workshops with info about helping students deal with anxiety & depression. Our large group service will be the same as the remainder of the [FP Easter](https://fpeaster.com/) services, just exclusive for fpStudents and their families!  
+Pastor Pete has put together an incredible interactive group guide that will provide a cool change of pace in group this week. Please familiarize yourself with the activity, and we will make sure all the resources are ready for you when you check in.    
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
-<!--
 <a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
--->
 
 # 17-21 July 2019 | Movement Conference  
 ![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
