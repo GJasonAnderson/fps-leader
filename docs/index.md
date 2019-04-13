@@ -10,7 +10,7 @@ Pastor Pete has put together an incredible interactive group guide that will pro
 <a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
 
 # 17-21 July 2019 | Movement Conference  
-![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")
+<!--![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")-->
 <details>
   <summary><button type="button" class="btn btn-default btn-xs">What is Movement Conference?</button></summary>
   <h4>Movement is a three day conference where students from across the state of Tennessee are encouraged and inspired to join the movement and take it back to their schools and communities. Students will experience incredible worship and music, be inspired by world-class communicators, and have a ton of fun with hundreds of other students. An awakening is coming to our nation, and we believe it will start right here, right now - will you join the Movement?</h4>
