@@ -1,11 +1,11 @@
 # This Week @ FPS
 
-## 24 April 2019 | *Fooled* Week 2  
+## 1 May 2019 | *Fooled* Week 3  
 
 ### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
 
 ## 29 May 2019 | SKO!  
-Summer Kick Off this year will be an all nighter at [Main Event](https://www.mainevent.com/location/tennessee/knoxville/37923) with unlimited everything! Cost is only $30 - [students can register here!](https://faithpromise.org/events/sko-summer-kick-off)  
+Summer Kick Off this year will be an all nighter at [Main Event](https://www.mainevent.com/location/tennessee/knoxville/37923) with unlimited everything! Cost is only $30 for students, free for leaders using the promo code `SKOLEADER` - [register here now!](https://faithpromise.org/events/sko-summer-kick-off)  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
