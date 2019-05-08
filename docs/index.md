@@ -1,6 +1,6 @@
 # This Week @ FPS
 
-## 1 May 2019 | *Fooled* Week 3  
+## 8 May 2019 | *I am Jesus* Week 1  
 
 ### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
 
