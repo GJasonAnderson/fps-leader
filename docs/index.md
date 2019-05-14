@@ -1,8 +1,11 @@
 # This Week @ FPS
 
-## 8 May 2019 | *I am Jesus* Week 1  
+## 15 May 2019 | *I am Jesus* Week 2  
 
 ### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
+
+### Behavior Spotlight: *Communicate Down*  
+[Leaders](leaders.md) and [coaches](coaches.md): Don’t forget to communicate down this week! This is so important and the lifeblood of our student ministry. Pastor Pete has personally spoken to several students this week who have admitted they keep coming back to students, because their group leaders communicate with them during the week. They would speak highly of their group leaders who love them on a regular basis and communicate with them outside of students. A simple text or call goes such a long way. What if your text message or phone call this week was selling point for a student to live for Christ the rest of their days?  
 
 ## 29 May 2019 | SKO!  
 Summer Kick Off this year will be an all nighter at [Main Event](https://www.mainevent.com/location/tennessee/knoxville/37923) with unlimited everything! Cost is only $30 for students, free for leaders using the promo code `SKOLEADER` - [register here now!](https://faithpromise.org/events/sko-summer-kick-off)  
