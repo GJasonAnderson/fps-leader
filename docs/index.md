@@ -1,17 +1,24 @@
+<!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
+<a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
+
 # This Week @ FPS
 
-## 15 May 2019 | *I am Jesus* Week 2  
+## 22 May 2019 | *I am Jesus* Week 3  
 
 ### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
+**Seniors**: there are no additional resources for week 16 of the *Own It* curriculum.  
 
-### Behavior Spotlight: *Communicate Down*  
-[Leaders](leaders.md) and [coaches](coaches.md): Don’t forget to communicate down this week! This is so important and the lifeblood of our student ministry. Pastor Pete has personally spoken to several students this week who have admitted they keep coming back to students, because their group leaders communicate with them during the week. They would speak highly of their group leaders who love them on a regular basis and communicate with them outside of students. A simple text or call goes such a long way. What if your text message or phone call this week was selling point for a student to live for Christ the rest of their days?  
+### Parent Workshop  
+We will be presenting *How to talk to your students about Jesus and Faith* in room 222 this week - Middle School parents from 6:20 to 6:50 and High School parents from 8:00 to 8:30.  
+
+### Movement Host Homes  
+This week is the deadline to [register your Movement host home information](#host-homes) - please get it done ASAP!  
+
+### Baptism Night  
+We will have our last FPS baptism night of the school year this week. If you have a student who cannot get baptized on the weekend and wants to take advantage of this, please [email Pastor Pete](mailto:PeteM@faithpromise.org)!  
 
 ## 29 May 2019 | SKO!  
 Summer Kick Off this year will be an all nighter at [Main Event](https://www.mainevent.com/location/tennessee/knoxville/37923) with unlimited everything! Cost is only $30 for students, free for leaders using the promo code `SKOLEADER` - [register here now!](https://faithpromise.org/events/sko-summer-kick-off)  
-
-<!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
-<a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
 
 # 17-21 July 2019 | Movement Conference  
 <!--![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")-->
@@ -20,11 +27,14 @@ Summer Kick Off this year will be an all nighter at [Main Event](https://www.mai
   <h4>Movement is a three day conference where students from across the state of Tennessee are encouraged and inspired to join the movement and take it back to their schools and communities. Students will experience incredible worship and music, be inspired by world-class communicators, and have a ton of fun with hundreds of other students. An awakening is coming to our nation, and we believe it will start right here, right now - will you join the Movement?</h4>
 </details>  
 
-## Student & Leader Registration
-[Registration is now open for Movement Conference 2019](https://movementconf.com/) for everyone; leaders can register for free using the promo code `OWNER19`. **All leaders need to get registered by the end of March!**  
+### Student & Leader Registration
+[Registration is now open for Movement Conference 2019](https://movementconf.com/) for everyone; leaders can register for free using the promo code `OWNER19`. **All leaders should be registered by March 31!**  
 
-## Host Homes  
-Host homes are **required** this year, although students are not required to stay there. Providing meals is **not needed** - the host home will only be used for sleeping overnight. Please get started on securing a host home for your group now!  
+### Host Homes  
+Host homes are **required** this year, although students are not required to stay there. Providing meals is **not needed** - the host home will only be used for sleeping overnight. **[Register your host home info here](https://forms.gle/VMZa5p8ZjBU8EgL68) by May 22!**  
+
+### Movement Scholarships  
+Don't let money stand in the way of any of your students attending - [email Pastor Pete](mailto:PeteM@faithpromise.org) for more info and to get a scholarship application. Don't delay - **the scholarship application deadline is June 23!**  
 
 <!--
 # Jan 2020 | Fusion Weekend
