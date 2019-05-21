@@ -1,3 +1,6 @@
+# Site Changes Coming Soon  
+The content from this site will be moving to a new home at [FPSLeaders.com](https://fpsleaders.com/). Both sites will be updated for the next two weeks, after which this site will be shut down. Please update any bookmarks you may have now!  
+
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
 
