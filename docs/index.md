@@ -1,27 +1,14 @@
 # Site Changes Coming Soon  
-The content from this site will be moving to a new home at [FPSLeaders.com](https://fpsleaders.com/). Both sites will be updated for the next two weeks, after which this site will be shut down. Please update any bookmarks you may have now!  
+The content from this site will be moving to a new home at [FPSLeaders.com](https://fpsleaders.com/). Both sites will be updated until June 5, after which this site will be shut down. Please update any bookmarks you may have now!  
 
 <!-- set class to 'btn-primary' to make it blue & 'btn-danger' to make it red -->
 <a class="btn btn-primary btn-block" href="#17-21-july-2019-movement-conference" role="button"><span id="MyTimer"></span> until the Movement begins - are you ready?</a>
 
 # This Week @ FPS
 
-## 22 May 2019 | *I am Jesus* Week 3  
+## Weekly Update for May 29, 2019  
 
-### Group Guide: [Mobile-Friendly Format](guide.html) or [Printable PDF](guide.pdf)  
-**Seniors**: there are no additional resources for week 16 of the *Own It* curriculum.  
-
-### Parent Workshop  
-We will be presenting *How to talk to your students about Jesus and Faith* in room 222 this week - Middle School parents from 6:20 to 6:50 and High School parents from 8:00 to 8:30.  
-
-### Movement Host Homes  
-This week is the deadline to [register your Movement host home information](#host-homes) - please get it done ASAP!  
-
-### Baptism Night  
-We will have our last FPS baptism night of the school year this week. If you have a student who cannot get baptized on the weekend and wants to take advantage of this, please [email Pastor Pete](mailto:PeteM@faithpromise.org)!  
-
-## 29 May 2019 | SKO!  
-Summer Kick Off this year will be an all nighter at [Main Event](https://www.mainevent.com/location/tennessee/knoxville/37923) with unlimited everything! Cost is only $30 for students, free for leaders using the promo code `SKOLEADER` - [register here now!](https://faithpromise.org/events/sko-summer-kick-off)  
+This week's group guide is posted, plus all the details about SKO - you can get it all now at <a href="https://fpsleaders.com">FPSLeaders.com</a>
 
 # 17-21 July 2019 | Movement Conference  
 <!--![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")-->
