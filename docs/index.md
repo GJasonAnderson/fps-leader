@@ -6,9 +6,9 @@ The content from this site will be moving to a new home at [FPSLeaders.com](http
 
 # This Week @ FPS
 
-## Weekly Update for May 29, 2019  
+## Weekly Update for 5-June-2019
 
-This week's group guide is posted, plus all the details about SKO - you can get it all now at <a href="https://fpsleaders.com">FPSLeaders.com</a>
+*I am Jesus* Week 5 small group guide is now available, plus a final call for Movement Host Homes, shaved ice news, and a note about name tags. Get it all now at [FPSLeaders.com](https://fpsleaders.com)!
 
 # 17-21 July 2019 | Movement Conference  
 <!--![Movement Logo](https://d16gqslxckkrrx.cloudfront.net/resized/480/images/events/movement-conference-2019-tall.jpg "Movement 2019 Logo")-->
