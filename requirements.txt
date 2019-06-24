@@ -7,4 +7,4 @@ mkdocs==1.0.4
 mkdocs-cinder==0.17.0
 PyYAML==5.1.1
 six==1.12.0
-tornado==6.0.2
+tornado==6.0.3
