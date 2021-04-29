@@ -1,0 +1,15 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    timezone: America/New_York
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: markdown
+    versions:
+    - 3.3.3
+  - dependency-name: jinja2
+    versions:
+    - 2.11.2
